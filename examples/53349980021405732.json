@@ -1,0 +1,625 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "fa",
+            "longText": "استان تهران، تهران، استان تهران، تهران، آیت الله کاشانی، خیابان بهنام،نبش زینالی،"
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "P8JC+469",
+            "shortText": "P8JC+469",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Mehran"
+                },
+                "name": "places/ChIJ-6R9JKT9jT8R2cfeUcr3-OM",
+                "placeId": "ChIJ-6R9JKT9jT8R2cfeUcr3-OM"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ofoq Kourosh Store"
+                },
+                "name": "places/ChIJc4u99KP9jT8RTBLg75cfspA",
+                "placeId": "ChIJc4u99KP9jT8RTBLg75cfspA",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 219.69173,
+                "travelDistanceMeters": 221.07922,
+                "types": [
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store",
+                    "supermarket"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Cafe Randoo"
+                },
+                "name": "places/ChIJxR4jBaT9jT8RYDHl3ifaBQ8",
+                "placeId": "ChIJxR4jBaT9jT8RYDHl3ifaBQ8",
+                "straightLineDistanceMeters": 257.38205,
+                "travelDistanceMeters": 305.95673,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Baran Store"
+                },
+                "name": "places/ChIJDceiraT9jT8RzpkF8ypQZY4",
+                "placeId": "ChIJDceiraT9jT8RzpkF8ypQZY4",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 198.91621,
+                "travelDistanceMeters": 198.51495,
+                "types": [
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store",
+                    "supermarket"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Reza Mosque"
+                },
+                "name": "places/ChIJxVFDiaP9jT8RJJVJmSbCK48",
+                "placeId": "ChIJxVFDiaP9jT8RJJVJmSbCK48",
+                "straightLineDistanceMeters": 278.72388,
+                "travelDistanceMeters": 277.21405,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Kaffa Coffee"
+                },
+                "name": "places/ChIJ1Sha0aL9jT8RRH4f9NzwOxw",
+                "placeId": "ChIJ1Sha0aL9jT8RRH4f9NzwOxw",
+                "straightLineDistanceMeters": 277.11743,
+                "travelDistanceMeters": 339.89914,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:00 AM – 11:30 PM",
+            "Tuesday: 10:00 AM – 12:00 AM",
+            "Wednesday: 10:00 AM – 11:30 PM",
+            "Thursday: 10:00 AM – 12:00 AM",
+            "Friday: 10:00 AM – 12:00 AM",
+            "Saturday: 10:00 AM – 11:30 PM",
+            "Sunday: 10:00 AM – 11:30 PM"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "fa",
+        "text": "ویچوبرگر"
+    },
+    "formattedAddress": "Tehran, استان تهران، تهران، استان تهران، تهران، آیت الله کاشانی، خیابان بهنام،نبش زینالی،، P8JC+469, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfdfed10e05a9:0xbd89862ff33824!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdfed10e05a9:0xbd89862ff33824!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=53349980021405732&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfdfed10e05a9:0xbd89862ff33824!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdfed10e05a9:0xbd89862ff33824!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=53349980021405732&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJqQUO0f79jT8RJDjzL4aJvQA",
+    "internationalPhoneNumber": "+98 21 4610 0825",
+    "liveMusic": false,
+    "location": {
+        "latitude": 35.7302827,
+        "longitude": 51.3206145
+    },
+    "name": "places/ChIJqQUO0f79jT8RJDjzL4aJvQA",
+    "nationalPhoneNumber": "021 4610 0825",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Amin Jalili",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJLsS6iKwQJcR1NpVud6pUtukZ928aSVXcZQx1nUwLI4GPyqw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117963074135402348581"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICE-JDycA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE-JDycA!2e10!4m2!3m1!1s0x3f8dfdfed10e05a9:0xbd89862ff33824",
+            "heightPx": 3024,
+            "name": "places/ChIJqQUO0f79jT8RJDjzL4aJvQA/photos/AZLasHqihZ82wmE3dboWDi9yP4_oe-U6M1d7AEU6xU2XOEpQ22SZoqbp3BpTrB3ALQVV9QfYMST-dO7Kl7noqvtNnV13mU5O7gmziW06Q2vqWyQRHU6_N6WWbhbeDkyvbfQE0DrbRxmJFBiDSVeC8HPjmTtYPLF4dgM6EH-QtXG_doQkZmwQxc0rzEaeMuvYz30UZ702AQ9rU3LmcmS2FVVU1rmvdixPRSOrLDOoXANXf1xDwEzsfmiZFNQ0_zwxs3ySeg7LBR46ypchg5dyxcelFrw_yRHqCrqbeyWlj_fCiinUhDKcyZE3JG6R8fZr5ci_wUbBWWVX8L2mF9IlTbohcQy6Oitbsot5iHOovkikWUxHlzm9o4sMASFNps10Fr5ADTg5tFC8wFe38_g_leeMGeu6VIaK4m7tjXMaiZDU_Rfq3A",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Amin Jalili",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJLsS6iKwQJcR1NpVud6pUtukZ928aSVXcZQx1nUwLI4GPyqw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117963074135402348581"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICE-JDysAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE-JDysAE!2e10!4m2!3m1!1s0x3f8dfdfed10e05a9:0xbd89862ff33824",
+            "heightPx": 4032,
+            "name": "places/ChIJqQUO0f79jT8RJDjzL4aJvQA/photos/AZLasHoxxYosTukYBy0aXssTvve9uWvVB9DfmV1bvrgylc85VB84zee_6e6PkCBc76Ovaf-Rk2-k0KxdqoMqkB0NJgQEeO6eBxG0cH8FrHCtTmq0sHeeh2VM3XRMEj_WX8kM7A9VzPSxFtX5AMa_INqx5GW0mv5WuzFIiNZUCFlDr85PbsXDqN8Gb1GBW2cZtnUig6scg2mRk5T839m-kJ8kku9OG3N6kEG0WiwFrAJGWzlTfRQla0718PbDIwKxXaoSfkX8-r1tDt0rndCNe2CFnJPYB9tCulMkz81sqPpvyiFMhjN_OWCC2hjRbbrZBmEPuddIQnKiF-mAdXr9D9B2Cn4iYhljrPDQb9GL5I65D7-VlwdMeMbUDQ_-dUWcrIPwWsrCmTJ8U7P4B6tfsM1kMbDntk6Y9NW2mPy2PisgD8Xn5FXp",
+            "widthPx": 3024
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "استان تهران، تهران، استان تهران، تهران، آیت الله کاشانی، خیابان بهنام،نبش زینالی،",
+            "P8JC+469"
+        ],
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.4,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:00 AM – 11:30 PM",
+            "Tuesday: 10:00 AM – 12:00 AM",
+            "Wednesday: 10:00 AM – 11:30 PM",
+            "Thursday: 10:00 AM – 12:00 AM",
+            "Friday: 10:00 AM – 12:00 AM",
+            "Saturday: 10:00 AM – 11:30 PM",
+            "Sunday: 10:00 AM – 11:30 PM"
+        ]
+    },
+    "reservable": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Sepideh Javadi",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocItM-8jTEHaLKOusbPOnQITTJMX70w3VllruH-iD3iIaUfNSQ=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/114843817348581553921/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsb1BLMVlnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsb1BLMVlnEAE!2m1!1s0x3f8dfdfed10e05a9:0xbd89862ff33824",
+            "name": "places/ChIJqQUO0f79jT8RJDjzL4aJvQA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsb1BLMVlnEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "از افتضاح هم بدتر بود یک ساعت زمان آماده سازی برای یه چیز کاملا یخ زده غرق در روغن بی کیفیت ماسیده شده نون خشک پر از سیر سرخ شده کاملا تند با بوی بسیار نامطبوع خواهشا برید دوتا جا پیتزا بخورید شاید بتونید درک کنید که این چیزی که فرستادید پیتزا نبود یه آموزش ببینید بعد از مردم پول بگیرید این چه وضعیه آخه خجالت نمی‌کشید اینو به اسم پیتزا میدید به مشتری براتون متاسفم"
+            },
+            "publishTime": "2023-11-12T17:04:14.985538Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "It was worse than awful. An hour of preparation time for something completely frozen, drowned in poor quality oil, dry bread, full of fried garlic, very spicy, with a very unpleasant smell. Please go eat pizza at two places. Maybe you can understand that what you sent was not pizza. Watch a tutorial. Then take money from people. What kind of situation is this? Aren't you ashamed to call this pizza. I feel sorry for you, the customer."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ahmad Yoozbashi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2ywEjR-AJbLNSJ48dytEFISA9dDaEEbMVptaXMw5VbvTDsHta=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/115218886066332343456/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN5eWZUZ3pBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5eWZUZ3pBRRAB!2m1!1s0x3f8dfdfed10e05a9:0xbd89862ff33824",
+            "name": "places/ChIJqQUO0f79jT8RJDjzL4aJvQA/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5eWZUZ3pBRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "محیط داخل خیلی کوچیکه و معمولا خرید آنلاین و بیرون بر انجام می شه. کیفیت غذا بسیار عالی هست فقط سس ها کوچک هستند و قیمت یه مقدار بالاتر هست. ولی مواد اولیه کاملا تازه هستند"
+            },
+            "publishTime": "2021-02-04T07:47:18.604345Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "4 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The interior is very small and usually online shopping and takeout is done. The quality of the food is excellent, but the sauces are small and the prices are a bit higher. But the ingredients are completely fresh."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "معصومه قربانی",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ7c9k2_b3lQX7944CX3N_dZTyeZFw3xjxuLatS6xqFEo8sjw=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/103163609082772659389/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURZdXFUTUxnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURZdXFUTUxnEAE!2m1!1s0x3f8dfdfed10e05a9:0xbd89862ff33824",
+            "name": "places/ChIJqQUO0f79jT8RJDjzL4aJvQA/reviews/ChZDSUhNMG9nS0VJQ0FnSURZdXFUTUxnEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "خیلی عالی وبا اخلاق\nچراانقدر خوبید شما ؟\nامتحان کنید محشره"
+            },
+            "publishTime": "2019-05-08T22:03:52.627729Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Very good and ethical\nWhy are you so good?\nTry it, it's amazing"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Amin ab",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIbcqo0il42mehwFDqYjIUhjsrfMdcIm9bOJtFNxGa77GPjUQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/106518363877938569085/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNOdHZMZ3hnRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNOdHZMZ3hnRRAB!2m1!1s0x3f8dfdfed10e05a9:0xbd89862ff33824",
+            "name": "places/ChIJqQUO0f79jT8RJDjzL4aJvQA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOdHZMZ3hnRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "کیفیت غذا خوبه، ارسالشون سریعه"
+            },
+            "publishTime": "2024-01-14T10:26:16.382678Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The food quality is good, delivery is fast."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Amin Jalili",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJLsS6iKwQJcR1NpVud6pUtukZ928aSVXcZQx1nUwLI4GPyqw=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/117963074135402348581/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURvcExyVnh3RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURvcExyVnh3RRAB!2m1!1s0x3f8dfdfed10e05a9:0xbd89862ff33824",
+            "name": "places/ChIJqQUO0f79jT8RJDjzL4aJvQA/reviews/ChdDSUhNMG9nS0VJQ0FnSURvcExyVnh3RRAB",
+            "publishTime": "2019-03-12T22:25:24.118088Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 years ago"
+        }
+    ],
+    "servesBrunch": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran، استان تهران، تهران، استان تهران، تهران، آیت الله کاشانی، خیابان بهنام،نبش زینالی،، P8JC+469",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 19,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.73162283029149,
+            "longitude": 51.3220280302915
+        },
+        "low": {
+            "latitude": 35.7289248697085,
+            "longitude": 51.3193300697085
+        }
+    },
+    "websiteUri": "https://www.instagram.com/wichoburger/",
+    "timestamp": 1765104817
+}

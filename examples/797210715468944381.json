@@ -1,0 +1,229 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "سر کوچه منقطبی پلاک ۵۷",
+            "shortText": "سر کوچه منقطبی پلاک ۵۷",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Shaghayegh Street",
+            "shortText": "Shaghayegh St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "North Tehransar"
+                },
+                "name": "places/ChIJVTORlYn7jT8Rj15P0pMDZWo",
+                "placeId": "ChIJVTORlYn7jT8Rj15P0pMDZWo"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Tehransar"
+                },
+                "name": "places/ChIJux_H2uv7jT8RteehOuWKWg4",
+                "placeId": "ChIJux_H2uv7jT8RteehOuWKWg4"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 21"
+                },
+                "name": "places/ChIJR4Qp0Oj6jT8RPqZojC5qdME",
+                "placeId": "ChIJR4Qp0Oj6jT8RPqZojC5qdME"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Fath Sports Complex"
+                },
+                "name": "places/ChIJ9VdHTo_7jT8RFl35AqgO9jA",
+                "placeId": "ChIJ9VdHTo_7jT8RFl35AqgO9jA",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 20.115604,
+                "travelDistanceMeters": 9.211227,
+                "types": [
+                    "establishment",
+                    "gym",
+                    "health",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Narges Park"
+                },
+                "name": "places/ChIJ2SEYMo_7jT8R85wyz2wOn6g",
+                "placeId": "ChIJ2SEYMo_7jT8R85wyz2wOn6g",
+                "straightLineDistanceMeters": 95.4497,
+                "travelDistanceMeters": 444.0249,
+                "types": [
+                    "establishment",
+                    "park",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Narges Playground"
+                },
+                "name": "places/ChIJAd0ovyT7jT8RRu2Ctz52XxM",
+                "placeId": "ChIJAd0ovyT7jT8RRu2Ctz52XxM",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 41.186058,
+                "travelDistanceMeters": 38.067783,
+                "types": [
+                    "amusement_park",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dastgheib high school"
+                },
+                "name": "places/ChIJrcjUt4j7jT8RrRRcs7Lr-l0",
+                "placeId": "ChIJrcjUt4j7jT8RrRRcs7Lr-l0",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 88.52973,
+                "travelDistanceMeters": 108.292175,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Saipa"
+                },
+                "name": "places/ChIJiziZdIb7jT8RIwERdF08Jjo",
+                "placeId": "ChIJiziZdIb7jT8RIwERdF08Jjo",
+                "straightLineDistanceMeters": 263.08517,
+                "travelDistanceMeters": 485.748,
+                "types": [
+                    "car_repair",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "fa",
+        "text": "کباب بناب"
+    },
+    "formattedAddress": "Tehran, Shaghayegh St, No. سر کوچه منقطبی پلاک ۵۷, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfbbef4abba67:0xb1042ec02a953fd!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfbbef4abba67:0xb1042ec02a953fd!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=797210715468944381&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfbbef4abba67:0xb1042ec02a953fd!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfbbef4abba67:0xb1042ec02a953fd!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=797210715468944381&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJZ7qr9L77jT8R_VOpAuxCEAs",
+    "location": {
+        "latitude": 35.7035395,
+        "longitude": 51.2573079
+    },
+    "name": "places/ChIJZ7qr9L77jT8R_VOpAuxCEAs",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "plusCode": {
+        "compoundCode": "P734+CW Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP734+CW"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Shaghayegh St, No. سر کوچه منقطبی پلاک ۵۷"
+        ],
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, Shaghayegh St, No. سر کوچه منقطبی پلاک ۵۷",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7050113302915,
+            "longitude": 51.2586952802915
+        },
+        "low": {
+            "latitude": 35.7023133697085,
+            "longitude": 51.2559973197085
+        }
+    },
+    "timestamp": 1765104789
+}

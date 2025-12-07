@@ -1,0 +1,360 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P75J+6PM",
+            "shortText": "P75J+6PM",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "District 21",
+            "shortText": "District 21",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Farhangian Town"
+                },
+                "name": "places/ChIJV6lUkDb8jT8RjhoLD3FUJpw",
+                "placeId": "ChIJV6lUkDb8jT8RjhoLD3FUJpw"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 21"
+                },
+                "name": "places/ChIJR4Qp0Oj6jT8RPqZojC5qdME",
+                "placeId": "ChIJR4Qp0Oj6jT8RPqZojC5qdME"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shahid Bahonar School"
+                },
+                "name": "places/ChIJf0xKyWv8jT8RY3GxElk0F-M",
+                "placeId": "ChIJf0xKyWv8jT8RY3GxElk0F-M"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Classic Western Hall"
+                },
+                "name": "places/ChIJ7QeNZ2r8jT8Rm2gEp7PBHj4",
+                "placeId": "ChIJ7QeNZ2r8jT8Rm2gEp7PBHj4",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 39.87701,
+                "travelDistanceMeters": 118.43335,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Koosha International Center of Applied Science & Technology"
+                },
+                "name": "places/ChIJ01qMZ2r8jT8RDX1NSs9Hpq8",
+                "placeId": "ChIJ01qMZ2r8jT8RDX1NSs9Hpq8",
+                "straightLineDistanceMeters": 121.600266,
+                "travelDistanceMeters": 125.32935,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "سرای محله فرهنگیان"
+                },
+                "name": "places/ChIJA0GT0Wv8jT8RLQZ10zw9KOg",
+                "placeId": "ChIJA0GT0Wv8jT8RLQZ10zw9KOg",
+                "straightLineDistanceMeters": 140.47777,
+                "travelDistanceMeters": 220.51636,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Mina Glass Manufacturing Company"
+                },
+                "name": "places/ChIJOVUijWr8jT8Ru9JmNqrBtFM",
+                "placeId": "ChIJOVUijWr8jT8Ru9JmNqrBtFM",
+                "straightLineDistanceMeters": 186.63626,
+                "travelDistanceMeters": 355.01794,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "نمایندگی مجاز ایران خودرو ۱۱۷۲"
+                },
+                "name": "places/ChIJiypi7bb9jT8RgzQoBtV_C4c",
+                "placeId": "ChIJiypi7bb9jT8RgzQoBtV_C4c",
+                "straightLineDistanceMeters": 303.0346,
+                "travelDistanceMeters": 362.21313,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "fa",
+        "text": "رستوران آتا"
+    },
+    "formattedAddress": "P75J+6PM District 21, Tehran, Tehran Province, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd792a4fc72f:0xe01549c0650ea90a!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd792a4fc72f:0xe01549c0650ea90a!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=16146893129684789514&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd792a4fc72f:0xe01549c0650ea90a!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd792a4fc72f:0xe01549c0650ea90a!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=16146893129684789514&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJL8dPKnn9jT8RCqkOZcBJFeA",
+    "internationalPhoneNumber": "+98 21 4451 7009",
+    "location": {
+        "latitude": 35.708087899999995,
+        "longitude": 51.2818058
+    },
+    "name": "places/ChIJL8dPKnn9jT8RCqkOZcBJFeA",
+    "nationalPhoneNumber": "021 4451 7009",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "hamid ranjbar",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKk7os-h12V8yE4oLggf1TOosjZXOsD64_62sdiEzrUVRpHWA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111936905683397914405"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkpKev3QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkpKev3QE!2e10!4m2!3m1!1s0x3f8dfd792a4fc72f:0xe01549c0650ea90a",
+            "heightPx": 4800,
+            "name": "places/ChIJL8dPKnn9jT8RCqkOZcBJFeA/photos/AZLasHqlGK9M0Dt9sKs2cVZz_1eb-N1b6MXCfFjwH50Z72pDyIGc29zTtVxujAo8g98_-eLgclkOaYI6k52ZMHizqSmP2w6z744zSbyauJUoHjVPs-2UisU6kTmLKdvuH3TQ8X3UMlZwVE8hcz62EXXv1EyHr3Etk3LIjJS0i-V3uCCT_kbWEoKWlcN8uXJEararc5n11Z6Ez5q8Yck83fgz8xd8LzjcHbEeriP9N8l7P3aQ33tUJbavA3ra5xiF3V-2uSSMBXo1F6IX_7lOWgZsHvRzorTvWKUE1Fj_7adL_8BXoQSGf-PEuBPJibRUxP_z3EO23irow84_VTOxdmPWqTuKKo1v9dr5FNtndXIJ0xSP6klacoroE19LLcTW1AufwUtjb_iQGl8-lMY0IHXBS2lf10TVcnvvhpdllR1VhiDg4cU",
+            "widthPx": 2700
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "P75J+6PM"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "District 21"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 3.2,
+    "reservable": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Sara Bakhshi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbM4Qn9ifHG7TxwrMn2HFFIqZGWbY4w4s1nkBzXdfT5qBCnaNn=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/106701717781370141978/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURJa3M3MHJRRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURJa3M3MHJRRRAB!2m1!1s0x3f8dfd792a4fc72f:0xe01549c0650ea90a",
+            "name": "places/ChIJL8dPKnn9jT8RCqkOZcBJFeA/reviews/ChdDSUhNMG9nS0VJQ0FnSURJa3M3MHJRRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "GOOD"
+            },
+            "publishTime": "2018-12-28T21:44:07.780559621Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "6 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "GOOD"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "SHOHREH ASKARI",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGTL6fKZmQemdQEhRRF3xIAun-qTeHV2eZNPJhqLna2riuvg=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/111954845179482164832/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuNDhqdGRnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuNDhqdGRnEAE!2m1!1s0x3f8dfd792a4fc72f:0xe01549c0650ea90a",
+            "name": "places/ChIJL8dPKnn9jT8RCqkOZcBJFeA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuNDhqdGRnEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "غذا خیلی خیلی سرد بود اصلا راضی نبودم همیشه هم به موقع سفارش می آوردن هم گرم ولی اینبار نه"
+            },
+            "publishTime": "2024-09-29T10:38:05.366401Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The food was very, very cold. I was not satisfied at all. They always deliver the order on time and hot, but not this time."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "علی متقی",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJDdtpdS19qsV7qKw48wsaTl22XcynGX_2g7roeAzqLxB0zw=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/102900248978562200385/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNhMDVQdEN3EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNhMDVQdEN3EAE!2m1!1s0x3f8dfd792a4fc72f:0xe01549c0650ea90a",
+            "name": "places/ChIJL8dPKnn9jT8RCqkOZcBJFeA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNhMDVQdEN3EAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "واقعاااااااا بدرد نخور و غذاهای مونده، پرسنل بی ادب، اصلااااا فاجعه ایی در قرن جدید میشه اسمش رو گذاشت"
+            },
+            "publishTime": "2021-08-09T08:49:38.258280Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "4 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Really useless, leftover food, rude staff, basically a disaster in the new century."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Mehran Sabzemeidani",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlDaH-ofAMGP4orHEgI65mqLRZfZNnxL5AD9QXaoJ-hj5tZNre=s128-c0x00000000-cc-rp-mo-ba8",
+                "uri": "https://www.google.com/maps/contrib/117225051973533395177/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsbkwycS13RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsbkwycS13RRAB!2m1!1s0x3f8dfd792a4fc72f:0xe01549c0650ea90a",
+            "name": "places/ChIJL8dPKnn9jT8RCqkOZcBJFeA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsbkwycS13RRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "کار راه اندازه ولی به شخصه از کیفیت غذا راضی نبودم"
+            },
+            "publishTime": "2023-12-01T10:34:20.584318Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "It worked, but I personally wasn't satisfied with the quality of the food."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Abolhassan D",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVelUwE_m4r_71DdtLtN5cKlIOUxHLO3EkJ-vD4As-lnTMdOxUw=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/102806906392551179833/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNzMmFfSG93RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNzMmFfSG93RRAB!2m1!1s0x3f8dfd792a4fc72f:0xe01549c0650ea90a",
+            "name": "places/ChIJL8dPKnn9jT8RCqkOZcBJFeA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzMmFfSG93RRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "اوایل افتتاح، کیفیتش بسیار خوب بود؛ اما بعدها به شدت افت کرد"
+            },
+            "publishTime": "2020-02-07T17:50:47.185367Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "5 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The quality was very good when it first opened, but it dropped drastically later."
+            }
+        }
+    ],
+    "servesBrunch": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "P75J+6PM District 21, Tehran",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 10,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7094815302915,
+            "longitude": 51.2831546302915
+        },
+        "low": {
+            "latitude": 35.7067835697085,
+            "longitude": 51.28045666970851
+        }
+    },
+    "timestamp": 1765104794
+}

@@ -1,0 +1,787 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "fa",
+            "longText": "جنب دوچرخه مقدم",
+            "shortText": "جنب دوچرخه مقدم",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "languageCode": "fa",
+            "longText": "امیر کبیر",
+            "shortText": "امیر کبیر",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "fa",
+            "longText": "منطقه ۲۲",
+            "shortText": "منطقه ۲۲",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "fa",
+            "longText": "تهران",
+            "shortText": "تهران",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "fa",
+            "longText": "شهرستان تهران",
+            "shortText": "شهرستان تهران",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 22"
+                },
+                "name": "places/ChIJad-enSXljT8RkdEMb4fmE3o",
+                "placeId": "ChIJad-enSXljT8RkdEMb4fmE3o"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Salamat Park"
+                },
+                "name": "places/ChIJT1aQEk37jT8R7-thAF78v-Y",
+                "placeId": "ChIJT1aQEk37jT8R7-thAF78v-Y"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "East Golestan"
+                },
+                "name": "places/ChIJoZ8I2rbkjT8RjEnseL0ejFM",
+                "placeId": "ChIJoZ8I2rbkjT8RjEnseL0ejFM"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bike & Motorcycle Shop - Moghaddam"
+                },
+                "name": "places/ChIJufs8YE37jT8Rb2LZPukEM9Y",
+                "placeId": "ChIJufs8YE37jT8Rb2LZPukEM9Y",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 23.58981,
+                "travelDistanceMeters": 23.039879,
+                "types": [
+                    "bicycle_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Maskan Bank"
+                },
+                "name": "places/ChIJjZT-ME37jT8Rny6Q2nKk1Zo",
+                "placeId": "ChIJjZT-ME37jT8Rny6Q2nKk1Zo",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 164.83318,
+                "travelDistanceMeters": 356.7546,
+                "types": [
+                    "atm",
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Railway MiniTown 63/20 KV SubStation"
+                },
+                "name": "places/ChIJczaNp1L7jT8RemMV2QulLoE",
+                "placeId": "ChIJczaNp1L7jT8RemMV2QulLoE",
+                "straightLineDistanceMeters": 62.293064,
+                "travelDistanceMeters": 267.80862,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sarmayeh Bank"
+                },
+                "name": "places/ChIJXzwrSrPkjT8R9M3nBIWR0Hk",
+                "placeId": "ChIJXzwrSrPkjT8R9M3nBIWR0Hk",
+                "straightLineDistanceMeters": 349.84125,
+                "travelDistanceMeters": 349.62775,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Tejarat Bank ATM"
+                },
+                "name": "places/ChIJA1T9K037jT8RoO3cCvvUT5g",
+                "placeId": "ChIJA1T9K037jT8RoO3cCvvUT5g",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 213.94543,
+                "travelDistanceMeters": 406.35025,
+                "types": [
+                    "atm",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T22:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 0,
+                    "minute": 0,
+                    "truncated": true
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 5,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 5,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 5,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 5,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 5,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 5,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 59,
+                    "truncated": true
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 5,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 5:30 AM – 1:30 AM",
+            "Tuesday: 5:30 AM – 1:30 AM",
+            "Wednesday: 5:30 AM – 1:30 AM",
+            "Thursday: 5:30 AM – 1:30 AM",
+            "Friday: 5:30 AM – 1:30 AM",
+            "Saturday: 5:30 AM – 1:30 AM",
+            "Sunday: 5:30 AM – 1:30 AM"
+        ]
+    },
+    "displayName": {
+        "languageCode": "en",
+        "text": "Pars Tabakhi"
+    },
+    "formattedAddress": "تهران، منطقه ۲۲، امیر کبیر، جنب دوچرخه مقدم، Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=4056781462431808244&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=4056781462431808244&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJWUxWYU37jT8R9DqjDz-VTDg",
+    "liveMusic": false,
+    "location": {
+        "latitude": 35.7479517,
+        "longitude": 51.2527561
+    },
+    "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "سلمان پرهیزکاری",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2D_Qk2iBJ0GWgNSZ2xD_0lYUYnRgIhCN1E63oTm-FB5uSZw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103074566136791057001"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_rNX8HA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_rNX8HA!2e10!4m2!3m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "heightPx": 1920,
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/photos/AZLasHqccrbbWrSAXDS3-6-AeVUDMRLwC4itumZU8xzHk6TWH0boLeE3WPePZaePjpaFh5tXmeYj5p7nV57Jlw4cGidIIxbgYwEsCVms5gMA5f8XOD-MHeE_qJXU9QzeBSdz5fyFq0BwvP1dokWH3LyV3F3HHNZTjyhFBQ8WcuTa7LbfMirHZpeZy05DcpWRaOY9UPjSJA_lhGv1YlJSuVKuluKlt4ah-cVEuYwiDuwbPSriXsCZRcTVzlWNNTMH3DQwSiChm_2udq9VphikYPGihVh9Mf3qMGMLQ9aDS6FxUq0W_Vwp0X_keNLD-r2tRpukP0lvzlFEekzul-9T5wFnldjnJEmW7wbuLeebQGJCgGHP8c58pL5IyRRo_868hPKiRQivnpGYl5IrDbHN1U49KELixYxGpFeTJuVU3Z9YAmBMNg",
+            "widthPx": 4160
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "سلمان پرهیزکاری",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2D_Qk2iBJ0GWgNSZ2xD_0lYUYnRgIhCN1E63oTm-FB5uSZw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103074566136791057001"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpzvCANQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpzvCANQ!2e10!4m2!3m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "heightPx": 1920,
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/photos/AZLasHrYqKz_SaJ_ZuuPl4uBpdIg-UgP3BxOWq237W0yKb7s337QKO0Djy1nfEf3K_3rmzNnEWnBrScdQqxAQkgfRG9MXWmWhYH5N5y4JdXqnfEGP5jhf4W5-xwh6rx78xPZTEfGZwvsKAf0ABRasBFT2HhCerC6H8-uSxPLObLHSlVS66QpsZWWIHkf_2tou4lS0T572CUDjAqyFn_IBtmQO9s_iNRHEMDQ2CcHETEldkA06gzYSVpToRDcyGmarHGeCl9Kw-LFr1sYyISiBH8exKgNR-KCMt5Ek_Df3vqspo2aZVf1Ru5LewY4z1pbaBCpjs7NvorWutxoC8gnWrI-EPTf4sNbXkohpJX0GuZol5MQvkkkq8sUTBrhnEkF_T588912t3xvyGh97sGPydghABmvesXSNYC3_Q62l5Zl-cs",
+            "widthPx": 4160
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "سلمان پرهیزکاری",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2D_Qk2iBJ0GWgNSZ2xD_0lYUYnRgIhCN1E63oTm-FB5uSZw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103074566136791057001"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpzvDq3AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpzvDq3AE!2e10!4m2!3m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "heightPx": 4160,
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/photos/AZLasHoqCq4pqYJnTCV8c-9wo_wDp61mU0EyTEhHrKRRTwePqlip7EZ7lU4kn0K5QSaDN2VQiw1OJJA3SKRMbv0pHFR_NfIB7XZD8gaL0_r7fznh8Bq0OR458IfgWxE77dPbFnVmTc6UypP3blfSK2xaou-SYBO1aYH4RoHExSikiGxLpTK5GZrA-ciHPr0eEwOQIV2UKfT72sCzN0Ghrsg2CkhZB1Rz39MolhHcMA4qSkr5SLvHm0j0dNPj2eW8YH38F_OgdOtnxVZRo4anVK2X1mYH00yf0-ersHx5P0fo_h4ljUBNwyc5li-QPa7T41qnxaMFtE014vfCnFVj1Io5HOHZODhWZXF6obptVcNWmgGDYT4ULUOKQsuOTFhk1CXUeLzL5PoP-OXpLSHxwaCaAafsbMKgO7rl4v_dX7rW8-6lRpt-",
+            "widthPx": 3120
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "سلمان پرهیزکاری",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2D_Qk2iBJ0GWgNSZ2xD_0lYUYnRgIhCN1E63oTm-FB5uSZw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103074566136791057001"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC2t6yIqAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2t6yIqAE!2e10!4m2!3m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "heightPx": 4128,
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/photos/AZLasHoRcG1Sa3adFY9Hl0Si3l680T0Flg7TEcG4DtHmCVMqWNyW1KTXjN5_J_T001h8lvG6-J-HtEh2n50lOH9hihy23SONhUb7Td_vM9dw1O_HQAl9syjTImJd-nS_BxZxowZ1ICGd8AlkrGWQpBnxtazeLF0PZ5zINcm20qDmqG-POTOb8zG_VB6zF8WRaC5bwZ-NYmtC0t79RBIAmRTWf9Fry4XYF8u_IJjoKHmXSI1eMtzE4HLrOPeIVKzLyfnWVxaddccnSjWQRSJOPcAj6SPhslbec8hlAoAZlN9axO5W1ZnUWqEh4A-URnAul8FzL7znHU4JJtvZzk3shIn5f8YSUJ-k4j-AnITngruiBTS2jKQ4VmcOIOabrrOqVF00Lt1HB7NTSs6PDO7Ul0g45VI7VXi3It7ajm89z78xiBUF-ryL",
+            "widthPx": 2322
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "سلمان پرهیزکاری",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2D_Qk2iBJ0GWgNSZ2xD_0lYUYnRgIhCN1E63oTm-FB5uSZw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103074566136791057001"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_rJW-Bg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_rJW-Bg!2e10!4m2!3m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "heightPx": 4160,
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/photos/AZLasHrutodHDgh32foatmqUZSUtu6-Ze7tgPnyLt0F5x9JwDSiAoVz2SeOiUsAGYcIDa0pdz0r65gOZ7IYMhra0xuylIz5Fh0vofQuglgUpPw24hXC9c59RCSVOHh5AEOOTdJ9v7ti9hCV7dE98vqkqsCg1vu7cfBV56u1HyO4kf03apcAk9zs5rHd_ZSjdJSM6eypm87cmCM4vK5vJnAitjHM1INcYj34a7kqhYlYgVBcY_mc6_jXfzqogeaXFa2vZrgdVCSA8lpI2fXtbHo-W8ZzLPKMYYkjH3Rqvu5YoptcAyfIlMUqT4dp2bdMqTsNTKugjNTv4kl_9iVMwfbqzYSIB6gYs8_ZGNKH2NZBcKVk2gxOcewq2AvmvoGGU7lh34eN-0cpfb9DdQ1GoAzqFLrL6Tt-wv7VcyKDIeBoREpTLVg",
+            "widthPx": 1920
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "سلمان پرهیزکاری",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2D_Qk2iBJ0GWgNSZ2xD_0lYUYnRgIhCN1E63oTm-FB5uSZw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103074566136791057001"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICp6vGskAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICp6vGskAE!2e10!4m2!3m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "heightPx": 1920,
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/photos/AZLasHpK2hGV7u6KrQ4Fr-avzw3VzAv9FOxAmLfs6YMFti7Tu623gF8vuiPWwTkcOeerIKmKJsDE7SqWBC8ofXz1sNYLP7Wy3yRt7aVCCizxnRncNz1hcSqg3ilaObMl1KDSbpFFiFZPorNGtOLVB6CUoFUR1ZefzDBuauk9_BizrtmfMakcLqMti8g-UvSjMU0pJm7wrFCW-VOngQNi3WqG61ocEKJNPWQgfLZpTUcbIrtTVlo5b4e3Zkbk7-PU_Pk-OGF_c4wzETy2UrX4Z3a4iLY5KkZubFuh_iF8URsJEp2Z--ZaODaca3eg6tGy6ctzsdmFEf_cdAOp3Q3c61WxR63QKCM1-CcGXt07-ZYrAFCYmtaqTByjvfs90CYZ8EUMzLRRHPzfKqfHfaD5HXCoTgnzBpQwSGbmqQ-MdxRZ079fqEc",
+            "widthPx": 4160
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "سلمان پرهیزکاری",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2D_Qk2iBJ0GWgNSZ2xD_0lYUYnRgIhCN1E63oTm-FB5uSZw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103074566136791057001"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpzvDEfA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpzvDEfA!2e10!4m2!3m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "heightPx": 4160,
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/photos/AZLasHpPuLJdGXfetpq98guK1ChdFHYEQmz2S0lAODqb1y1U7KnxEBq7wwqcVorO1iKsqcRuc9VTqsOSqFdDeR9GAODajcy6uVLLZ3xas7B0m8wW7UCApx31LYFXg6jJZxYjunAlWmvydSR6WgHP1UZ2mT4iR7G6NRPIQGM_Z79EIhTwpwSIcALh5TOlMqrsWx_CUs2zunGxTMeIIk42K5GN5vRpYfbfPNVemgldpjiRN4hMtYVD3yWkn3iaUAZPXHwdIuU2GXs4zl8Njw08fS83-DvDX645SZv7FngXRuHHfEEPlqzzzMFCuoUfzKkIsWCcVHeYS-M_1CdE4PcXdKNt4aQ7dZbkYcCRXBfqIpKzFEwaaKs6sTMXXRR2YbrQGsb7vSLl1adOn8l8o2fz2TcQBr70P63hSRRBtz3jYhsRHS8qeQ",
+            "widthPx": 3120
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "سلمان پرهیزکاری",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2D_Qk2iBJ0GWgNSZ2xD_0lYUYnRgIhCN1E63oTm-FB5uSZw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103074566136791057001"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_rJWkxQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_rJWkxQE!2e10!4m2!3m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "heightPx": 1560,
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/photos/AZLasHoMOMzbNl6pLqzTf2JVlYd-iueHO8gCZRUztyoX5i4zFpXmnWQVmagPADVMSbJD2ilxsD_9ZnV6if1xDAtbNmwaaLbkUL_7dzhfWPXpxeVOz97Msqu3xztWFno14arb-6CA1-BTPyK4hMRCjBmeDzEvbcgHuO2WWfxpqKWYdVecSSPo2Ua6caRVJ1Sf8FSiN964eosgokYIiX48LS_sGVTno4JDfDW0pu-64UTCdpzjJvkDpsm_xxnIY0dS-DwPybT4hhoSkvFPFTk-Rc1JmFAYOxQfLPQWEUlAOHvBLb5cYHsRnzITao-SEO5wQtXB2fGK6NlEHIgZvshE-xcD_466oTgOFTn9RQiSihYaAqLx6ykEjCsIP6aJ-I3QZAlP2Qg4-8nHDRjkJLgH8cr-PQXXCJM-sRCOtUyR-uLJnstUhWvh",
+            "widthPx": 720
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "سلمان پرهیزکاری",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2D_Qk2iBJ0GWgNSZ2xD_0lYUYnRgIhCN1E63oTm-FB5uSZw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103074566136791057001"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_rNXj0wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_rNXj0wE!2e10!4m2!3m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "heightPx": 4160,
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/photos/AZLasHqdafzQ5HTNKUbNrQBIZwVQkfGSOang-ttZgYmEWWgZHh-pr0Q6-ydkonfUAaVtRh5iUc90jg4SsGzIs5oKI0tJT5a8l-KeDc6M82SWjlQcFKmGhPee7n9OTPPSUi2t7EaH4p4tMyF-xcgv-auTMTyy1nioxAIhKxAUTzbluu45F3zosv3Wr_yyGOv9enqWJZJgR3DMNh7v4HsjVchHzOlfjDXybATt2Lk309d2cBpFHrSWuWu_5kbr2az4w5mcSOYccuYaFbJ2FWrz3RMkCwKWJt9DCiM3MvQ1naJD3ANslvCvdmNfcMagwPe8yKBktRWX4IT2aoDU1Covy90hj2s1wG0OIGvnsRy-0TS3kdyBHO4k6GLPdueqvqSP5Z6jIxDQloSgtWmHM_zaHpvaCahaBk62KTAwVsPMzRs4m5vRLnxr",
+            "widthPx": 3120
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "سلمان پرهیزکاری",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2D_Qk2iBJ0GWgNSZ2xD_0lYUYnRgIhCN1E63oTm-FB5uSZw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103074566136791057001"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9-ZGe1wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9-ZGe1wE!2e10!4m2!3m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "heightPx": 4160,
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/photos/AZLasHoh6dv4kAvb_JitWExwLrAtbfkBswvvmozpwfA5283BTpBeUCrfj6QeNHLmsXXi0Efmd-_21__7bQ10vhAdBfOkKiYiVI12bqnudzQMF4Jmn9aFBujT4O_XY2C50KWp7RnunRGqogsqZxk8NPLqBUpk0woY-FY_-8-Q8735LHp0qhFpVLK2YdxO9yU5kQusU3yP3vZyds7vaGD1VwzDe2sN_yf9wdMdlM_gOnr-SiIEUvNnEsR3PivIzA0yV6-ltPRXYNmfdBFCkc1a_0YDRRFtlBA62eoOfK9VDXjFU0IArmOrIOvaUoX8jcOyeaQFGBkZehCRA1ylsuWWn6T7As5ZVBCLqHiVeGykJQUwpvDM_wT3vLxaFgNDzvJtUuiJQBhARcXbX0FCHDjkzYO7TWdi0YR9ixO91qxHmheM7PcHf5Rm",
+            "widthPx": 1920
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "P7X3+54 Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP7X3+54"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "امیر کبیر",
+            "جنب دوچرخه مقدم"
+        ],
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "District 22"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 3.9,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T22:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 5,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 5,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 5,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 5,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 5,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 5,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 1,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 5,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 5:30 AM – 1:30 AM",
+            "Tuesday: 5:30 AM – 1:30 AM",
+            "Wednesday: 5:30 AM – 1:30 AM",
+            "Thursday: 5:30 AM – 1:30 AM",
+            "Friday: 5:30 AM – 1:30 AM",
+            "Saturday: 5:30 AM – 1:30 AM",
+            "Sunday: 5:30 AM – 1:30 AM"
+        ]
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "A Rezapour",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgoWxHRoov67PVzEtLfPaH8vLeKn7y9Z6CQnTa2z6NkwNnYg=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/103827843285540094552/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREc09YRjlRRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREc09YRjlRRRAB!2m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/reviews/ChdDSUhNMG9nS0VJQ0FnSUREc09YRjlRRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "سیرابی ای که ازشون گرفتم خیلی بو میداد، بچه کوچیکمم بعد خوردنش مسموم شد ، خودمون فقط دلپیچه گرفتیم"
+            },
+            "publishTime": "2024-04-04T17:16:41.870988Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The syrup I got from them smelled so bad, my little child got poisoned after eating it, we just got sick."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "elnaz pishrochi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlgU56u7JuFg_DwMjgrAdrFZJhZp-mfOzXKRNedozb1XiN4lY=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/102660415498837833670/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4cF9IRTFBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4cF9IRTFBRRAB!2m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4cF9IRTFBRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "طباخی قدیمیه ولی غذاش خوبه انتظار محیط خاصی نداشته باشید چایی های خوش عطری دارن حتما امتحان کنید"
+            },
+            "publishTime": "2023-06-16T09:38:09.946393Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "It's an old restaurant, but the food is good. Don't expect a special atmosphere. They have delicious teas. Be sure to try them."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "سلمان پرهیزکاری",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2D_Qk2iBJ0GWgNSZ2xD_0lYUYnRgIhCN1E63oTm-FB5uSZw=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/103074566136791057001/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNCcGNqZEJnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCcGNqZEJnEAE!2m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCcGNqZEJnEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "خیلی عالی بود دمشون گرم"
+            },
+            "publishTime": "2022-12-30T18:06:11.091880Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "It was great, they were warm."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "mostafa hasanvand",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURHPUPX2AGZirTCUG4cym7FXYriczIw5sepqoU1-xTzmPdB12w=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/100613408660104666935/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN1NzZiSDdnRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN1NzZiSDdnRRAB!2m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1NzZiSDdnRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "خیلی خوبه"
+            },
+            "publishTime": "2022-08-09T14:48:48.283467Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Very good."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Mohammad Ghorbani",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpJjpscR_dARneVzYitQ3kkYfz9whjgpunA6bUnZ10vDh2nVdptg=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/105577595256962638486/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNnMWVUeWJ3EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNnMWVUeWJ3EAE!2m1!1s0x3f8dfb4d61564c59:0x384c953f0fa33af4",
+            "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnMWVUeWJ3EAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "کیفست متوسط"
+            },
+            "publishTime": "2018-02-19T07:52:38.672Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "7 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Average quality"
+            }
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, District 22، امیر کبیر، جنب دوچرخه مقدم",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 7,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.74935608029149,
+            "longitude": 51.2540979302915
+        },
+        "low": {
+            "latitude": 35.7466581197085,
+            "longitude": 51.2513999697085
+        }
+    },
+    "timestamp": 1765104853
+}

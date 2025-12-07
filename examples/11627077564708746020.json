@@ -1,0 +1,225 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P7X5+HH2",
+            "shortText": "P7X5+HH2",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "بازارچه",
+            "shortText": "بازارچه",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shahrak-e-Cheshmeh"
+                },
+                "name": "places/ChIJDVhi8FT7jT8RTvqRvNXAx8o",
+                "placeId": "ChIJDVhi8FT7jT8RTvqRvNXAx8o"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 22"
+                },
+                "name": "places/ChIJad-enSXljT8RkdEMb4fmE3o",
+                "placeId": "ChIJad-enSXljT8RkdEMb4fmE3o"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "دبستان علی مهدوی"
+                },
+                "name": "places/ChIJj9DEUR_7jT8Ryd4MYMDi4Yw",
+                "placeId": "ChIJj9DEUR_7jT8Ryd4MYMDi4Yw",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 129.53305,
+                "travelDistanceMeters": 198.92877,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Gharb Aquarium"
+                },
+                "name": "places/ChIJP5kDWbn9jT8RZlQZLxbegIg",
+                "placeId": "ChIJP5kDWbn9jT8RZlQZLxbegIg",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 61.66481,
+                "travelDistanceMeters": 61.61483,
+                "types": [
+                    "establishment",
+                    "pet_store",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "املاک برج عقیق"
+                },
+                "name": "places/ChIJhWQBC4P7jT8RXfZC5pl6rt8",
+                "placeId": "ChIJhWQBC4P7jT8RXfZC5pl6rt8",
+                "straightLineDistanceMeters": 287.76144,
+                "travelDistanceMeters": 432.65677,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "real_estate_agency"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "دبیرستان دخترانه شهدای شهرک سرچشمه"
+                },
+                "name": "places/ChIJfzm2L4j7jT8RfVySJfU0h_0",
+                "placeId": "ChIJfzm2L4j7jT8RfVySJfU0h_0",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 102.596054,
+                "travelDistanceMeters": 164.21724,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "خشکشویی چشمه"
+                },
+                "name": "places/ChIJp-nIDB77jT8RLgTiWV_Bshg",
+                "placeId": "ChIJp-nIDB77jT8RLgTiWV_Bshg",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 127.60449,
+                "travelDistanceMeters": 126.77864,
+                "types": [
+                    "establishment",
+                    "laundry",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+        "languageCode": "en",
+        "text": "کبابی محلی"
+    },
+    "formattedAddress": "Tehran Province, Tehran, بازارچه, P7X5+HH2, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfb000475022f:0xa15bad713460f324!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfb000475022f:0xa15bad713460f324!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=11627077564708746020&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfb000475022f:0xa15bad713460f324!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfb000475022f:0xa15bad713460f324!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=11627077564708746020&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJLwJ1BAD7jT8RJPNgNHGtW6E",
+    "location": {
+        "latitude": 35.7488441,
+        "longitude": 51.258863899999994
+    },
+    "name": "places/ChIJLwJ1BAD7jT8RJPNgNHGtW6E",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true
+    },
+    "postalAddress": {
+        "addressLines": [
+            "بازارچه",
+            "P7X5+HH2"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, بازارچه, P7X5+HH2",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.750168180291496,
+            "longitude": 51.26029268029149
+        },
+        "low": {
+            "latitude": 35.7474702197085,
+            "longitude": 51.2575947197085
+        }
+    },
+    "timestamp": 1765104853
+}

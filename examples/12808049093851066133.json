@@ -1,0 +1,504 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "M88G+R4C",
+            "shortText": "M88G+R4C",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "16th Street",
+            "shortText": "16th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "District 16",
+            "shortText": "District 16",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parvaz Town"
+                },
+                "name": "places/ChIJpzIbIK39jT8RbaSDa0D_Ra0",
+                "placeId": "ChIJpzIbIK39jT8RbaSDa0D_Ra0"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdoos Park"
+                },
+                "name": "places/ChIJE936tK39jT8Rpd7MQWjzYtU",
+                "placeId": "ChIJE936tK39jT8Rpd7MQWjzYtU",
+                "straightLineDistanceMeters": 195.46626,
+                "travelDistanceMeters": 318.81003,
+                "types": [
+                    "establishment",
+                    "park",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Omid Cafe"
+                },
+                "name": "places/ChIJSVoz-W79jT8RMO1aIX-guTo",
+                "placeId": "ChIJSVoz-W79jT8RMO1aIX-guTo",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 55.487625,
+                "travelDistanceMeters": 56.607613,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parvaneh Sangak Bakery"
+                },
+                "name": "places/ChIJSZKVHwj9jT8Rtf_3bp3-eds",
+                "placeId": "ChIJSZKVHwj9jT8Rtf_3bp3-eds",
+                "straightLineDistanceMeters": 338.4477,
+                "travelDistanceMeters": 465.68176,
+                "types": [
+                    "bakery",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Salman Farsi Primary School"
+                },
+                "name": "places/ChIJN3Vg7LL9jT8RlvccItmrLPY",
+                "placeId": "ChIJN3Vg7LL9jT8RlvccItmrLPY",
+                "straightLineDistanceMeters": 318.18542,
+                "travelDistanceMeters": 318.19327,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "primary_school",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr Abolghazi (Kimiagar) Pharmacy"
+                },
+                "name": "places/ChIJ9dgl_Kz9jT8R40YdwoIoGKE",
+                "placeId": "ChIJ9dgl_Kz9jT8R40YdwoIoGKE",
+                "straightLineDistanceMeters": 144.5001,
+                "travelDistanceMeters": 202.93188,
+                "types": [
+                    "drugstore",
+                    "establishment",
+                    "health",
+                    "pharmacy",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:29:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 11:59 PM",
+            "Tuesday: 11:00 AM – 11:59 PM",
+            "Wednesday: 11:00 AM – 11:59 PM",
+            "Thursday: 11:00 AM – 11:59 PM",
+            "Friday: 11:00 AM – 11:59 PM",
+            "Saturday: 11:00 AM – 11:59 PM",
+            "Sunday: 11:00 AM – 11:59 PM"
+        ]
+    },
+    "displayName": {
+        "languageCode": "en",
+        "text": "اکبرجوجه الما"
+    },
+    "formattedAddress": "Tehran Province, Tehran, District 16, 16th St, M88G+R4C, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd003558bc07:0xb1bf54ca78c1af15!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd003558bc07:0xb1bf54ca78c1af15!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=12808049093851066133&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd003558bc07:0xb1bf54ca78c1af15!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd003558bc07:0xb1bf54ca78c1af15!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=12808049093851066133&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJB7xYNQD9jT8RFa_BeMpUv7E",
+    "internationalPhoneNumber": "+98 21 4410 0820",
+    "location": {
+        "latitude": 35.724624299999995,
+        "longitude": 51.307765
+    },
+    "name": "places/ChIJB7xYNQD9jT8RFa_BeMpUv7E",
+    "nationalPhoneNumber": "021 4410 0820",
+    "postalAddress": {
+        "addressLines": [
+            "16th St",
+            "M88G+R4C"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "District 16"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:29:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 11:59 PM",
+            "Tuesday: 11:00 AM – 11:59 PM",
+            "Wednesday: 11:00 AM – 11:59 PM",
+            "Thursday: 11:00 AM – 11:59 PM",
+            "Friday: 11:00 AM – 11:59 PM",
+            "Saturday: 11:00 AM – 11:59 PM",
+            "Sunday: 11:00 AM – 11:59 PM"
+        ]
+    },
+    "shortFormattedAddress": "Tehran, District 16, 16th St, M88G+R4C",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.72599243029149,
+            "longitude": 51.309119180291496
+        },
+        "low": {
+            "latitude": 35.7232944697085,
+            "longitude": 51.3064212197085
+        }
+    },
+    "timestamp": 1765104805
+}

@@ -1,0 +1,493 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P8G9+W75",
+            "shortText": "P8G9+W75",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "fa",
+            "longText": "برزگر",
+            "shortText": "برزگر",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE",
+                "placeId": "ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJQ-413779jT8R7lWt_dHTS7s",
+                "placeId": "ChIJQ-413779jT8R7lWt_dHTS7s"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ali ibn Abi taleb Mosque"
+                },
+                "name": "places/ChIJy2sTf6_9jT8RhWSqNLjbSRQ",
+                "placeId": "ChIJy2sTf6_9jT8RhWSqNLjbSRQ",
+                "straightLineDistanceMeters": 310.77844,
+                "travelDistanceMeters": 398.56915,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ayande Bartar High School"
+                },
+                "name": "places/ChIJzwpRiLz9jT8RDQFMM3-GE3Y",
+                "placeId": "ChIJzwpRiLz9jT8RDQFMM3-GE3Y",
+                "straightLineDistanceMeters": 97.72619,
+                "travelDistanceMeters": 160.34747,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school",
+                    "secondary_school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Berelian Ice cream & Juice Bar"
+                },
+                "name": "places/ChIJ_0WE06T9jT8Rs8dYIs_VEn0",
+                "placeId": "ChIJ_0WE06T9jT8Rs8dYIs_VEn0",
+                "straightLineDistanceMeters": 79.69827,
+                "travelDistanceMeters": 103.50874,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Iran Khodro"
+                },
+                "name": "places/ChIJabopE6X9jT8R3mHiYPxdyvQ",
+                "placeId": "ChIJabopE6X9jT8R3mHiYPxdyvQ",
+                "straightLineDistanceMeters": 205.32858,
+                "travelDistanceMeters": 272.70932,
+                "types": [
+                    "car_repair",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Pasargad tile and ceramic"
+                },
+                "name": "places/ChIJB2swE6X9jT8Re3qZD0L383A",
+                "placeId": "ChIJB2swE6X9jT8Re3qZD0L383A",
+                "straightLineDistanceMeters": 203.7679,
+                "travelDistanceMeters": 272.40744,
+                "types": [
+                    "establishment",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 59,
+                    "truncated": true
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 12:00 AM",
+            "Tuesday: 11:30 AM – 12:00 AM",
+            "Wednesday: 11:30 AM – 12:00 AM",
+            "Thursday: 11:30 AM – 12:00 AM",
+            "Friday: 11:30 AM – 12:00 AM",
+            "Saturday: 11:30 AM – 12:00 AM",
+            "Sunday: 11:30 AM – 12:00 AM"
+        ]
+    },
+    "displayName": {
+        "languageCode": "en",
+        "text": "khane jigar"
+    },
+    "formattedAddress": "Tehran, برزگر، P8G9+W75, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd0017107faf:0xaec6271e3b33b9b2!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd0017107faf:0xaec6271e3b33b9b2!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=12593796418783918514&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd0017107faf:0xaec6271e3b33b9b2!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd0017107faf:0xaec6271e3b33b9b2!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=12593796418783918514&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJr38QFwD9jT8RsrkzOx4nxq4",
+    "internationalPhoneNumber": "+98 21 4402 6003",
+    "location": {
+        "latitude": 35.727267,
+        "longitude": 51.3182288
+    },
+    "name": "places/ChIJr38QFwD9jT8RsrkzOx4nxq4",
+    "nationalPhoneNumber": "021 4402 6003",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "postalAddress": {
+        "addressLines": [
+            "برزگر",
+            "P8G9+W75"
+        ],
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 12:00 AM",
+            "Tuesday: 11:30 AM – 12:00 AM",
+            "Wednesday: 11:30 AM – 12:00 AM",
+            "Thursday: 11:30 AM – 12:00 AM",
+            "Friday: 11:30 AM – 12:00 AM",
+            "Saturday: 11:30 AM – 12:00 AM",
+            "Sunday: 11:30 AM – 12:00 AM"
+        ]
+    },
+    "servesDinner": true,
+    "shortFormattedAddress": "Tehran، برزگر، P8G9+W75",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7286360802915,
+            "longitude": 51.319587830291496
+        },
+        "low": {
+            "latitude": 35.7259381197085,
+            "longitude": 51.316889869708504
+        }
+    },
+    "timestamp": 1765104817
+}

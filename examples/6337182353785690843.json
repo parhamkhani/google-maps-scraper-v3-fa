@@ -1,0 +1,387 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "fa",
+            "longText": "Tehran Province, Tehran, East Tehransar, جاده مخصوص کرج، پلاک 6th Km،"
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Azadi Town"
+                },
+                "name": "places/ChIJvfsCs2_8jT8RODV5P-5G0OA",
+                "placeId": "ChIJvfsCs2_8jT8RODV5P-5G0OA"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 21"
+                },
+                "name": "places/ChIJR4Qp0Oj6jT8RPqZojC5qdME",
+                "placeId": "ChIJR4Qp0Oj6jT8RPqZojC5qdME"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shahr Farsh"
+                },
+                "name": "places/ChIJBekD9P7vjT8RBIt53VUV5k8",
+                "placeId": "ChIJBekD9P7vjT8RBIt53VUV5k8",
+                "straightLineDistanceMeters": 77.58001,
+                "travelDistanceMeters": 354.232,
+                "types": [
+                    "establishment",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Home appliances city"
+                },
+                "name": "places/ChIJyzhZuPX9jT8Rt4I5tEmZ1us",
+                "placeId": "ChIJyzhZuPX9jT8Rt4I5tEmZ1us",
+                "straightLineDistanceMeters": 223.7143,
+                "travelDistanceMeters": 348.3249,
+                "types": [
+                    "establishment",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Kooye Nasr"
+                },
+                "name": "places/ChIJo23uG3r8jT8RkEzzHBwWsho",
+                "placeId": "ChIJo23uG3r8jT8RkEzzHBwWsho",
+                "straightLineDistanceMeters": 217.86232,
+                "travelDistanceMeters": 346.09842,
+                "types": [
+                    "bus_station",
+                    "establishment",
+                    "point_of_interest",
+                    "transit_station"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Iran Khodro Engine R&D and Manufacturing Co. (IPCo)"
+                },
+                "name": "places/ChIJ98EBPnf8jT8R9anKXeouY2U",
+                "placeId": "ChIJ98EBPnf8jT8R9anKXeouY2U",
+                "straightLineDistanceMeters": 306.43253,
+                "travelDistanceMeters": 482.7126,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Reza Mosque"
+                },
+                "name": "places/ChIJl4kr4P0Djj8RVfMDfR7YyDw",
+                "placeId": "ChIJl4kr4P0Djj8RVfMDfR7YyDw",
+                "straightLineDistanceMeters": 366.24713,
+                "travelDistanceMeters": 472.22528,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "fa",
+        "text": "کافه آرشیو"
+    },
+    "formattedAddress": "Tehran, Tehran Province, Tehran, East Tehransar, جاده مخصوص کرج، پلاک 6th Km،، Iran",
+    "goodForGroups": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd30b56d5e57:0x57f231c662451adb!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd30b56d5e57:0x57f231c662451adb!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=6337182353785690843&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd30b56d5e57:0x57f231c662451adb!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd30b56d5e57:0x57f231c662451adb!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=6337182353785690843&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJV15ttTD9jT8R2xpFYsYx8lc",
+    "internationalPhoneNumber": "+98 21 4450 3340",
+    "location": {
+        "latitude": 35.7074138,
+        "longitude": 51.269070199999994
+    },
+    "name": "places/ChIJV15ttTD9jT8R2xpFYsYx8lc",
+    "nationalPhoneNumber": "021 4450 3340",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Pedram Poorshaghaghi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3Ff_Xx8GyU_qH-kDt0MzzNCn9yRa-iIPa1m-46ealU2ixTOGU=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106171010488862032640"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICM6sfB_wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM6sfB_wE!2e10!4m2!3m1!1s0x3f8dfd30b56d5e57:0x57f231c662451adb",
+            "heightPx": 1120,
+            "name": "places/ChIJV15ttTD9jT8R2xpFYsYx8lc/photos/AZLasHqtaWlrnx-VgLfu4izPwSGpxKeTJB0tPMSBQwocI_9OObZ4GNVNPTRu7hV5X4R3pxWKomhCcbBWorcAQUOMhU5C1zpN6euLrXMgd-gM_ToQdKcJCxsb6IklYEObCCSBBkKME7plZ9z8KT51gEFK8FY15X3iwwpvlJVr_2DMHdGVY6zOoBLE6fhl9348c1cWA85my0-DfsSCgGvb18O4tWnQ2TCZ3AvXH4c3uizbuHrRvDUHSY7XC1APPnS4cdQnvrtBwl3Oya9iT_M4Eve1sjLl7sNmIFlDCW2DFiy4g0cM2psPLMxuyarRX3s41Li5Bu75x1mG1ejDGhPQV9A9lFZcDw8iv0D18zWZXHAZbhbyqzR_e14l2FANYUZnZxOQmB_8sE2WSZUHjfYprU3GKOHdUPVbSPyfOaJkgkiXQwNHKUOK",
+            "widthPx": 1280
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ghazale Talebi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIzTcS96-IEdzVEQM3Wj6x6SOmLYyv1AgCjOYZvmPZ5nndyA3m=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117408152807618765011"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICh6NWXmQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh6NWXmQE!2e10!4m2!3m1!1s0x3f8dfd30b56d5e57:0x57f231c662451adb",
+            "heightPx": 667,
+            "name": "places/ChIJV15ttTD9jT8R2xpFYsYx8lc/photos/AZLasHrkaiuF8E8ijnj43QT0pqqnYFtf1qXFLmxtTnoz8ojt-iy6ACjvVcUNjKhuV6EXE2J6afkcObjYnWNNNLTKnwmBJSjfWx-bB_ncBhGAEy63fkhxo73UQE3pcJoW7S7Rm7-UR5zhStS0fK0LyIC68s1P1f4K5qMmxoDd9JWaAbw52EMhH08SN5g1iCT-HKwxH6JLxAL1OCPdYrfhySzw1puWm0TrEAK7gp_cJ1QQXWVdg5mJFFPQA_ex_UgvEXxVeA463sWlVWSlc2r_cTlY6o6GXKVXUaQlCq7iRdhoBfT5u5gbL-o_U1mhwDpM2ZEyW8e-Pa3RBafkPIa71ZAlN3X1-oEJB1HaXV8gwdQSNlsHSSwp2r_VcWT8WRFiq3L3VNxRbdfEzsE7AlDiNtpve6kEGv8ZHb5UMaea7-H20h00TcZB",
+            "widthPx": 1073
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Pedram Poorshaghaghi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3Ff_Xx8GyU_qH-kDt0MzzNCn9yRa-iIPa1m-46ealU2ixTOGU=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106171010488862032640"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICM6sfB5wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM6sfB5wE!2e10!4m2!3m1!1s0x3f8dfd30b56d5e57:0x57f231c662451adb",
+            "heightPx": 774,
+            "name": "places/ChIJV15ttTD9jT8R2xpFYsYx8lc/photos/AZLasHqsU9mUE3eZZ-yFdQtECljTJ_ZfUnLmwyAnA41sehQ3k4QSnCkS9olHF8n2y1_D3G-q5zyi6JxQiJ7ivbboTcsqGeJLqWlx0rMM_H0gBR5SHyPbKC00EyH2EJxzDImM8BLJvkyzPJCeDtWDOkS3S-PZwOxcQzdNaHXMZL2LTZG_q-13jv7EFG1PJ6rPWZLZYu6fKhJqH6rUYLypkVI1pLKzwoCPgFhurLVquGgNbnq9U7tNq376nTfIHau9D00qHMqqV8mZkCT7lDKhCNdAgRXkqbPwA1XmPJFOj_DJgkMfPV8EfZE8o-fXrSyTTHivBGXwaIVLkocKp2rzL4BZibk04neEnuHSocJtnJ6htt2y3BTB4mW8I5OaV4NrjysXR2LpEY5jH9BItzczXZxTIPUDRq0X1t7H3depb_4djvTfpDk",
+            "widthPx": 1032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ghazal .T",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVq745Y1fRH5q6DNz5c-ckxo64pKmSVJItmZoMhCLGjh_3an86R=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117495021584882690381"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu57DhiQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu57DhiQE!2e10!4m2!3m1!1s0x3f8dfd30b56d5e57:0x57f231c662451adb",
+            "heightPx": 913,
+            "name": "places/ChIJV15ttTD9jT8R2xpFYsYx8lc/photos/AZLasHoY-zkUaMyYtz0dZaS40nu8RBl-SQj5MInvatLMdFpQYTgsh4XbgLy0sw_8YRlxGFonPJky89ZDLrTkya4MgIpp8MTPvcuz9IGHkUKTkMAbDWleDmz0kX6mrMk3TIB-q48fQAcjf3FVYbPRGCSOfbMWLsyrzi28jvG5Hoo4wYSZepKXQ13BxwcUUcvdXbVU4jJDHqKcljRWg1T40PM19DTVutj9yP8r98Ay1WUGmUH0gREbUvNW_j8LV0GVKhquB3Yk0b1GAomJrg1Ao6WksugYUKltrctx2xi0t_Clh1vxxo39LV19ZVNDKuZxxS2kknkg9HBHQBIIg_67P8eIIgkZAfWQLPg5aI5AKZftfEd7b22CuHGiblQLwBVcka3vy7K140bSGmWdz1LdQlqUIv_Z6R0YkV114yNAl7IbVdj77zM",
+            "widthPx": 1280
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ghazal .T",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVq745Y1fRH5q6DNz5c-ckxo64pKmSVJItmZoMhCLGjh_3an86R=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117495021584882690381"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDup_2DrQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDup_2DrQE!2e10!4m2!3m1!1s0x3f8dfd30b56d5e57:0x57f231c662451adb",
+            "heightPx": 1280,
+            "name": "places/ChIJV15ttTD9jT8R2xpFYsYx8lc/photos/AZLasHqXYOnkOaaDg4bLlHY2rjMc3CZT1Jg4hhwZ8KACMI09vjP5TXPkox4IR3Ht_UyrpD9rFeLuYvMUXcFXzXqpKQFWf85X4hMdavlSqPNwG2W6my6-_VJUh7baU-2daP27AJn18A7RhmDdt6o9t0lAqT0mfYI-sXNfj3qBpKS15CCDFFcKjMYrELXDrZE7qTkQhhgpxMRJAxsSMepq3Z699CODo3YPiWKWLHqjDFsHUChKdm_b171RByKq1-2pDxEKOSEcMPvdlVXbp3ybIJhdi8Zvbi_7P-_8XxyjPYY80etz25BbMVzz-zQIt65DMKWDL8roSWxlBlJ0udOjsQBCSE2B9Ml1279upeFIeDJ2l2pDiItXdBEjGiP_KR6f6Awwc-K8skae1TdJPz7nSK7Xwe0fIfjdx9NVlbAaTQwvAPRs0mU",
+            "widthPx": 1039
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ghazal .T",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVq745Y1fRH5q6DNz5c-ckxo64pKmSVJItmZoMhCLGjh_3an86R=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117495021584882690381"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDup_2D3QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDup_2D3QE!2e10!4m2!3m1!1s0x3f8dfd30b56d5e57:0x57f231c662451adb",
+            "heightPx": 1280,
+            "name": "places/ChIJV15ttTD9jT8R2xpFYsYx8lc/photos/AZLasHpKSxrUrF5BQIF1ZFIymOUrjhHEWbhx9UaJpePMe-Q18EaE32YGJszJfNMP7FmFKHMefyVS3BUHJMwrKFzK_8Ru22qeFQVBfqHFycjGoXefMkpbYoTOwVmPi7nOmXVQwUHOzkib0xeEzmFrPM8jMrocAMBC1aN3r7ar-C_aVuO3EEc_pYiM-g_RpSRTqwKvo1-e0iSbzxr2KyLteDYkTIt99WXZ10R8LwSDx1uOitXZD3LCU0PgMZiJNPNH_LBYFkZM1VIIIlTr_u4FacFEMfLs7OwLCnEuDdBYhQpLaPsoApyvP5OUObm6mF6n4U6fWvhZz19PeOIwKXLamGQnpcgg0qXQwvYhSd0ux2EzSNPeAGUKvP12A5pctEvstA6fzHvjrW4Lwyz4tDfp6nbq8F_tKdk_J1Bh3gaNYa1pj2S4Ahbv",
+            "widthPx": 944
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ghazal .T",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVq745Y1fRH5q6DNz5c-ckxo64pKmSVJItmZoMhCLGjh_3an86R=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117495021584882690381"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDup52zcw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDup52zcw!2e10!4m2!3m1!1s0x3f8dfd30b56d5e57:0x57f231c662451adb",
+            "heightPx": 4032,
+            "name": "places/ChIJV15ttTD9jT8R2xpFYsYx8lc/photos/AZLasHo733SEOX8Nxlyja4HMzQ-1LaWWXHD0LTSGbKDqV3ceQ6sanyKIT8Bg-HEdujANlxCyYs8wTsPTlucE7drN_QKkP5hsiJ3qhUE4GkkyvDBbhr9Dpbag-2T8oAN1WwuNgMtOYICLNXQ3U1smHDpb44fQyu16Ot3CdooBxcKmVHiza1TJ_PcAig3sqn43oUjg7xCsDD6WBA_oAL0bweR6fcbk2n2i1zT1p9ifbSlr6vt36n2D2UeHkC4QVywSxE4ck4HkBDtE8ma9nb-U2iYzI3V6F7dozVZwIeAWj5iVkob3_nHnkWrq5gx3jcCJ6_ch4hlsurwlNU1ChkhcAbWP8Qjz5IbKssDLN8rtNcjCBiK9GckU7AkfKjYZBgGtqGOpv5WV0iMib61RBaisbftwuivaQl3tKZW5V7AeaGLPaVM",
+            "widthPx": 2268
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ghazale Talebi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIzTcS96-IEdzVEQM3Wj6x6SOmLYyv1AgCjOYZvmPZ5nndyA3m=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117408152807618765011"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICh6NWXGQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh6NWXGQ!2e10!4m2!3m1!1s0x3f8dfd30b56d5e57:0x57f231c662451adb",
+            "heightPx": 958,
+            "name": "places/ChIJV15ttTD9jT8R2xpFYsYx8lc/photos/AZLasHpO-9Xlfbrenqd7J96Kzsl2_SYQMF2Zn4cWXmuyBVEiEpU4YgHQ7MAfK7LIVkRlHW7vHZ5kv---GcWyvwj8zgpP2TC6N_AdEguHO8nvGKMirEGVJSYp8SskEGgPuLfVOcM51ou_fsCT1TMGr-WdKmdpJOrWo9gvieWoTDXgHt1xxZbgjnW4Nz7pOIvFnQSgIeAHEkJsf9fVFwi-Gbgl8k_BNjwTq1egWKRpVnXbJ23pK74LXptrWgNdf8zUKHscrPdSetTl7qbBYGI__-MF1n7dEbmm1_l5rWOXd58Vz5EBJWQN2K79QD0ls3TPy0ZyCD12n8o6AvqLeNy6bMH3e_lm6joH0jKFI4RJBf2YhvJwJNYNs6p2infoe1LBUDfNXPQwcn2xDH2CdeiGS36rphq2cjTh7KY6mBwIqCLSLgvxyg",
+            "widthPx": 1280
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ghazal .T",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVq745Y1fRH5q6DNz5c-ckxo64pKmSVJItmZoMhCLGjh_3an86R=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117495021584882690381"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDup_2DnQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDup_2DnQE!2e10!4m2!3m1!1s0x3f8dfd30b56d5e57:0x57f231c662451adb",
+            "heightPx": 1280,
+            "name": "places/ChIJV15ttTD9jT8R2xpFYsYx8lc/photos/AZLasHoGmZzAq5di48w4M8a-OGZgbLbVxETqYet1TMw2EiWeHx5vUsKoPKWt75BeFtruU7fucBOaQfsKo6RlZ8F_TDIWqCTZ8dt32uzOzmuXC44N02AvNORkjMB6Oi5jQL5FoJ_6s5aDyBkIohLEQC-IqvW8dBrZ80xOraptGuCKZtkBVXDSNlDgwMz3gfzhVvOmDWLVT_ctw4ZhmFxNEC1jPRmDDm4DTXBwZP3KU2EsbpsviaEh5URoEyDegHXkOUOwc9QwVfepMFZiVZWpytik4wExnEQXL9lNyqJSdsX72-5rm0mnnJvJNbyCtT1bjzb_1cWG9DxPtw4oDauQ7t_1Vnj6UZyHJFDO3zU_NUZQ2SW_Ucw4b_H1HaTRGvppATXIPiGq5Xqr8uAJjh7o0SRbEbUxfTiVcwkhuT9Rnnmf50c1pck",
+            "widthPx": 720
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ghazal .T",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVq745Y1fRH5q6DNz5c-ckxo64pKmSVJItmZoMhCLGjh_3an86R=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117495021584882690381"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu57DhyQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu57DhyQE!2e10!4m2!3m1!1s0x3f8dfd30b56d5e57:0x57f231c662451adb",
+            "heightPx": 804,
+            "name": "places/ChIJV15ttTD9jT8R2xpFYsYx8lc/photos/AZLasHqzb0-VmGRlYITk90kQag8HLhI1RQTt0Wud76GDY7PCiApJ7u05IugEyNtDUhw4TjwNdqo0ruDUkewMSq7WXTzlYXNsG5r6CRIPZZ5KPu29XIrw38PcZdNtRpWtFY4Buca2Ouf3__yTq256WBDDdOA3oe-Gf3f20wkKAuQqlAsfYEcw5-UPLZ4boIDYAhDTM03SyACf6CDJq_TOzIRdy362ny0IjnDcn5WdsJUA2HD8LhHJUMEBff1wZ2YAvauHAxSmI9kWC-SqOA9fckWVjrBTy9v-_ua4Orpzmrf5xEB9bgBykeH3loEI9uvjFhTy3GK77X5-Ij7aoVVttZi2pwMJ-bHQWsiAUWeNTySFlHRSSZMX4skEt-xksKas6BbXG9ytuporh2nMlaF5v_akgrUNtwwv6NykZQZQx3C7DzxiJLHv",
+            "widthPx": 1280
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "P749+XJ Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP749+XJ"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Tehran Province, Tehran, East Tehransar, جاده مخصوص کرج، پلاک 6th Km،"
+        ],
+        "languageCode": "en-US",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 5,
+    "reservable": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Ghazal .T",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVq745Y1fRH5q6DNz5c-ckxo64pKmSVJItmZoMhCLGjh_3an86R=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/117495021584882690381/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNoazRpNVpBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNoazRpNVpBEAE!2m1!1s0x3f8dfd30b56d5e57:0x57f231c662451adb",
+            "name": "places/ChIJV15ttTD9jT8R2xpFYsYx8lc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoazRpNVpBEAE",
+            "publishTime": "2023-02-21T09:29:14.060318Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago"
+        },
+        {
+            "authorAttribution": {
+                "displayName": "rooozbeh kharizfar",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIafVIp-JNhCbe0YR_5tEiHASgZjfFfUWBOHC_d3AcBam0CKg=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/116272400631812271694/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNzeG9xeDJBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNzeG9xeDJBRRAB!2m1!1s0x3f8dfd30b56d5e57:0x57f231c662451adb",
+            "name": "places/ChIJV15ttTD9jT8R2xpFYsYx8lc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzeG9xeDJBRRAB",
+            "publishTime": "2020-01-30T20:56:00.725045Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 years ago"
+        }
+    ],
+    "servesBreakfast": true,
+    "servesBrunch": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran Province, Tehran, East Tehransar, جاده مخصوص کرج، پلاک 6th Km،",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7089090802915,
+            "longitude": 51.2705696302915
+        },
+        "low": {
+            "latitude": 35.7062111197085,
+            "longitude": 51.2678716697085
+        }
+    },
+    "websiteUri": "https://instagram.com/_u/cafe.arshive",
+    "timestamp": 1765104793
+}

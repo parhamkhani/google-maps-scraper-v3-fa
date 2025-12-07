@@ -1,0 +1,238 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P7X3+6C2",
+            "shortText": "P7X3+6C2",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Amirkabir Boulevard",
+            "shortText": "Amirkabir Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 22"
+                },
+                "name": "places/ChIJad-enSXljT8RkdEMb4fmE3o",
+                "placeId": "ChIJad-enSXljT8RkdEMb4fmE3o"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Meydaan-e-Amir Kabir"
+                },
+                "name": "places/ChIJQxR0R1L7jT8Rs_dU0fgZdFo",
+                "placeId": "ChIJQxR0R1L7jT8Rs_dU0fgZdFo"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "East Golestan"
+                },
+                "name": "places/ChIJoZ8I2rbkjT8RjEnseL0ejFM",
+                "placeId": "ChIJoZ8I2rbkjT8RjEnseL0ejFM"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "دفتر ازدواج 305"
+                },
+                "name": "places/ChIJjwNbkVL7jT8RWv6tBtHNv6g",
+                "placeId": "ChIJjwNbkVL7jT8RWv6tBtHNv6g",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 13.425844,
+                "travelDistanceMeters": 27.728197,
+                "types": [
+                    "establishment",
+                    "local_government_office",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bike & Motorcycle Shop - Moghaddam"
+                },
+                "name": "places/ChIJufs8YE37jT8Rb2LZPukEM9Y",
+                "placeId": "ChIJufs8YE37jT8Rb2LZPukEM9Y",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 91.18,
+                "travelDistanceMeters": 91.03813,
+                "types": [
+                    "bicycle_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Maskan Bank"
+                },
+                "name": "places/ChIJjZT-ME37jT8Rny6Q2nKk1Zo",
+                "placeId": "ChIJjZT-ME37jT8Rny6Q2nKk1Zo",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 232.25826,
+                "travelDistanceMeters": 288.75638,
+                "types": [
+                    "atm",
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sepah Bank"
+                },
+                "name": "places/ChIJFduLSrPkjT8RqN8CFxar368",
+                "placeId": "ChIJFduLSrPkjT8RqN8CFxar368",
+                "straightLineDistanceMeters": 432.31506,
+                "travelDistanceMeters": 488.2076,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sarmayeh Bank"
+                },
+                "name": "places/ChIJXzwrSrPkjT8R9M3nBIWR0Hk",
+                "placeId": "ChIJXzwrSrPkjT8R9M3nBIWR0Hk",
+                "straightLineDistanceMeters": 417.82675,
+                "travelDistanceMeters": 417.626,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "مرغ بریونی دیار"
+    },
+    "formattedAddress": "Tehran Province, Tehran, Amirkabir Blvd, P7X3+6C2, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfb001ea47163:0xcea8a188c07f2ed8!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfb001ea47163:0xcea8a188c07f2ed8!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=14891329776617729752&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfb001ea47163:0xcea8a188c07f2ed8!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfb001ea47163:0xcea8a188c07f2ed8!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=14891329776617729752&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJY3GkHgD7jT8R2C5_wIihqM4",
+    "location": {
+        "latitude": 35.7480046,
+        "longitude": 51.2535069
+    },
+    "name": "places/ChIJY3GkHgD7jT8R2C5_wIihqM4",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Amirkabir Blvd",
+            "P7X3+6C2"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "fast_food_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Fast Food Restaurant"
+    },
+    "shortFormattedAddress": "Tehran, Amirkabir Blvd, P7X3+6C2",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7494143302915,
+            "longitude": 51.2548480302915
+        },
+        "low": {
+            "latitude": 35.7467163697085,
+            "longitude": 51.2521500697085
+        }
+    },
+    "timestamp": 1765104853
+}

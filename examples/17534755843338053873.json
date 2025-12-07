@@ -1,0 +1,248 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "Tehran, تهران مهران خیابان خیابان یکم،"
+        },
+        {
+            "languageCode": "en",
+            "longText": "Mehran Station",
+            "shortText": "Mehran Station",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Ayatollah Kashani Boulevard",
+            "shortText": "Ayatollah Kashani Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Mehran"
+                },
+                "name": "places/ChIJ-6R9JKT9jT8R2cfeUcr3-OM",
+                "placeId": "ChIJ-6R9JKT9jT8R2cfeUcr3-OM"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr. Mohamadi"
+                },
+                "name": "places/ChIJS9uM0Lz9jT8RzbbMm3WUJuE",
+                "placeId": "ChIJS9uM0Lz9jT8RzbbMm3WUJuE",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 63.403996,
+                "travelDistanceMeters": 88.830505,
+                "types": [
+                    "dentist",
+                    "establishment",
+                    "health",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Mehran Station"
+                },
+                "name": "places/ChIJA47VtL39jT8R_BhTfaGF6rc",
+                "placeId": "ChIJA47VtL39jT8R_BhTfaGF6rc",
+                "straightLineDistanceMeters": 83.77621,
+                "travelDistanceMeters": 124.54831,
+                "types": [
+                    "bus_station",
+                    "establishment",
+                    "point_of_interest",
+                    "transit_station"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Kaffa Coffee"
+                },
+                "name": "places/ChIJ1Sha0aL9jT8RRH4f9NzwOxw",
+                "placeId": "ChIJ1Sha0aL9jT8RRH4f9NzwOxw",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 200.67172,
+                "travelDistanceMeters": 226.55457,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sina Bank"
+                },
+                "name": "places/ChIJi3TAUbz9jT8R3I1fqDDGro0",
+                "placeId": "ChIJi3TAUbz9jT8R3I1fqDDGro0",
+                "straightLineDistanceMeters": 168.47385,
+                "travelDistanceMeters": 278.20078,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Keshavarzi Bank"
+                },
+                "name": "places/ChIJJyHz5739jT8RL_3TSW6JT2U",
+                "placeId": "ChIJJyHz5739jT8RL_3TSW6JT2U",
+                "straightLineDistanceMeters": 313.27792,
+                "travelDistanceMeters": 470.53387,
+                "types": [
+                    "atm",
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "کبابی بابا اسدالله"
+    },
+    "formattedAddress": "Tehran, Tehran, تهران مهران خیابان خیابان یکم،, Ayatollah Kashani Blvd, Mehran Station, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd5c6b05c1bf:0xf357f789515ea8f1!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd5c6b05c1bf:0xf357f789515ea8f1!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=17534755843338053873&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd5c6b05c1bf:0xf357f789515ea8f1!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd5c6b05c1bf:0xf357f789515ea8f1!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=17534755843338053873&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJv8EFa1z9jT8R8aheUYn3V_M",
+    "internationalPhoneNumber": "+98 912 177 2883",
+    "location": {
+        "latitude": 35.7282692,
+        "longitude": 51.322789
+    },
+    "name": "places/ChIJv8EFa1z9jT8R8aheUYn3V_M",
+    "nationalPhoneNumber": "0912 177 2883",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true
+    },
+    "plusCode": {
+        "compoundCode": "P8HF+84 Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP8HF+84"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Tehran, تهران مهران خیابان خیابان یکم،",
+            "Ayatollah Kashani Blvd",
+            "Mehran Station"
+        ],
+        "languageCode": "en-US",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 5,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "m t",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7SOVAUSU0E3gagEjblGkqARXNGJyBTKqsIe1KUsrD5uT_8ZUP=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/110919892030417342331/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VOUzBuSWVVX00zcU9BEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VOUzBuSWVVX00zcU9BEAE!2m1!1s0x3f8dfd5c6b05c1bf:0xf357f789515ea8f1",
+            "name": "places/ChIJv8EFa1z9jT8R8aheUYn3V_M/reviews/ChZDSUhNMG9nS0VOUzBuSWVVX00zcU9BEAE",
+            "publishTime": "2025-05-23T14:59:42.624010Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 months ago"
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, تهران مهران خیابان خیابان یکم،, Ayatollah Kashani Blvd, Mehran Station",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7295730302915,
+            "longitude": 51.3241117302915
+        },
+        "low": {
+            "latitude": 35.7268750697085,
+            "longitude": 51.321413769708506
+        }
+    },
+    "timestamp": 1765104817
+}

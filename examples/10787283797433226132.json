@@ -1,0 +1,572 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "دوچرخه مقدم",
+            "shortText": "دوچرخه مقدم",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "جنب",
+            "shortText": "جنب",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "امیر کبیر",
+            "shortText": "امیر کبیر",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "District 22",
+            "shortText": "District 22",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 22"
+                },
+                "name": "places/ChIJad-enSXljT8RkdEMb4fmE3o",
+                "placeId": "ChIJad-enSXljT8RkdEMb4fmE3o"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Salamat Park"
+                },
+                "name": "places/ChIJT1aQEk37jT8R7-thAF78v-Y",
+                "placeId": "ChIJT1aQEk37jT8R7-thAF78v-Y"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "East Golestan"
+                },
+                "name": "places/ChIJoZ8I2rbkjT8RjEnseL0ejFM",
+                "placeId": "ChIJoZ8I2rbkjT8RjEnseL0ejFM"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bike & Motorcycle Shop - Moghaddam"
+                },
+                "name": "places/ChIJufs8YE37jT8Rb2LZPukEM9Y",
+                "placeId": "ChIJufs8YE37jT8Rb2LZPukEM9Y",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 23.606941,
+                "travelDistanceMeters": 23.05783,
+                "types": [
+                    "bicycle_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Maskan Bank"
+                },
+                "name": "places/ChIJjZT-ME37jT8Rny6Q2nKk1Zo",
+                "placeId": "ChIJjZT-ME37jT8Rny6Q2nKk1Zo",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 164.8512,
+                "travelDistanceMeters": 356.73666,
+                "types": [
+                    "atm",
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Railway MiniTown 63/20 KV SubStation"
+                },
+                "name": "places/ChIJczaNp1L7jT8RemMV2QulLoE",
+                "placeId": "ChIJczaNp1L7jT8RemMV2QulLoE",
+                "straightLineDistanceMeters": 62.293198,
+                "travelDistanceMeters": 267.79068,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Pars Tabakhi"
+                },
+                "name": "places/ChIJWUxWYU37jT8R9DqjDz-VTDg",
+                "placeId": "ChIJWUxWYU37jT8R9DqjDz-VTDg",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 5.3758235,
+                "travelDistanceMeters": 0.020179749,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sarmayeh Bank"
+                },
+                "name": "places/ChIJXzwrSrPkjT8R9M3nBIWR0Hk",
+                "placeId": "ChIJXzwrSrPkjT8R9M3nBIWR0Hk",
+                "straightLineDistanceMeters": 349.85913,
+                "travelDistanceMeters": 349.6457,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-08T06:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:00 AM – 12:00 PM",
+            "Tuesday: 10:00 AM – 12:00 PM",
+            "Wednesday: 10:00 AM – 12:00 PM",
+            "Thursday: 10:00 AM – 12:00 PM",
+            "Friday: Closed",
+            "Saturday: 10:00 AM – 12:00 PM",
+            "Sunday: 10:00 AM – 12:00 PM"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "کبابی دلشدگان"
+    },
+    "formattedAddress": "Tehran, District 22, امیر کبیر, No. جنب, دوچرخه مقدم, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfbe5ec9906fb:0x95b42175d5559394!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfbe5ec9906fb:0x95b42175d5559394!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=10787283797433226132&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfbe5ec9906fb:0x95b42175d5559394!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfbe5ec9906fb:0x95b42175d5559394!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=10787283797433226132&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ-waZ7OX7jT8RlJNV1XUhtJU",
+    "internationalPhoneNumber": "+98 21 4470 7190",
+    "liveMusic": false,
+    "location": {
+        "latitude": 35.7479395,
+        "longitude": 51.2527578
+    },
+    "name": "places/ChIJ-waZ7OX7jT8RlJNV1XUhtJU",
+    "nationalPhoneNumber": "021 4470 7190",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Maryam Masoumi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpLLgtxGvviVQOLhn8PJK3sI84udQTri1nzEku2RY2pNOLXzoD=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116902518202373437332"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDA5pzC3QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA5pzC3QE!2e10!4m2!3m1!1s0x3f8dfbe5ec9906fb:0x95b42175d5559394",
+            "heightPx": 4032,
+            "name": "places/ChIJ-waZ7OX7jT8RlJNV1XUhtJU/photos/AZLasHpMNsLkqqKZDS7uonGRB4Q6RfXI4BfMD73jb530eN5__2GOO5rOPgEPsUHtX24uNwp3VwUsdL_-TXaWEObFN8H7YvRFJ4MmdNIMsSkbRxF7FcdUUvrTaRJtdQtb881HsfVp_tjBK2dcSXsn-ij57G7C5uw99f-jhHy15G1YfXa6E1UHaogIup9pwZt1Q14OU7TBrJIbD6_2j1mHpbc3YBgCgtPOP89d8UU2JbJKBdq8Md86VtQmUH7WK_vJXH5SERXiMpLbFSY8Re0KZtN8s-NVVCRZSrlrqKf12mQnrMCqHAWK8Fi0keOW1_ZvUXBjSgWphD0ZWAEGFf0GQSWnYyE57ADIYGSH8uaYt-dPHA164NaoqUeAyh0KS1_qK2i581-Sb23e6IbwImqfgDgv-ZEubx_KDQB56BQ-NQkTchf5MCfE",
+            "widthPx": 2268
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Local Guide",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrQQJ_-JpU00YJcZ7gOjQXFde2VAvNvlvW5NZ_IolmOiQTbA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103593771222006910915"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZsqfC7gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZsqfC7gE!2e10!4m2!3m1!1s0x3f8dfbe5ec9906fb:0x95b42175d5559394",
+            "heightPx": 4000,
+            "name": "places/ChIJ-waZ7OX7jT8RlJNV1XUhtJU/photos/AZLasHq4wpk7w8_8cDIkwcfLdt0JlBwg-k9tkxzR1x0c1PvfleR9NHbC0YJSqFsXK9efTHzJoUA_qp7szhv14yZs-CYhDKlFwT2GOwgrXU8chs_IiPz9oIA_eU5jaqB_rM4emGBEBW_DlZudwkRlUzBQicg0IQR7jm98NOW5Auvz2Aedqw3hKA5jVWxctEM7FbrTmdGe99GpacGIWviYRxTRQ1ZJ0QIrhyD0FjvlDC3PfuAij0VwSGR3uPTLbZb3TBNYe4MrxSqGor2TMs58AkBWlSZTeia2BjDD2QdwAxxfakWVi5Bfiy0I1RzRwgLy7VCT_gWXFmLVTP_IwO87Mrenne9n8eZvYRdylyiMycuyswRwLZDYtXemmtfjlcONDtZ7RapIY-tHmbrcoOVfBimEd7sVc9eK4UeTB7EVlByHrltArpza",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "ناصر تیموری",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ5pZ0LPalxY-AqokX-jUSX5Av0NxTOKtu23MQ1-zDjpNsq_g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106813792048491426677"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_v4u_dg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_v4u_dg!2e10!4m2!3m1!1s0x3f8dfbe5ec9906fb:0x95b42175d5559394",
+            "heightPx": 4000,
+            "name": "places/ChIJ-waZ7OX7jT8RlJNV1XUhtJU/photos/AZLasHqN6tsfCqDLsR2qoxcDaackjcUdZbn-5rn3guu1DQf5hmFIXo__lLLVZMql9kb7gwYFI1kZcZCRaccYrw4bJ2HHU8btovOLLqNbAIYBalsYz_AieniCG7nkYtrgyddJOy-WFbt_g-xSI6VM8MZ2O7gOSbZCZO7e_8HaXTG3Noy2scpHLXhp2V5sQb5ZDApUdb3p4ew7nA_-134etxE-b4m_0AZcBc8983N-XcDwbGzJR-v5TCbDasgcWc-G4X5zr0EtphehGT65VCZPbDVUikPjyGUosOvS0hPap_vMMELdvn6qca686Op_dI2uJ4pff3CCKyAcC3C3rTarvRyxnISCmFHboVzTpvfU3leoOoJh6xH10Lf3gdX5JQAp9lOIq2tnQAfCtqUOVyMljjRli1CHvRuf4P5PQhmKivvhOqpUTQ",
+            "widthPx": 3000
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "P7X3+54 Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP7X3+54"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "امیر کبیر, No. جنب",
+            "دوچرخه مقدم"
+        ],
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "District 22"
+    },
+    "primaryType": "asian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Asian Restaurant"
+    },
+    "rating": 4.5,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-08T06:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:00 AM – 12:00 PM",
+            "Tuesday: 10:00 AM – 12:00 PM",
+            "Wednesday: 10:00 AM – 12:00 PM",
+            "Thursday: 10:00 AM – 12:00 PM",
+            "Friday: Closed",
+            "Saturday: 10:00 AM – 12:00 PM",
+            "Sunday: 10:00 AM – 12:00 PM"
+        ]
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Maryam Masoumi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpLLgtxGvviVQOLhn8PJK3sI84udQTri1nzEku2RY2pNOLXzoD=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/116902518202373437332/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBNXF6MUNnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBNXF6MUNnEAE!2m1!1s0x3f8dfbe5ec9906fb:0x95b42175d5559394",
+            "name": "places/ChIJ-waZ7OX7jT8RlJNV1XUhtJU/reviews/ChZDSUhNMG9nS0VJQ0FnTURBNXF6MUNnEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "خیلی خوبن.\nکیفیت و سرویس خوب و خوش اخلاقند.\nیه مدتی کیفیتشون افت کرده بود ولی الان عالیه دوباره.\nرول و‌ دل و بال خوب بود دنبه کمتر خوب بود\nبال اسپایسی و جگر و قارچ خیلی خوب بود\nنون داغ تازه دارن"
+            },
+            "publishTime": "2025-02-08T16:50:13.468220Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "10 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "They are very good.\nThe quality and service are good and they are polite.\nTheir quality had declined for a while but now it is great again.\nThe roll, heart and wings were good, the tail was less good\nThe spicy wings and liver and mushrooms were very good\nThey have fresh hot bread"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "ناصر تیموری",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ5pZ0LPalxY-AqokX-jUSX5Av0NxTOKtu23MQ1-zDjpNsq_g=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/106813792048491426677/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZLXV2Si13RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZLXV2Si13RRAB!2m1!1s0x3f8dfbe5ec9906fb:0x95b42175d5559394",
+            "name": "places/ChIJ-waZ7OX7jT8RlJNV1XUhtJU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZLXV2Si13RRAB",
+            "publishTime": "2025-05-03T19:45:22.441097Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "7 months ago"
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, District 22, امیر کبیر, No. جنب, دوچرخه مقدم",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7493499802915,
+            "longitude": 51.2540988802915
+        },
+        "low": {
+            "latitude": 35.7466520197085,
+            "longitude": 51.2514009197085
+        }
+    },
+    "timestamp": 1765104853
+}

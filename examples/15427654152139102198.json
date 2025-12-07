@@ -1,0 +1,631 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleSeating": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "S"
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "P8F4+C5C",
+            "shortText": "P8F4+C5C",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "South Parvaneh Street",
+            "shortText": "S Parvaneh St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parvaz Town"
+                },
+                "name": "places/ChIJpzIbIK39jT8RbaSDa0D_Ra0",
+                "placeId": "ChIJpzIbIK39jT8RbaSDa0D_Ra0"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Kosar primary schools for girls"
+                },
+                "name": "places/ChIJbyB5W639jT8RWryOS5v7vYw",
+                "placeId": "ChIJbyB5W639jT8RWryOS5v7vYw",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 65.08122,
+                "travelDistanceMeters": 94.952286,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "primary_school",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parvaneh Sangak Bakery"
+                },
+                "name": "places/ChIJSZKVHwj9jT8Rtf_3bp3-eds",
+                "placeId": "ChIJSZKVHwj9jT8Rtf_3bp3-eds",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 120.37494,
+                "travelDistanceMeters": 140.26563,
+                "types": [
+                    "bakery",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "سوپرگوشت یگانه"
+                },
+                "name": "places/ChIJxTsqLmz9jT8RSS3VQ4ODCng",
+                "placeId": "ChIJxTsqLmz9jT8RSS3VQ4ODCng",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 44.207386,
+                "travelDistanceMeters": 40.724564,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "نانوایی لواش"
+                },
+                "name": "places/ChIJK0imyIr9jT8RSqWBUT2jjnE",
+                "placeId": "ChIJK0imyIr9jT8RSqWBUT2jjnE",
+                "straightLineDistanceMeters": 248.66563,
+                "travelDistanceMeters": 338.22968,
+                "types": [
+                    "bakery",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parvane Hypermarket"
+                },
+                "name": "places/ChIJ7TSA2qz9jT8RvnCpKBBxFkQ",
+                "placeId": "ChIJ7TSA2qz9jT8RvnCpKBBxFkQ",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 228.20851,
+                "travelDistanceMeters": 227.0526,
+                "types": [
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T19:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 45
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:45 – 11:00 PM",
+            "Tuesday: 12:45 – 11:00 PM",
+            "Wednesday: 12:45 – 11:00 PM",
+            "Thursday: 12:45 – 11:00 PM",
+            "Friday: 12:45 – 11:00 PM",
+            "Saturday: 12:45 – 11:00 PM",
+            "Sunday: 12:45 – 11:00 PM"
+        ]
+    },
+    "displayName": {
+        "languageCode": "en",
+        "text": "کبابی خلیلی"
+    },
+    "formattedAddress": "Tehran Province, Tehran, S, S Parvaneh St, P8F4+C5C, Iran",
+    "goodForChildren": false,
+    "goodForGroups": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfdad4bf4c06f:0xd61a09b64fd4d7f6!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdad4bf4c06f:0xd61a09b64fd4d7f6!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=15427654152139102198&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfdad4bf4c06f:0xd61a09b64fd4d7f6!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdad4bf4c06f:0xd61a09b64fd4d7f6!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=15427654152139102198&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJb8D0S639jT8R9tfUT7YJGtY",
+    "internationalPhoneNumber": "+98 21 4413 0932",
+    "liveMusic": false,
+    "location": {
+        "latitude": 35.723558,
+        "longitude": 51.3054036
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJb8D0S639jT8R9tfUT7YJGtY",
+    "nationalPhoneNumber": "021 4413 0932",
+    "outdoorSeating": false,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "postalAddress": {
+        "addressLines": [
+            "S",
+            "S Parvaneh St",
+            "P8F4+C5C"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 3.7,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T19:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 45
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:45 – 11:00 PM",
+            "Tuesday: 12:45 – 11:00 PM",
+            "Wednesday: 12:45 – 11:00 PM",
+            "Thursday: 12:45 – 11:00 PM",
+            "Friday: 12:45 – 11:00 PM",
+            "Saturday: 12:45 – 11:00 PM",
+            "Sunday: 12:45 – 11:00 PM"
+        ]
+    },
+    "restroom": false,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Pouria",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQbYr6Z2SXprd7JrmA5Vf672mUmpZ4iezNxZi-Y6bfcBecRIYM=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/117507195230019959546/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURRNHJhUVNnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURRNHJhUVNnEAE!2m1!1s0x3f8dfdad4bf4c06f:0xd61a09b64fd4d7f6",
+            "name": "places/ChIJb8D0S639jT8R9tfUT7YJGtY/reviews/ChZDSUhNMG9nS0VJQ0FnSURRNHJhUVNnEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Delicious Kebabs 👌"
+            },
+            "publishTime": "2017-05-02T10:34:12.703Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "8 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Delicious Kebabs 👌"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ali sabbari",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxOntSRPu6hQ8LFCrRltSnadsmxBmJBIqyPX763akSJKlD3k1o=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/118234001910954789163/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1NWVqUllVMDlGV0dSNGFXbDNka1ZvWmtrMGJsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1NWVqUllVMDlGV0dSNGFXbDNka1ZvWmtrMGJsRRAB!2m1!1s0x3f8dfdad4bf4c06f:0xd61a09b64fd4d7f6",
+            "name": "places/ChIJb8D0S639jT8R9tfUT7YJGtY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1NWVqUllVMDlGV0dSNGFXbDNka1ZvWmtrMGJsRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "كوبيده هاش نسبت به قيمتش واقعا خوشمزه اس و توي شهرك پرواز به نظرم بهترين كوبيده ها رو داره"
+            },
+            "publishTime": "2025-10-09T19:03:08.482078186Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Their dumplings are really delicious for the price, and in my opinion, they have the best dumplings in the city."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Motlagh Work",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrBrrLsrKbFEQA4REYJN4HnihGWO0UxvChb_b8RhP8NTuNQ8rB=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/113264598894091816048/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuaDVERURREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuaDVERURREAE!2m1!1s0x3f8dfdad4bf4c06f:0xd61a09b64fd4d7f6",
+            "name": "places/ChIJb8D0S639jT8R9tfUT7YJGtY/reviews/ChZDSUhNMG9nS0VJQ0FnSURuaDVERURREAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "کثیف ترین و آلوده ترین و بی کیفیت ترین کبابی کل منطقه ۵ تهران، حتی بعید می دونم گوشت واقعی استفاده کنه، اگر سلامتی خودتون و خانوادتون براتون مهمه از این فروشگاه خرید نکنید"
+            },
+            "publishTime": "2024-10-10T17:41:10.843092Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The dirtiest, most polluted, and lowest quality barbecue in all of Tehran's 5th district. I don't even think they use real meat. If you care about your health and that of your family, don't buy from this store."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Abolfazl Rajabi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCWK5IcL1eASkrtJ89jrbyoweC3xTs4xQQo96kfXX7CuWKri34=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/103448184545188128178/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKaHRTQVZREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKaHRTQVZREAE!2m1!1s0x3f8dfdad4bf4c06f:0xd61a09b64fd4d7f6",
+            "name": "places/ChIJb8D0S639jT8R9tfUT7YJGtY/reviews/ChZDSUhNMG9nS0VJQ0FnSURKaHRTQVZREAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "کباب کوبید ه گرفتم  خیلی بی کیفیت بود نخوردم.\nجوجه با استخوان گرفته بودم روش  سوخته بود ولی خوردم.\nگوجه کبابش خوب بود\nفلفل کاملا سوخته بود\nولی دیگه سعی میکنم جاهای دیگه رو تست کنم."
+            },
+            "publishTime": "2023-07-15T17:40:17.310103Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "I got the grilled kebab, it was very poor quality, so I didn't eat it.\nI got the chicken with the bone, it was burnt, but I ate it.\nThe grilled tomato was good\nThe pepper was completely burnt\nBut I'll try to try other places."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "مهدی یوسفی",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIpOArYrM_HS3q58GRksKZyYX9FI5tRacCJLiORzGrOgoC1Qg=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/116858074494033957324/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURGcl9TMWp3RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURGcl9TMWp3RRAB!2m1!1s0x3f8dfdad4bf4c06f:0xd61a09b64fd4d7f6",
+            "name": "places/ChIJb8D0S639jT8R9tfUT7YJGtY/reviews/ChdDSUhNMG9nS0VJQ0FnSURGcl9TMWp3RRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "تا حالا حضوری خرید نکردم ، ولی کیفیت غذا هاشون در مقایسه با قیمتها واقعا عالیه ،"
+            },
+            "publishTime": "2023-11-11T19:25:02.660100Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "I haven't shopped in person yet, but the quality of their food is really great compared to the prices."
+            }
+        }
+    ],
+    "servesCoffee": false,
+    "servesDessert": false,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, S, S Parvaneh St, P8F4+C5C",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 27,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.72491583029149,
+            "longitude": 51.3067054802915
+        },
+        "low": {
+            "latitude": 35.722217869708494,
+            "longitude": 51.3040075197085
+        }
+    },
+    "timestamp": 1765104805
+}

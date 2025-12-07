@@ -1,0 +1,762 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "fa",
+            "longText": "استان تهران، تهران، بلوار فردوس شرقی،ابراهیمی جنوبی،پلاک ۲۹،"
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJQ-413779jT8R7lWt_dHTS7s",
+                "placeId": "ChIJQ-413779jT8R7lWt_dHTS7s"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE",
+                "placeId": "ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Maskan Bank"
+                },
+                "name": "places/ChIJKX8vAq79jT8RoSXcU5GcLCk",
+                "placeId": "ChIJKX8vAq79jT8RoSXcU5GcLCk",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 18.474958,
+                "travelDistanceMeters": 27.910788,
+                "types": [
+                    "atm",
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Mellat Bank"
+                },
+                "name": "places/ChIJ5VHgAK79jT8RDB21ocnV5Tw",
+                "placeId": "ChIJ5VHgAK79jT8RDB21ocnV5Tw",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 33.36569,
+                "travelDistanceMeters": 42.29168,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Saman Bank"
+                },
+                "name": "places/ChIJxdah5K39jT8RC9ljCRk4RwY",
+                "placeId": "ChIJxdah5K39jT8RC9ljCRk4RwY",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 80.323204,
+                "travelDistanceMeters": 90.860985,
+                "types": [
+                    "atm",
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Haida Hot"
+                },
+                "name": "places/ChIJ-Rch47H9jT8R1AjnncefMrk",
+                "placeId": "ChIJ-Rch47H9jT8R1AjnncefMrk",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 11.872522,
+                "travelDistanceMeters": 39.13565,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "ur",
+                    "text": "درمانگاه الزهرا"
+                },
+                "name": "places/ChIJ_XNo9LH9jT8Ry1QaHQg_6_E",
+                "placeId": "ChIJ_XNo9LH9jT8Ry1QaHQg_6_E",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 151.2772,
+                "travelDistanceMeters": 140.22626,
+                "types": [
+                    "establishment",
+                    "health",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:15:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 11:45 PM",
+            "Tuesday: 11:00 AM – 11:45 PM",
+            "Wednesday: 11:00 AM – 11:45 PM",
+            "Thursday: 11:00 AM – 11:45 PM",
+            "Friday: 11:00 AM – 11:45 PM",
+            "Saturday: 12:00 AM – 11:45 PM",
+            "Sunday: 11:00 AM – 11:45 PM"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Hadi & Honey kebab shop"
+    },
+    "formattedAddress": "Tehran, استان تهران، تهران، بلوار فردوس شرقی،ابراهیمی جنوبی،پلاک ۲۹،، Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=12320711023881637060&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=12320711023881637060&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJg1b81sP9jT8RxEy09mX1-6o",
+    "internationalPhoneNumber": "+98 21 4409 7290",
+    "liveMusic": false,
+    "location": {
+        "latitude": 35.7246354,
+        "longitude": 51.310825799999996
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o",
+    "nationalPhoneNumber": "021 4409 7290",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hani Ye",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDZ8h4dtPda6pihcZTDmQ86DFn0AnjqRFfgPei6dxqpnkCiA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110364715999146607552"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbwPTfgw2VGenX1sADUaY&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbwPTfgw2VGenX1sADUaY!2e10!4m2!3m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "heightPx": 2252,
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/photos/AZLasHrTs8_eD7Nj_nN58RSe0i6CPDvPDu2vnzYnDl0-aUPFT2fMM4hov4zU3yltMXm3og7vIBidZrHr1O5VohnDscjgPkf3NBwnd8W1-ZhEuRCTkormcS53rSB2yIpc-UwtKHemRO3ByHO9b2yYl1br6o76rDyw2N2-4F7UdKjjksZKaEzCc_8DyK39fF-mJ-5TEldIEr_fT6AmPopMWJyJXj05wE9K8brRRJ-1fMAv3ojv6HslzSum-aOvY6aLobP4altWvKADpIY4_Fz-NSorlqVRqvemEYtMFZOBRR293fjgu49Q0jTH__AySyJzmhSf3KNNbqHEeoGOHsiISPEvTcm0f0lh_hIPUxtQGlldaAnB5UWNEP8VqzlgjmBPuOMAAGFASX-7tCzMeoJ0UM74fotjAHcn5X_SPEm8wdZLdj3bphRnbtNoEcDESPjwvNEM",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "ItsBorsha",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBVuWgdIOICos9R9Q7IlVCXG4Nx-QgUAzJ6vGgaX3jLvjM5w8Z=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114495344783293730934"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFw6GFlwE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFw6GFlwE!2e10!4m2!3m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "heightPx": 1080,
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/photos/AZLasHqdgzaL5ZpTPaCCifVCNd3zStPht8tP_HCWJr0RWvCBqkn_6-ldsM6v43etm_WTnYmIBg-eIxffhWUylhfBJ7eV1OjlbAaZ3B4q0otweO4j0Z2PQG3QKE4Dr9k63-X0rRW1Gml8iyr_zFg6Xts0YVzQLO4yMd_mWGzS2KcJ25M3JfbRUBNQVLN_Ofkgh-ULblguiOB_mnj04llCmvJFI4V7cnSOLaMWLh8sZqR57u9BoAIB9HWiHj-zanQ2TGEu7E9uVpnoDsCvXSyb-hk_3BzrPZPxmu1y6i65q1fxLOICNBQVQ6uZS51mBflih9cBiJXpnEKqu-EgJ3tcp_1T6HmGTw5znfw2usUF9KDss2i0cDNSKOwikeXb4VrVz2VrqdYSt-OuEnYGT2b7Dys80NJO6Alfu9BWCrnFdIyEj4Flyl8",
+            "widthPx": 1549
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hani Ye",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDZ8h4dtPda6pihcZTDmQ86DFn0AnjqRFfgPei6dxqpnkCiA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110364715999146607552"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbwPTfgw2VGenXzwABXVi&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbwPTfgw2VGenXzwABXVi!2e10!4m2!3m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "heightPx": 4000,
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/photos/AZLasHo5-YhefE1Fa3oxrvJhxwoDlYqlZC5IrQuwDx5fWFdmnbeKtYc-6vO6xqTxbjc4CsKAc4kiRM6ZeU69sgNvsTRmKA-_ZNY4uk0_8LU3e0H4gKXp60uxEr079EIH-rlY1Jwsml7u1QhOXHQvkC4kHZHVutQeopSXFHn0LtAJSI4MgiMqxMxyKTNPfSrkIco3cw_FjUwJKYXMU48FlCGgCS17Qc51SqzcxHd0zgq-IBReAVzVA5X3syMc-m9KYOtU1bh3Ln2kOw1wPtqKLeCF3_uDXQpbIvDbmGvUDBpC8XjuU0EtekJTQo7KSoIJcBXBVK00EFVSJAhXDd8ycLrzIR5EjeGgz7saZ59cduTsD-zYaVlKKMOH19BvWM7aY8udwbWKW-XNzXRVKEpccfSCb48Dn1rACJ_HZQkwXcEE1gIo6tiMk62Tfq1XZuUr_m5A",
+            "widthPx": 1868
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hani Ye",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDZ8h4dtPda6pihcZTDmQ86DFn0AnjqRFfgPei6dxqpnkCiA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110364715999146607552"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbwPTfgw2VGenXw0ADiSp&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbwPTfgw2VGenXw0ADiSp!2e10!4m2!3m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "heightPx": 4000,
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/photos/AZLasHpp0JD_OLghpYCJqDBiDR-Tofmb64BCm7_Tr-gVgVyaaF9APS36o6db19etAO6xnrpIpM-B1b8EYXmgYQRcBEgl_E1rfRssRDvCQ-HwUFXgGFAK-UKaMvXrS5yi4ZQxaWQ6em4qZq9CCWRxPkPBB8i0OJ1EuW6Ca1xy7lkepUNcvgcjzfuSW7IRH6zkImZjPeSwn8fMlvm5bABz6xLDgx95VZMMsePkg5L25Ep3s6nv1euitstiREu7uNZzPLemQwSB7vEiLKsAIOG-EQTxuI6WX3n9pAEa0hf5mk5VpwKRRoI8JbSlXDSO8wJtAEBldie6gTnkLtQnTrrwoIQ0_xnOITAuZIl11vPNCLlhBiJCDcXtiqG_uuBIEFv5AqKMlRydEE8vRiODcDq3nw9ZBR5P_9rc7I7HmWXBl9YiWKmPqi2ihAJjW-86BzoMeBMI",
+            "widthPx": 1868
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hani Ye",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDZ8h4dtPda6pihcZTDmQ86DFn0AnjqRFfgPei6dxqpnkCiA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110364715999146607552"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbwPTfgw2VGenYZoAB7gI&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbwPTfgw2VGenYZoAB7gI!2e10!4m2!3m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "heightPx": 4000,
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/photos/AZLasHpdme-j1rkRUo2yDfCTSm1HaQ_RI8pHoaIGAYBVNN2J1B5uakIOqAdBlL4CX2vil6YFaGYdi9CQPDKAuyQjsrnXZmMBzt5DhS8om0toBSk7FmucMatqBWTtt8YypAannKY7prpRw2RS2FWhGtPpaulJYbiJb9ICwMspUzkpmor7mSp56ww-snBhce5J1eUbPlQfJ7RwfLXzCNZFHZlMzzIXf67apNE0hhGo1D9hMUD-fuQFrjhskpQnalHKsFz_vYNIfsqX2gBPOeK1bOqwuPwq7vh3SZccZG5-VeAjCCDnArz9q8WJV-u9IsYwXg6OgNBOANCDQYx89ynJyAdaB5J2SR9K6N3U8KzYgZhmT2pKQYS52ABdf_wU7OuEXcMgfpnw-jYGUW5dxNvNJkVeMmvZ0lx8_oUANl3VxUOfYec0EaMd-tqEkBA1nxuY0yf_",
+            "widthPx": 1868
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hani Ye",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDZ8h4dtPda6pihcZTDmQ86DFn0AnjqRFfgPei6dxqpnkCiA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110364715999146607552"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbwPTfgw2VGenXwIAAsWS&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbwPTfgw2VGenXwIAAsWS!2e10!4m2!3m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "heightPx": 933,
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/photos/AZLasHoon1zkRnfEU51f4LAiTBWDxsSnL7zvFr17cV0caoA2IjjAta2M8wKCKg82TQ4NEU-23q8RHqd-6BdpZEeuUmbiVvZGSqY24gVwUNQM5wc9hnYcDlkge1ISM2LVQ4XfEAq40awLkIURABxN9j90EkZRLuzFUY118COGNYXWSmVYrc4AmKU_ghuSs7Rjr1eJIM6LZLyXbJOqCEnj3J63e98eeUIiwlAFnEV1BhxaXVbM2oUF7-XcfAyouZVHwx6Azbo68uW5SBPgjoAITJbRtzd5JBSykPVlGOB1Sa6SluKgg-oDxij-nUD2BFDNWzfGCVrG40ZM7mXHncZ2Tq49VzyzkyblXdcSXqtBkASstGgm6MVk_FRRbcroRk6-79uUvFrt0--ILU_7fSUW4DaJ28Y4kedVVGpIaO9RKipjps8TzTh4IXtlrZfkRoLoQa4q",
+            "widthPx": 1999
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "حمید رضا",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6E3-ndKl3ihjZ5_V-zo-SQlJjKaGQq5s221f6qelFhzKFOsG-=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113515650092996323172"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICi1eTzvgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi1eTzvgE!2e10!4m2!3m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "heightPx": 3000,
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/photos/AZLasHoRgpjknRuKuf9qEGTnsFU-TiO12Ipo7fAG-giJlJlU8Ij9K4njYVNVkyBTbfB1Oak_JImbE2gcmncmdQ_OFOpJvl9kNRBP-fr4G5bodDp0llzZx2YtIlB0T8FwNBO_Av8Wj_Yng-BteYC67BFVq0KOk2EKbs0SMK4NUDdsCi1X4OU1DJaxoYAO8E2qAhbg5_CkZETFdQ24x7Nnj6caap7Cgc_twxY965Va5XHxIK-Py_6sllcgbRLdodco20gliNJtPfOdC9GAQqSW2ZFifJcRlp9anCqxA3kVXywxxdntA_UxQkZ-1vFG4d-hprcs5PzIbYS2W-A268jH69TkuYsLD8wJ3SNKZTF030I9UsXKmtv0UhpYhjIIH-1OxjN0xxry9yXBQEs9H4MqLlkraMHYKYWy0aYNFBJJka-JAd81ZNXE",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hani Ye",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDZ8h4dtPda6pihcZTDmQ86DFn0AnjqRFfgPei6dxqpnkCiA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110364715999146607552"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbyfQQwXAE2enXx8ADwc6&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyfQQwXAE2enXx8ADwc6!2e10!4m2!3m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "heightPx": 1868,
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/photos/AZLasHr8RNC6NnDnmeslMFgn2_6RdtoFXTF0dbkaWqVfOIXJSjadsPpnMrBP9nzUbDnjJCGhz9WFGGGKzdONx5b5p2XT78rJu6_BKGuG1vmtWXhJYyjDGD2-EsfkSszg-8iArBBj6VDQCbIX8AFrIDhSoPpb9tDOGvxjjBUkrV9IK45R69gF1xtGye_45wHF4oFIHH0bhQEVeB7RK0A9wp6QGcO_OGVdf_h6JZJjEbwVVGXQQj5HCTJMSMCdxSTGF5FisKPFANBxKd7mJYdPDX--5C0OTh5Wp-4ExC6BHbI24IMaaFuEFw_EOUghob7NOsmzngoxcMQuRB5N-wJWT5htccOMkv4J5VJyqs-U74Z-38QvDDT91EeIl0SpVTdWUlBmv1o6ictO33ax3r24Cw-6jntEl8sL79v0A0KjaFzDVWi6TO6g_ivZ0vhvRJqeFy6w",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hani Ye",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDZ8h4dtPda6pihcZTDmQ86DFn0AnjqRFfgPei6dxqpnkCiA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110364715999146607552"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbyw7pwQ0c2enX00AA1LB&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyw7pwQ0c2enX00AA1LB!2e10!4m2!3m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "heightPx": 4000,
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/photos/AZLasHrhWAvZw72FLGnm6bt2jsoTgaf2CX0GWQZcJQpnY7latHqPIkEXCOCh0gPD4e-1DFfZx4DuKCtUtNTiuRCtTMk2ZeQvK1bbgf3AhaEDpc8vUgWXCRPNU2vMvcMJ61ISHid-AnTRk3jzlwBl5nrkEEbCF90uqqKRL2qZRRuvAv7uDpWUglyLfMxtOenRrdUmUD1X0tlLFHAdZqQDZvOKfyokUZiRrXeII-1O6cLTPlW07_6Xa-_64wtm2mIRa98U8eAKMv_1OsGUz61VmqgTM3Neg7Gr-3fVR66LfyrgzZwVFxGx02sPX24rl_TlWzm7FIlQkqYRR9vONdtPtT1Spl52C3j_67iLyKcfUMIaHrvWIpVkhe_YEy82ZH5KCoKQhkJBilkJemK3qu94D1kYfpL10mLCRKTWbtLWjkCdUARTn1uDA44RNzToUJfrdw",
+            "widthPx": 1868
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hani Ye",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDZ8h4dtPda6pihcZTDmQ86DFn0AnjqRFfgPei6dxqpnkCiA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110364715999146607552"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbwPTfgw2VGenXywABsJI&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbwPTfgw2VGenXywABsJI!2e10!4m2!3m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "heightPx": 4000,
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/photos/AZLasHrilZqWnAeCpX7tKz_yG8n5z-pJfs4qQ3msCln7LTEySM80dPbIN5N6bGi_yA-h9BSvSYn0TeOO4ADpH0hKVlgkmMXhz1lJX8VKzu6kVp95Jg1Sgll701iY-0OZjtyuMTXom6Eu7LdqSz-S5CIyF7Aw7M04uUcnXENkcmW4pDhBzovKbEHf7wFtXk5AICxD2KVUokeBTJR4FSye51970L5bZba5D2sTBpvFzr3-CrIikB5Q0CD12iQ4JRXno2mXcov37y72z_vun3uTcEJSRoOtz2XBFNMwDdwxyMjXbcAnztgKtD6GkfzXMi1AMtaAStHUzp2Pgb-QJCJ6DDUxRdinZ_0whBU2yP8klIcC5XSeZASDqSKSqEcKowT7vMZLW-_D9vZCte9zio6J7p-1dxhUlEH245chFID6AwNW4JfJFh8CuG-0wIJolN9jlg",
+            "widthPx": 1868
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "P8F6+V8 Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP8F6+V8"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "استان تهران، تهران، بلوار فردوس شرقی،ابراهیمی جنوبی،پلاک ۲۹،"
+        ],
+        "languageCode": "en-US",
+        "regionCode": "IR"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "IRR",
+            "units": "1500000"
+        },
+        "startPrice": {
+            "currencyCode": "IRR",
+            "units": "1000000"
+        }
+    },
+    "primaryType": "barbecue_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Barbecue Restaurant"
+    },
+    "rating": 3.2,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:15:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 11:45 PM",
+            "Tuesday: 11:00 AM – 11:45 PM",
+            "Wednesday: 11:00 AM – 11:45 PM",
+            "Thursday: 11:00 AM – 11:45 PM",
+            "Friday: 11:00 AM – 11:45 PM",
+            "Saturday: 12:00 AM – 11:45 PM",
+            "Sunday: 11:00 AM – 11:45 PM"
+        ]
+    },
+    "reservable": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Ali Aghamiri",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGM7Wz3W3zNNJoEvAcURhEQwlJRPlL9Ysyc6i7LEcc5P6omBt7=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/107804044162453301872/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3c3FMRVdREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3c3FMRVdREAE!2m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3c3FMRVdREAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "آس شله قلمکار فاجعه بود، سبزی نداشت، بسیار کم نمک و بی مزه، پیازداغ این قدر از پیاز های بزرگی بودن که اصلا سرخ نشده بودن. کمتر از بک کیلو شد ۲۷۰ تومن. بابا آش نیکوصفت کیلویی ۲۲۰ تومنه الان.\nاصلا به صرفه نیست. فضای محیط داخل هم چندان چنگی به دل نمی زد، نمی دونم دوستان از چی اتمسفر اینجا خوششون اومده."
+            },
+            "publishTime": "2025-03-17T19:42:46.001006Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "8 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The ace of the millet was a disaster, it had no vegetables, very little salt and was tasteless, the onion soup was so big that it wasn't fried at all. It was less than a kilo for 270 tomans. Baba Ash Nikosfat is now 220 tomans per kilo.\nIt's not worth it at all. The atmosphere inside wasn't very inviting either, I don't know why my friends liked the atmosphere here."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "حمید رضا",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6E3-ndKl3ihjZ5_V-zo-SQlJjKaGQq5s221f6qelFhzKFOsG-=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/113515650092996323172/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNpMWVUWll3EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNpMWVUWll3EAE!2m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpMWVUWll3EAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "کباب خوبی داشت. فکر میکنم یک خانوم آشپز باشه. چون هر دفعه دیدم ایشون پای منقل کباب میپزه. در هر صورت اگه خانوم باشه با سلیقه تر و با وسواس کامل کباب درست میکنه. هر چند که بهترین آشپزهای دنیا اصولا آقا هستن. اما کلا خانومها کار اصلیشون پخت و پزه. مثل مادرامون . از اینا بگذریم از لحاظ جای پارک هم بدک نیست. بهتر از خود بلوار فردوس. از لحاظ قیمت هم خیلی قیمت هاش تند و تیز نیست. فک کنم صبح ها حلیم هم داره. از یازده تا یازده شب هم کباب داره. خلاصه امتحان کنید شما هم نظر بدید. به کام من که خوشمزه اومد. تا ببینیم نظر دیگر عزیزان چه باشد. لذتشو ببرید. سپاس"
+            },
+            "publishTime": "2020-11-12T13:19:50.419475Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "It had good kebab. I think it must be a lady cook. Because every time I saw her cooking kebab on the grill. In any case, if it is a lady, she will cook kebab with more taste and with complete obsession. Although the best cooks in the world are generally men. But in general, women's main job is to cook and bake. Like our mothers. Let's leave it at that. In terms of parking space, it's not bad either. Better than Ferdows Boulevard itself. In terms of price, it's not too expensive. I think it also has halim in the morning. It also has kebab from eleven to eleven at night. In short, try it and give me your opinion. It was delicious to my taste. Let's see what other dears think. Enjoy it. Thank you."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Alireza Karma",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHAPTvJkImwSnRWQoJQsQkXn7KRcI82sVrwMSdH25urkgmq7hl=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/115525876582063176107/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmakxMWUhREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmakxMWUhREAE!2m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/reviews/ChZDSUhNMG9nS0VJQ0FnSURmakxMWUhREAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "خیلی خوب‌بود ، حق‌بود همه چیشون ، برخورد عالی ، متریال‌عالی قیمت عالی"
+            },
+            "publishTime": "2025-01-04T09:35:19.723012Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "11 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "It was very good, everything was right, great treatment, great material, great price."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "hadi yousefi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMEk3X8bjmtOPPZtHwRCjCTf6n6-D8BaywmvyCom17Wdbt1o_-=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/111724466451240160728/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQta2ZPN1hBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQta2ZPN1hBEAE!2m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/reviews/ChZDSUhNMG9nS0VJQ0FnSUQta2ZPN1hBEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "از طریق اسنپ سفارش دادم یه پرس حلیم یک ساعت و خورده ای طول دادن تا بفرستند ."
+            },
+            "publishTime": "2022-12-02T07:46:28.459205Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "3 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "I ordered a Halim press through Snapchat, and it took an hour and a half to deliver."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Mehran Babayi",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIbcXjtF8F09eQ2CuLqOMYEN6wKRxyECr_6KfRg_9Icobl2Ww=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/100822855843699820329/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURpdE1QVUp3EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURpdE1QVUp3EAE!2m1!1s0x3f8dfdc3d6fc5683:0xaafbf565f6b44cc4",
+            "name": "places/ChIJg1b81sP9jT8RxEy09mX1-6o/reviews/ChZDSUhNMG9nS0VJQ0FnSURpdE1QVUp3EAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "کیفیت در حد قیمت نیست، قیمت بالا کیفیت معمولی"
+            },
+            "publishTime": "2020-11-26T12:05:13.711234Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "5 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Quality is not up to the price, high price, average quality"
+            }
+        }
+    ],
+    "servesBreakfast": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "استان تهران، تهران، بلوار فردوس شرقی،ابراهیمی جنوبی،پلاک ۲۹،",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "barbecue_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 15,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7259857302915,
+            "longitude": 51.312167930291494
+        },
+        "low": {
+            "latitude": 35.7232877697085,
+            "longitude": 51.309469969708495
+        }
+    },
+    "timestamp": 1765104805
+}

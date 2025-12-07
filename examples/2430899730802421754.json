@@ -1,0 +1,773 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P8HC+F6V",
+            "shortText": "P8HC+F6V",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Behnam Street",
+            "shortText": "Behnam St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Mehran"
+                },
+                "name": "places/ChIJ-6R9JKT9jT8R2cfeUcr3-OM",
+                "placeId": "ChIJ-6R9JKT9jT8R2cfeUcr3-OM"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Baran Store"
+                },
+                "name": "places/ChIJDceiraT9jT8RzpkF8ypQZY4",
+                "placeId": "ChIJDceiraT9jT8RzpkF8ypQZY4",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 35.00923,
+                "travelDistanceMeters": 27.865324,
+                "types": [
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store",
+                    "supermarket"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ofoq Kourosh Store"
+                },
+                "name": "places/ChIJc4u99KP9jT8RTBLg75cfspA",
+                "placeId": "ChIJc4u99KP9jT8RTBLg75cfspA",
+                "straightLineDistanceMeters": 390.4349,
+                "travelDistanceMeters": 391.72888,
+                "types": [
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store",
+                    "supermarket"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "ویچوبرگر"
+                },
+                "name": "places/ChIJqQUO0f79jT8RJDjzL4aJvQA",
+                "placeId": "ChIJqQUO0f79jT8RJDjzL4aJvQA",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 171.60956,
+                "travelDistanceMeters": 170.64917,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Reza Mosque"
+                },
+                "name": "places/ChIJxVFDiaP9jT8RJJVJmSbCK48",
+                "placeId": "ChIJxVFDiaP9jT8RJJVJmSbCK48",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 107.672775,
+                "travelDistanceMeters": 106.56441,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Mehran Station"
+                },
+                "name": "places/ChIJA47VtL39jT8R_BhTfaGF6rc",
+                "placeId": "ChIJA47VtL39jT8R_BhTfaGF6rc",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 230.58865,
+                "travelDistanceMeters": 261.2472,
+                "types": [
+                    "bus_station",
+                    "establishment",
+                    "point_of_interest",
+                    "transit_station"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T12:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 19,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 19,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 19,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 19,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 19,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 19,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 19,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 4:00 PM, 7:30 – 11:00 PM",
+            "Tuesday: 12:00 – 4:00 PM, 7:30 – 11:00 PM",
+            "Wednesday: 12:00 – 4:00 PM, 7:30 – 11:00 PM",
+            "Thursday: 12:00 – 4:00 PM, 7:30 – 11:00 PM",
+            "Friday: 12:00 – 4:00 PM, 7:30 – 11:00 PM",
+            "Saturday: 12:00 – 4:00 PM, 7:30 – 11:00 PM",
+            "Sunday: 12:00 – 4:00 PM, 7:30 – 11:00 PM"
+        ]
+    },
+    "displayName": {
+        "languageCode": "en",
+        "text": "کترینگ انتخاب"
+    },
+    "formattedAddress": "Tehran, Behnam St, P8HC+F6V, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd7d002f8389:0x21bc4a6cfb122ffa!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd7d002f8389:0x21bc4a6cfb122ffa!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2430899730802421754&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd7d002f8389:0x21bc4a6cfb122ffa!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd7d002f8389:0x21bc4a6cfb122ffa!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2430899730802421754&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJiYMvAH39jT8R-i8S-2xKvCE",
+    "internationalPhoneNumber": "+98 21 4403 9660",
+    "location": {
+        "latitude": 35.7287386,
+        "longitude": 51.3205392
+    },
+    "name": "places/ChIJiYMvAH39jT8R-i8S-2xKvCE",
+    "nationalPhoneNumber": "021 4403 9660",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "M Sh",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJP62DHodpm3qxcpzKLrRXfEd2OPI9J-j5Eeur114l5sHDo6qq=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116412634454202657333"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC2rcrOBw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2rcrOBw!2e10!4m2!3m1!1s0x3f8dfd7d002f8389:0x21bc4a6cfb122ffa",
+            "heightPx": 3985,
+            "name": "places/ChIJiYMvAH39jT8R-i8S-2xKvCE/photos/AZLasHpKTikePHVFHaa0pxPpFiC4tiChU12rW55en5fbGtXuWRETfRvNtjpTwB9_oohHBuZzASxthQFZRkYp8wnYGi8Jx6Ucpz153YbQl55sYqP5rMzLBB-WboLlpDu6AZ3ZeSvSX8rFEWcPzQPcsD8lFLDR2pxjAqGjrSoKP2nnNxUGwqeanXlxBHYSNhTp7hnDstB7sVDhhAePvHwMtvpNz-_SusoJHjMpaQI8OWr1THvausfijAopeaAod4YG_b0ThqiC_6gUR3WJ_paV-p0ZaAJGoUnkomSFlAOzXeeiDadRMT0ybW-Ara1J-mCBa1iZ5hLnzXOdUJtLTPLthmf_E5owR2ti0t1nd1FoyvADYMwExbGJbxgijZyMX35azsw-dwary4m5FQMZnyj_zkvvYoOBHR6kgyj8CwlScdhtt-E",
+            "widthPx": 4800
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "Behnam St",
+            "P8HC+F6V"
+        ],
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 2,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T12:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 19,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 19,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 19,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 19,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 19,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 19,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 19,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 4:00 PM, 7:30 – 11:00 PM",
+            "Tuesday: 12:00 – 4:00 PM, 7:30 – 11:00 PM",
+            "Wednesday: 12:00 – 4:00 PM, 7:30 – 11:00 PM",
+            "Thursday: 12:00 – 4:00 PM, 7:30 – 11:00 PM",
+            "Friday: 12:00 – 4:00 PM, 7:30 – 11:00 PM",
+            "Saturday: 12:00 – 4:00 PM, 7:30 – 11:00 PM",
+            "Sunday: 12:00 – 4:00 PM, 7:30 – 11:00 PM"
+        ]
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "mehdi SALEHI",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXQ8fwPe65-tkrzXh_te4zIsJi7Lebb-b2eSK-7hbmqaUT6ce6=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/113682998081033450837/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNPNzczUGZREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNPNzczUGZREAE!2m1!1s0x3f8dfd7d002f8389:0x21bc4a6cfb122ffa",
+            "name": "places/ChIJiYMvAH39jT8R-i8S-2xKvCE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPNzczUGZREAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "قیمت غذا ها بالا و خیلی گرون هستند"
+            },
+            "publishTime": "2022-06-23T12:26:34.176073Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "3 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Food prices are high and very expensive."
+            }
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, Behnam St, P8HC+F6V",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7300935302915,
+            "longitude": 51.3218376302915
+        },
+        "low": {
+            "latitude": 35.7273955697085,
+            "longitude": 51.319139669708505
+        }
+    },
+    "timestamp": 1765104817
+}

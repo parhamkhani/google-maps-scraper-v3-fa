@@ -1,0 +1,606 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "fa",
+            "longText": "تهران، استان تهران، تهران، منطقه ۵، بلوار آیت الله کاشانی، بین رامین شمالی و گلستان پلاک 256 پاساژ امید سنتر، خیابان رامین شمالی،"
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE",
+                "placeId": "ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJQ-413779jT8R7lWt_dHTS7s",
+                "placeId": "ChIJQ-413779jT8R7lWt_dHTS7s"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vahdat Optic"
+                },
+                "name": "places/ChIJdaZiXLz9jT8R_X5NmnUVt18",
+                "placeId": "ChIJdaZiXLz9jT8R_X5NmnUVt18",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 105.64068,
+                "travelDistanceMeters": 105.54294,
+                "types": [
+                    "establishment",
+                    "health",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bank Day"
+                },
+                "name": "places/ChIJVTJFYrv9jT8RftXj_kYKHRw",
+                "placeId": "ChIJVTJFYrv9jT8RftXj_kYKHRw",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 30.349495,
+                "travelDistanceMeters": 27.05236,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "دوچرخه اسکوتر ماشین شارژی کیسان"
+                },
+                "name": "places/ChIJOwCPBy79jT8RsljkwvcKgOI",
+                "placeId": "ChIJOwCPBy79jT8RsljkwvcKgOI",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 8.22586,
+                "travelDistanceMeters": 8.223885,
+                "types": [
+                    "bicycle_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr. Khorsand 24-hour Pharmacy"
+                },
+                "name": "places/ChIJ5-Q5W7z9jT8R_UnEJiyLdxY",
+                "placeId": "ChIJ5-Q5W7z9jT8R_UnEJiyLdxY",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 158.44008,
+                "travelDistanceMeters": 171.40656,
+                "types": [
+                    "establishment",
+                    "health",
+                    "pharmacy",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sarmayeh Bank"
+                },
+                "name": "places/ChIJ_V1mYbv9jT8RIb3ZMxI3TJM",
+                "placeId": "ChIJ_V1mYbv9jT8RIb3ZMxI3TJM",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 45.842762,
+                "travelDistanceMeters": 91.960434,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 59,
+                    "truncated": true
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 12:00 AM",
+            "Tuesday: 11:00 AM – 12:00 AM",
+            "Wednesday: Closed",
+            "Thursday: 11:00 AM – 12:00 AM",
+            "Friday: 11:00 AM – 12:00 AM",
+            "Saturday: 11:00 AM – 12:00 AM",
+            "Sunday: 11:00 AM – 12:00 AM"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "fa",
+        "text": "کافه رستوران تیامو"
+    },
+    "formattedAddress": "Tehran, تهران، استان تهران، تهران، منطقه ۵، بلوار آیت الله کاشانی، بین رامین شمالی و گلستان پلاک 256 پاساژ امید سنتر، خیابان رامین شمالی،، Iran",
+    "goodForGroups": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=8049868371808365841&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=8049868371808365841&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJncdPWSf9jT8RES1KVqLgtm8",
+    "internationalPhoneNumber": "+98 21 4496 6462",
+    "location": {
+        "latitude": 35.726836,
+        "longitude": 51.321063699999996
+    },
+    "name": "places/ChIJncdPWSf9jT8RES1KVqLgtm8",
+    "nationalPhoneNumber": "021 4496 6462",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "B. Moradi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5SRADicaq7RRBb-oNVkBiWzKbLtTgsDjRKmesv0TWt51SgEVg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104391537301896332413"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDMktDfYg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMktDfYg!2e10!4m2!3m1!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11",
+            "heightPx": 810,
+            "name": "places/ChIJncdPWSf9jT8RES1KVqLgtm8/photos/AZLasHqVsFdnuzivNUMt_yBnmfecYbDErBs7tuyAGJLRIDrlUd_R4m0AVEvfuPsmjerT2D21EQoXYLENSeCV3BTljxJBxP4X2SzHGChRtTOQaabmNEdAskOCtKqbj-w5W5xMHRTPp7gZSOWW8zBOX5zV5btIuFPEZ1jpvLPQs4Hk0TvGVN4z6yQGU19Q1tyBDZAckjlI4EMDP5BpKSLT2N-tabcztWqLD-7q4ZlyzRm_KC-dGQcgldXtJrLWLPXyshEMrS2JS4WRLPVMWpxtdJN7SXTc1iE1OdADUT8_HuqkiR-qR2shugn5yaZJTpi5ut79AR-kzuL26MkhBIPG9lt2bGYdd0wi46nJ3Hz_5qo4Qk0AU0qBG2hWXMJ52_bDJIc01SsdP2n5z_GJs2Hr6BseTmnuWeAdBviTaTpjo0cmlUEXZg",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "B. Moradi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5SRADicaq7RRBb-oNVkBiWzKbLtTgsDjRKmesv0TWt51SgEVg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104391537301896332413"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcgdGD8wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcgdGD8wE!2e10!4m2!3m1!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11",
+            "heightPx": 2448,
+            "name": "places/ChIJncdPWSf9jT8RES1KVqLgtm8/photos/AZLasHp0p4OUYR_qkwV_YYqDBhJZPpszlqzNWY5X3QOX3pAlZbWaArxB2IvmxkEHmGFOXj38iHHyp4B3OdZl5JvNQ-J7-J2wA_1pVRosK2xWjMYeXKqeJdq9AcwJpetyLwBihjKfV4zhIcxTK1Hd31rf9IGxvjLRAzbHVqdnRKjs1kxhytRhMLCxAcSvdqnZTyNaaiCxkQy350eSxZq9VxCECjD9JtMrn7Ary99G2TXIF5bhhyQvwWQrWxqxSQ1UqYuLEsPUuNzGe7-wn_3CvOFL1ilTAmiMZgLKTdimfzrX9B5z9KQKdc_q3M8vwrO5uivMefzt48hD1cIF8DY6o4KKqvn0h3J0M2Jq2RqXHTBoDDQC5cDrM93QqTpKNtIDwx5X94BSYGpo6v15IhBnD8U7T-GjJjfg4hQdFgk3lX745aQTyU5v",
+            "widthPx": 3264
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "B. Moradi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5SRADicaq7RRBb-oNVkBiWzKbLtTgsDjRKmesv0TWt51SgEVg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104391537301896332413"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcgdGDKw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcgdGDKw!2e10!4m2!3m1!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11",
+            "heightPx": 1080,
+            "name": "places/ChIJncdPWSf9jT8RES1KVqLgtm8/photos/AZLasHqU8-ydO7_ybiFzP7D1wmMWk8LRrIs8BrS165X3HdrkojtleMTR6d5VcvDKbgvObZpPm-QdQlzJs1mcU87CWAqM92oDew50YKHsvMr_q0qu4j0nCyVKLTeyxRPOya8duNQE0tf6evC0TUYQo3_hN_g0wqwvF9rorpnuBTUdp1H7L-blAnFCt1X2PgICV8uygKoZXtFr1Tj1FUkOlTzATnfoUhCeBdnxWsteBqmZmKzm7z_Tjq426oUy9TMCozW_HvRzgZoXM6wYXzq-PUzoP8NV1tmgx-iIa3QPYrYEdG6I0qCvAqlOua7sz76kC7SWQ9-qIF68ozqlJBxcawO8DniPRfc0FUshILmovevGjzk6tR7qIujcO-gxg_SadhLnNCD2U_DxBMz4JFBuONFGI0_50NN4Be7Y33TT-Hz7KQFEHw",
+            "widthPx": 810
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "B. Moradi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5SRADicaq7RRBb-oNVkBiWzKbLtTgsDjRKmesv0TWt51SgEVg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104391537301896332413"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcgdGDqwE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcgdGDqwE!2e10!4m2!3m1!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11",
+            "heightPx": 1080,
+            "name": "places/ChIJncdPWSf9jT8RES1KVqLgtm8/photos/AZLasHqe3OF9_T_-1rp7fOuSvit2ubUIoAV7aDq6J2O7IARYh2u_9OkHm_rwJPysC3TZeJjUs0EcFKqZPT5jJ3JRdTwyCPDxOzvffSJ1ib5hvNIpQEg5sPC4rRWOHG0ZP7TGkKqy-lwXeF1AC8Yk9KAm0HcGRC1qaUBlFu5tcMOQUOnE8L2MtveCYtAJTZUOXD1-6ZZlZwGdB2uvGWVIWWoHkpiCYzdAOH_HmribVSHtgYWXhlf96U7Cbji2Z1Otmn4NYqHXnawUhj_k95vRO7kje3zn6FgSWd_YWMAW_HXyY6uDqv-BQ45Tat0-1sw493Fw3qNbYB4_T0WMGMrjOW6YZEfXbK2ahUs_Z-0T1y_p-lunOGFXe2CWIU7I1R9zjqlVJhXQ-4diBQgi-1_zsAuJltfpW1FclMgfoTO-Dov6QuBpr6hM",
+            "widthPx": 810
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "B. Moradi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5SRADicaq7RRBb-oNVkBiWzKbLtTgsDjRKmesv0TWt51SgEVg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104391537301896332413"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcgdGDCw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcgdGDCw!2e10!4m2!3m1!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11",
+            "heightPx": 2448,
+            "name": "places/ChIJncdPWSf9jT8RES1KVqLgtm8/photos/AZLasHpk_0KEctcq50o95qszOp11BqPslycsb3uAWtet_Pp74FzcRQd7X4FQ4S_GMZfzVHH9d-1EUK2ejMfVgltaj3mVtd6AmuVVdUOEKowEJIOzpjm5D8GnJgHsreB0uy2m3AWqp3c9NTgdyPzbfHRr2co8tHEAqtZPmgPd76o0fL9PX0hWVl6DDnHZKBQ1nAnq6ssXhKWCR98c0XdozuBZIqd7PeStGAz1BS7ZX_XkIWtICj-QkufCAp31KFRz4vU3kflzt2FsiQfAlzFTWf9BRcakSRgLI0JoWCXCRdQ97EI4mAnXyXCLulje8a6Cw74qSJucFO47vnkaOcmqgv4hiaUag6zDlbRmWgfkViXY0gQulpG9qyZSmIHMWfgQDCzm56IgAmq1w20gGgmbBdNHOQkQ_vfmzy3QOj8trcPU8av7Rg",
+            "widthPx": 3264
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "B. Moradi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5SRADicaq7RRBb-oNVkBiWzKbLtTgsDjRKmesv0TWt51SgEVg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104391537301896332413"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcgdGDSw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcgdGDSw!2e10!4m2!3m1!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11",
+            "heightPx": 499,
+            "name": "places/ChIJncdPWSf9jT8RES1KVqLgtm8/photos/AZLasHpK4E1A9ePDgERYMxdjYteiyhgx8UNIRksTgmN-XKp9I9sG4nZ-C8K1LjqcSA1ZVmM_WFQu6FH5SwFmBWdYHWdntWzVrK_INX9cK-p0Mtj0v10RPLztvBHPx6v2qE59YIVU6y6dJRazLqHDJ-afeEnqXL-VAUz-ToE_rkPihy3LwliM3E-zJC3cNoJb_7tzF8RUSSojFCkAdFZtQNS_16Slf8kPgDxNLj0GUAR4pRMkbx6R21A4ajOlMduDzBpQ4I7odY1bqpr45LP_mM7yToeeUlmjpl8j-umi1JJyXkn2UWcXrlo-eP4MWxTX0s_J04nCtdCqem7BrKIE-VbO1lREGyMLf_PvGFIuNg1TglbEweHaNQVr_1pED492ojzCIdnt58oEg-B38NgiGlQSDCNv-siJNfLGCE4TQZt8Q-xsVQ",
+            "widthPx": 504
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "B. Moradi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5SRADicaq7RRBb-oNVkBiWzKbLtTgsDjRKmesv0TWt51SgEVg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104391537301896332413"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDMktDrBA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMktDrBA!2e10!4m2!3m1!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11",
+            "heightPx": 2448,
+            "name": "places/ChIJncdPWSf9jT8RES1KVqLgtm8/photos/AZLasHp1_XwO7tuwXjmTrOl4GcTvG0VLNa_qFsQnXh4W1FPOXT33zDtakzAyDOSpw5pTqYLfW54MoC0seeCm-MsQUvFMQFNMtKaLnCHYknEcRKHjYH5P_u7PTyD91gHCxT48X2s2MBvUUSAIRK0iri3LTljcm_blOz6al11806FAtBvntmDrm5BAATceXOLChfbi6PXqAbLKbFyJug-L5wFqvDlhGbjWRNn9XKdid4Jg-BTf0OXE8V-grOClabjPAdnugbVsV0kaujV0G9r12AXELJ_BgKiZyLEzugANzW7cBPtbOEFBHM3tf8aO7sjCnPR7BvfcMn-HoRZ45ttZ7eZRNNy5UlSrKVpiNURR81oZNjy9-nk72GqpWikJWIurKCBTBx2NRZ1XZCmcVcfeqHOWwA7XBCDqal8mDzAeNEhaqT4aUg",
+            "widthPx": 3264
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "B. Moradi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5SRADicaq7RRBb-oNVkBiWzKbLtTgsDjRKmesv0TWt51SgEVg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104391537301896332413"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDMktCP0gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMktCP0gE!2e10!4m2!3m1!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11",
+            "heightPx": 1080,
+            "name": "places/ChIJncdPWSf9jT8RES1KVqLgtm8/photos/AZLasHp0HBoxVG0YTKPP8z_ebEexYkM2cRQGOVIsieMinXr7TVdrDsJwjcoTRV3lgZo3ZhPrDIZIutEmNm0jKLfZyYnJgLwwf7UhD3N17vybD_ny6rSi7_UWsW_YEavj6w7IpexE4b7ZwHHtMVTSYNziAv-mTf8nzIZGwxeiXJQvCssfcH3Pu7_jr643IC96SD5pkssKqTRi6Am6ZhOIPTuDTdyeEPg-rrOLDKQ1e-1d_TLWi3nAVg_v0P4JAh0tJ1fmUUXdBPFnDRU-KN98_yjHIQaNrmkyDnl35IORmSkRxzGNFefsdBn_8IzXmi4nbCXqSqoxTjTHMB4tko-SnbTlz2GykkPU8bgJ4C6zhiJiv01sF4V6T3r9u3uLNgt_DLeEN-9T3y1_sKKYD4BTB-bdHqcxi60xglUuSRnsVGP1c5KouVYT",
+            "widthPx": 810
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "B. Moradi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5SRADicaq7RRBb-oNVkBiWzKbLtTgsDjRKmesv0TWt51SgEVg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104391537301896332413"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDMktCdTA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMktCdTA!2e10!4m2!3m1!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11",
+            "heightPx": 2448,
+            "name": "places/ChIJncdPWSf9jT8RES1KVqLgtm8/photos/AZLasHo8lYLQtvolyx4EoVZjVQPuD-G_-LDzV2uWLp6Z7BOg6SqYYbxsTZbXmB4qiprtGlbpLDzWTP56R5CbZPB5j7c1lERFv208-NOSTHpmMEpKGIR2j84_i060lVndwZNTL3Lz2IhNsmgYpDZ_IX_bxFMcnv8OBI2fXlAco7_bkEtJHkzc8E4jMndrlpVsg-r1Uxhvs5t3n9LoAxB54Wef6WpAU_NWZbSzcKLfjYLzdH391LqmGwboGCO2UVRCE_O_XTqpBio5rrMpvWfxrQUqiH4KCN96gJq9Amv8oFQsPsd5_Khc3lFVFA9HOiKu_u0LIfbFbBUcJJFz5UW2DyaSrh6aPZv3Ah06LKn563ty6xeWsA8jT208IeVyq0vQ2uyL70qN1Zv_pxzEz-1tdYKPaXKERmQp8BI8pOIC9quiMws",
+            "widthPx": 3264
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "B. Moradi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5SRADicaq7RRBb-oNVkBiWzKbLtTgsDjRKmesv0TWt51SgEVg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104391537301896332413"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDMktCPgQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMktCPgQE!2e10!4m2!3m1!1s0x3f8dfd27594fc79d:0x6fb6e0a2564a2d11",
+            "heightPx": 1080,
+            "name": "places/ChIJncdPWSf9jT8RES1KVqLgtm8/photos/AZLasHqPLTm2P58QIu5EwCOrbUATjHT5vF0YqP-wYazxHjx58aNSihOcyTAdKv3HjZcLrIlKryA4MM6fpyonl3z0ji-v57I02CID9WaBrF6sXgYy54JKziXmuQy4nrByufpBdUGveC1s9ew60rrj1vtY39o4nPvj4ujDNWtbnAaUjgeMKG3j2oPojOcVRpE7wQhYpTAyURgPP1fagu2wVN2zi4DlE2wYRYOiRLQKwHyoXX-gsCasfejvo_Goa2ktXJXynTNmZ2HUkJGNXZXO9nUZ0LjeTgDPZCLpSiPtFYB7sGc_HuGSsHX1fAV2hdTN6ZFfGZnkyBfYRsILzfcl0vx3TU7SFeVTgneU2Qi2psTX1bwvnc_lt-WKufb0CNN200fjzh8wXbFsGbwAgkVO4NVO834qcNdgp7hMw4p-krRdR1dndTdD",
+            "widthPx": 810
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "P8GC+PC Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP8GC+PC"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "تهران، استان تهران، تهران، منطقه ۵، بلوار آیت الله کاشانی، بین رامین شمالی و گلستان پلاک 256 پاساژ امید سنتر، خیابان رامین شمالی،"
+        ],
+        "languageCode": "en-US",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 12:00 AM",
+            "Tuesday: 11:00 AM – 12:00 AM",
+            "Wednesday: Closed",
+            "Thursday: 11:00 AM – 12:00 AM",
+            "Friday: 11:00 AM – 12:00 AM",
+            "Saturday: 11:00 AM – 12:00 AM",
+            "Sunday: 11:00 AM – 12:00 AM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "servesBrunch": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "تهران، استان تهران، تهران، منطقه ۵، بلوار آیت الله کاشانی، بین رامین شمالی و گلستان پلاک 256 پاساژ امید سنتر، خیابان رامین شمالی،",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.728256180291496,
+            "longitude": 51.3224564302915
+        },
+        "low": {
+            "latitude": 35.725558219708496,
+            "longitude": 51.3197584697085
+        }
+    },
+    "timestamp": 1765104817
+}

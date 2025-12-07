@@ -1,0 +1,695 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "fa",
+            "longText": "کوی ارم، تهران، استان تهران،"
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "P7JM+5G7",
+            "shortText": "P7JM+5G7",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Kooy-e-Eram"
+                },
+                "name": "places/ChIJHSzCqIz8jT8RWN53UCP2l4Q",
+                "placeId": "ChIJHSzCqIz8jT8RWN53UCP2l4Q"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Elham Park"
+                },
+                "name": "places/ChIJqYTvG438jT8RzDXxCXh9UPw",
+                "placeId": "ChIJqYTvG438jT8RzDXxCXh9UPw"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Elham Park"
+                },
+                "name": "places/ChIJqYTvG438jT8Rr5EXnBvb8HA",
+                "placeId": "ChIJqYTvG438jT8Rr5EXnBvb8HA",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 180.35342,
+                "travelDistanceMeters": 366.8972,
+                "types": [
+                    "establishment",
+                    "park",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "دبستان دخترانه صدرا Sadra Elementary School"
+                },
+                "name": "places/ChIJg3fMQfP8jT8RKc3lXpiwhIA",
+                "placeId": "ChIJg3fMQfP8jT8RKc3lXpiwhIA",
+                "straightLineDistanceMeters": 145.52829,
+                "travelDistanceMeters": 191.67496,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "primary_school",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Cafe Sweeney"
+                },
+                "name": "places/ChIJE8QrmSj9jT8RMDLfYoUaTEk",
+                "placeId": "ChIJE8QrmSj9jT8RMDLfYoUaTEk",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 10.83454,
+                "travelDistanceMeters": 0.40118408,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "دبیرستان متوسطه عصمت"
+                },
+                "name": "places/ChIJndUNc_P8jT8R2digIkggHec",
+                "placeId": "ChIJndUNc_P8jT8R2digIkggHec",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 233.68959,
+                "travelDistanceMeters": 284.89764,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Popli Khalatbari Technical School for girls"
+                },
+                "name": "places/ChIJa2mzfvP8jT8RS0p95z2YCm8",
+                "placeId": "ChIJa2mzfvP8jT8RS0p95z2YCm8",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 325.53366,
+                "travelDistanceMeters": 322.77838,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:30 AM – 11:30 PM",
+            "Tuesday: 10:30 AM – 11:30 PM",
+            "Wednesday: 10:30 AM – 11:30 PM",
+            "Thursday: 10:30 AM – 11:30 PM",
+            "Friday: 10:30 AM – 11:30 PM",
+            "Saturday: 10:30 AM – 11:30 PM",
+            "Sunday: 10:30 AM – 11:30 PM"
+        ]
+    },
+    "displayName": {
+        "languageCode": "en",
+        "text": "Atawich"
+    },
+    "formattedAddress": "Tehran, کوی ارم، تهران، استان تهران،، P7JM+5G7, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=15111664932196984531&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=15111664932196984531&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJuVmQCSL9jT8R0yZU2DBrt9E",
+    "internationalPhoneNumber": "+98 21 4044 1950",
+    "location": {
+        "latitude": 35.7304214,
+        "longitude": 51.283811899999996
+    },
+    "name": "places/ChIJuVmQCSL9jT8R0yZU2DBrt9E",
+    "nationalPhoneNumber": "021 4044 1950",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "nastaran arjmand moghadam",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJdV_u7m60sahWH1E3cQpe3hOU8I9jBwMdqXRFueRAdruMSOw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100267432199710092471"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID63OTEiwE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID63OTEiwE!2e10!4m2!3m1!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3",
+            "heightPx": 1588,
+            "name": "places/ChIJuVmQCSL9jT8R0yZU2DBrt9E/photos/AZLasHpDx06ov-M-Yk66U02qnmIgrsgfB02sNzHQPwlXvdlXXHrCMWxf4aFivJVTQyHZOk_M-fth4JbH68rhXVbNMsGlmuqfWKUkjVIfHho6Bcw1aaV0OScd9ym4TMlS4b4yDGqcmShCAC-Lf7rqQJRFnnsi0WHyjivs5adLObrzIb8A7H5PniNuRf-IF2Q6mgtoeCkPh1mVJHJAvw8D9vVHs_1PtuSo4xpJs5Rxfyd5t__95iQZQx4D6IMEG7wMoIFQOoT1U6KTcyOHTaS-d5J5O0OJ85UHhMfJFi0A2feMVhr5xHhSwASKw3sXp-vJMQDsJnTcaQvmDLr6xEhiZ3uSboCS__gRjo0gOvv8Y6mmIwgFu0Z1JCduGPqwh8MQSwHQDLuc1KSu2OqXWIYkcWEGJFVzNITt9uVsbI2Aw_cErjCDd5qj",
+            "widthPx": 3264
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "rose realty",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgIlIOkWeU0keIYIJGCn0pRMemjkrFmvoWYLV_l7K6y9SXYb4=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110829622185853831859"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDghKLDwgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDghKLDwgE!2e10!4m2!3m1!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3",
+            "heightPx": 4000,
+            "name": "places/ChIJuVmQCSL9jT8R0yZU2DBrt9E/photos/AZLasHqsOVRd66PFUYInIRS7wL5tJDW9r_sxiLejVUbpnilO3WZzYs4rTRndCqGsdgea2xorNsmA1yr9j-twIS3Ig8JpOrsKNMR7ICicFKJ3lLDvXyE4_HS3KDkI9a4d1hFg4zyvCgYML6dAn1AZXzoiURbJeGitRNcVeP-iv6gQvvMzl0mO_vPz6eM4BbiMcPt0y7-JFUui-wdCVWnhRsykexMWBiSDyAFaUHYGPjKu7vZHKDza5WFvdhceENhj--qg2bNXWFFx_yOCMcbPfuETfKj0eMEnmj3lskrABodAtbYf-kCTrqfEH2ruLqJt_IBPm5TKccS5poJ8k3dGXxn0ak0kOdlwEvJJZYzyjs2dTycCoyf-RtaWIAov74sDblW8maaBGHqzFwlBCvBA-2T1fqvxbWmhcYGGlEjBbqkkGA0m3xQG",
+            "widthPx": 1800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "shahla sarmad",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIhpzwTHQVyiXMBqXM0c2NfFu9fKHtzHXMzRFAkhgrIDkGGpQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113561561396056570517"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID6wvHaywE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6wvHaywE!2e10!4m2!3m1!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3",
+            "heightPx": 1080,
+            "name": "places/ChIJuVmQCSL9jT8R0yZU2DBrt9E/photos/AZLasHq-wb-6StAv7b8aZr5ZvcguRkWdfmdIF0IJ-MMEIqKiZ0pULUZzGu9QQL_avyqqjDLRszDkjU9a-MEI-h9xGJiiriq9C7-EUxxbbA6qZQ_bAGWCv3b1MWntkyiqxQ9VesY7K1JRn03TwapwqCdhnsJv3bevBHBwef5NKgSzcA5kKzwzidI9W0eFMvxT3NMmqfT10DoHIZgyJXMsPJf9ahECSUROxaohrsNeQBMaECSeJbc4CWkxBq2s8usRyVFbXlUV5zgQR-FcLoxme-95751gTlFvOV1PJv7MWaEfYq_nYgoi6HT-Aw5EGMRXi29rYBfLbCayVSJoZ3Qpjw7t_Gp8C31Su-dyuVTlZQ22ZRnyHH7_VfQkOTSSsDz15AC5S5Ahu6a7VQXJOH8T_iV2E4CWqrH6W7YFRTZLB6OsYiHPf_E",
+            "widthPx": 864
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "shahla sarmad",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIhpzwTHQVyiXMBqXM0c2NfFu9fKHtzHXMzRFAkhgrIDkGGpQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113561561396056570517"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID6wsnRPA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6wsnRPA!2e10!4m2!3m1!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3",
+            "heightPx": 1080,
+            "name": "places/ChIJuVmQCSL9jT8R0yZU2DBrt9E/photos/AZLasHoYSs75YUp5VoCPgtaudvzCbp8fuzazfVYSbsJf06ofDncBoPDFLX8JatFwaNBDpOvLkrgLXQvUaESB-ohPGOA4pH0hfVLojh0hWLD9h9pVjq5Y8kmFwBJGAWLeKysGeyB0Cu1jwj3DBGnvw5q4cGFX14XnJWIMbN8yx8_pvUyHDQQr3As_i6CRdWAqzM669b9hsRqaL6p_wzMoeWR9fOJYam4lzmr22u3rcWgcnUagW6I2MpmQNpOM9zV3YPqW1r8lIJSOLjP2nWw-zPDNfHurP7RetooannCJ1KHKmKiwqQg6iqB-I2khaPi03pRFRzCj2OKVcQgr2oh16wqsNE63m56jsLcC078SgnFNxYNQEdqQrNj5fpvMG4DjPVAkp8T5asSI5INQkLclVYqLE_6FmuRX5g91IwmvL_urfKQ6Dw",
+            "widthPx": 864
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "rose realty",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgIlIOkWeU0keIYIJGCn0pRMemjkrFmvoWYLV_l7K6y9SXYb4=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110829622185853831859"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDghKLDQg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDghKLDQg!2e10!4m2!3m1!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3",
+            "heightPx": 4000,
+            "name": "places/ChIJuVmQCSL9jT8R0yZU2DBrt9E/photos/AZLasHpMSsXMGUXRNeNjphLQkSQEgikB-_cKqvp54lb93PnwXlvPFXzVkVqJ8v5TNmPk5hjQN2LdgILYOQL4tkROD0nTLtTnG3E9CzoiujlicPyboVdoPCddXOg6tYjia82JtH9aGRhvLigq4wMlRSh1whWfUy90wNBZbDyxNUHohthKCVN3W8y9SBKipE3zOa5i9O5q3wBkHwCGpUlTF3gdOFmYw9C9zxA6kiU5v4xN6-swCGWIe4ZmXOCxD6kdW81SsHRjlh-GBfsfmf2Re_jli1scGp6_hR246YyYQRH9wtz0vw5vL2gE6bISdOZuII8t2cuz_qnroyOjf0bDQciH0JKHap9zLfHVwI9t1jxGvB28bOJtB1r9IfnHAGB9gBFSDB_nQyufVwjsWMZEdUENJ3_iCllJesHn_OXwAb6jzeABRw",
+            "widthPx": 1800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "nastaran arjmand moghadam",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJdV_u7m60sahWH1E3cQpe3hOU8I9jBwMdqXRFueRAdruMSOw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100267432199710092471"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID63OTwIw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID63OTwIw!2e10!4m2!3m1!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3",
+            "heightPx": 1588,
+            "name": "places/ChIJuVmQCSL9jT8R0yZU2DBrt9E/photos/AZLasHpU2DSztaTgJt-LUOHJ52GdyNjS8asFQ0DiuAyzMFXd96v_oE7lwLWwJOw1GU8-eM6DTwbC0pV0h58uZMCV_8LuQYspM5UeyRu3thZyMigBtk81fsLY4hhA9J6-JKL5mXmfFXUkn6KuefZvgn3RuFjrA8pkjOJf4QoUrasqcBOaBUGAa_ktst7ZlWe6aI2dl7ptzx9ON8HiNLuibsdy_n2C2yolT255U_FBBOnw2aT0Z5Cd6iq0V3lxtPqxXHuCHfTlCcqbr-Tp8ZYHXJA6gTzUh4303jIxEeRxVioaknfre1NI5Y1Yi6iyThjxSSxqxTiR2GqvFq-ph_Xegpri3LpB-CEtbvYz8x48U-xls8nwj6zjU81w7xkwl9bBE0hC3Od0dpTFSPq1e3IdTzb9HoKzabP2QJINtW3mdYYea-0smQ",
+            "widthPx": 3264
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "rose realty",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgIlIOkWeU0keIYIJGCn0pRMemjkrFmvoWYLV_l7K6y9SXYb4=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110829622185853831859"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDghKLDggE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDghKLDggE!2e10!4m2!3m1!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3",
+            "heightPx": 4000,
+            "name": "places/ChIJuVmQCSL9jT8R0yZU2DBrt9E/photos/AZLasHqmo0cRV9GcADdrfWm7qfO8iZxi_Aj665IovNozMMxGqhEPA_JXsa7XmmczRbqGmTS8PmWBYq7UWPFKHI53QAJG4eYC7unNjYYlcDsuA7jaA3o4CMiP-A2qzJHcLJa7qAn93x3jvninpn-tcEtxTPwLo1YOAv2yFZKphPqb10Bc9Iou_F0kUK7lzytd3V30Y5Hgi4ncuALh8FU0_uhc5a64fRANjb-mEcWk-8cAoaLxG1Ht0hEP4_btx7i1pzo8qjnb0Z8Dp_gH1zXgr-l-OhwomwqGCsznsD_VXUD9EbUWwCnf-ayozBRxFRh7bPY1eaRPaNPd61kYttn0JqM8jEJDcGQk5Os6nxFy_TgTu99b3Zj8z22lqg1NVGjqJAE5B6j_t4shkO33RLcsjHdVyLroPVi5SFm0tQVYe5RwL1gS1eQ",
+            "widthPx": 1800
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "کوی ارم، تهران، استان تهران،",
+            "P7JM+5G7"
+        ],
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "fast_food_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Fast Food Restaurant"
+    },
+    "rating": 3.9,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:30 AM – 11:30 PM",
+            "Tuesday: 10:30 AM – 11:30 PM",
+            "Wednesday: 10:30 AM – 11:30 PM",
+            "Thursday: 10:30 AM – 11:30 PM",
+            "Friday: 10:30 AM – 11:30 PM",
+            "Saturday: 10:30 AM – 11:30 PM",
+            "Sunday: 10:30 AM – 11:30 PM"
+        ]
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Pedram",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWys_7S_K6YxPb14spAsXPIL5lnuXsHzvBQyBGkvgT4j_BTaD9E=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/104123722424507843493/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3bktYS3N3RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3bktYS3N3RRAB!2m1!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3",
+            "name": "places/ChIJuVmQCSL9jT8R0yZU2DBrt9E/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3bktYS3N3RRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I must say, Atawich is an incredible fast-food joint that has left a lasting impression on me. With numerous branches in Iran and one in Turkey, it truly stands out as one of the best fast-food places I've ever been to. The pizzas they serve are simply outstanding, bursting with flavor and cooked to perfection. The interior decor is modern and visually pleasing, creating a wonderful ambiance to enjoy your meal. Moreover, the service and staff were quite impressive, providing attentive and friendly assistance throughout my visit. Atawich has definitely earned its reputation for being a top-notch fast-food destination, and I highly recommend it to anyone seeking a delightful dining experience"
+            },
+            "publishTime": "2024-08-13T14:19:45.623115Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I must say, Atawich is an incredible fast-food joint that has left a lasting impression on me. With numerous branches in Iran and one in Turkey, it truly stands out as one of the best fast-food places I've ever been to. The pizzas they serve are simply outstanding, bursting with flavor and cooked to perfection. The interior decor is modern and visually pleasing, creating a wonderful ambiance to enjoy your meal. Moreover, the service and staff were quite impressive, providing attentive and friendly assistance throughout my visit. Atawich has definitely earned its reputation for being a top-notch fast-food destination, and I highly recommend it to anyone seeking a delightful dining experience"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Fatemeh Gharibzadeh",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLoNxKGQY4vBBjQtM5cHY8MvjhCz2NT0RbD97g2y7SP8BE=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/113569881803206427731/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tjNVJIZFNXWFExTUVSYU9HbHRSVGs0ZDJkbU5FRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjNVJIZFNXWFExTUVSYU9HbHRSVGs0ZDJkbU5FRRAB!2m1!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3",
+            "name": "places/ChIJuVmQCSL9jT8R0yZU2DBrt9E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjNVJIZFNXWFExTUVSYU9HbHRSVGs0ZDJkbU5FRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "غذا خوشمزه بود ارسال هم زود انجام شد"
+            },
+            "publishTime": "2025-09-15T10:52:32.372153874Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The food was delicious and the delivery was fast."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "reza mashini",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLuGYJGhnE-5u3aos0ykW1qYJ2yznRCqql6XEkUxMt5QM9Amg=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/100769527726324497650/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyaEp1SUF3EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyaEp1SUF3EAE!2m1!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3",
+            "name": "places/ChIJuVmQCSL9jT8R0yZU2DBrt9E/reviews/ChZDSUhNMG9nS0VJQ0FnSURyaEp1SUF3EAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "بد قول نیم ساعتشون شد یک ساعت غذا سرد آمد ارزش افزوده غیر قانونی هست میگیرن میگن پیک داریم وقتی سفارش میارن پول پیک میگیرن در کل اشتباه از عطاویچ غذا گرفتن"
+            },
+            "publishTime": "2024-07-14T20:57:30.111911Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "They promised half an hour, the food came cold an hour later, the added value is illegal, they say they have a courier, but when they order, they charge courier fees. It's a total mistake to buy food from Atawich."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Siavash Gharib",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXo5_FtKwR56vJafoAIib5wODLuWM6stcX269Jvjw74ihpQA-i7=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/101027382500638283325/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUaktYa01nEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUaktYa01nEAE!2m1!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3",
+            "name": "places/ChIJuVmQCSL9jT8R0yZU2DBrt9E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUaktYa01nEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "همیشه ازشون خرید میکنم و راضی بودم. کیفیت و حجم خوبه. برخوردشون خوب و حرفه ایه."
+            },
+            "publishTime": "2024-05-11T18:53:09.751307Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "I always buy from them and I was satisfied. The quality and quantity are good. They are nice and professional."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Elnaz Sabounati",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLEzzg0UqCoLUVYOKx77i-4p-wG5Rx1PIVktl93fHGVUM2eGg=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/117843899349627025762/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWSmVuSTRWemd5Y2psdFFYZEtXalp1UWtSdmRIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWSmVuSTRWemd5Y2psdFFYZEtXalp1UWtSdmRIYxAB!2m1!1s0x3f8dfd22099059b9:0xd1b76b30d85426d3",
+            "name": "places/ChIJuVmQCSL9jT8R0yZU2DBrt9E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWSmVuSTRWemd5Y2psdFFYZEtXalp1UWtSdmRIYxAB",
+            "publishTime": "2025-07-27T11:21:41.270202726Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "4 months ago"
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran، کوی ارم، تهران، استان تهران،، P7JM+5G7",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 13,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7317223302915,
+            "longitude": 51.28508188029149
+        },
+        "low": {
+            "latitude": 35.7290243697085,
+            "longitude": 51.282383919708494
+        }
+    },
+    "websiteUri": "http://atawich.com/",
+    "timestamp": 1765104832
+}

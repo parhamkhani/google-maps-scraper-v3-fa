@@ -1,0 +1,260 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P7QM+JFW",
+            "shortText": "P7QM+JFW",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Andisheh",
+            "shortText": "Andisheh",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Andisheh"
+                },
+                "name": "places/ChIJoeLBy7v8jT8R3TImdMbaBv0",
+                "placeId": "ChIJoeLBy7v8jT8R3TImdMbaBv0"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sahar Park"
+                },
+                "name": "places/ChIJRTnGTuv8jT8Rvl45CRgXZrI",
+                "placeId": "ChIJRTnGTuv8jT8Rvl45CRgXZrI"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Maskan Bank"
+                },
+                "name": "places/ChIJ_2NNuJT8jT8Rs4PiHB_R-8I",
+                "placeId": "ChIJ_2NNuJT8jT8Rs4PiHB_R-8I",
+                "straightLineDistanceMeters": 54.486237,
+                "travelDistanceMeters": 81.79347,
+                "types": [
+                    "atm",
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Haji Baba Ice Cream"
+                },
+                "name": "places/ChIJ0UIg1Or8jT8R1sU-f6wjLWU",
+                "placeId": "ChIJ0UIg1Or8jT8R1sU-f6wjLWU",
+                "straightLineDistanceMeters": 214.29202,
+                "travelDistanceMeters": 267.47684,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Andishe Park"
+                },
+                "name": "places/ChIJVVVV6pT8jT8RQFmgITOtu-k",
+                "placeId": "ChIJVVVV6pT8jT8RQFmgITOtu-k",
+                "straightLineDistanceMeters": 107.24908,
+                "travelDistanceMeters": 186.9236,
+                "types": [
+                    "establishment",
+                    "park",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Housing Cooperative Organization Municipal Services Engine"
+                },
+                "name": "places/ChIJE01XCpX8jT8RezAU1rGqYUg",
+                "placeId": "ChIJE01XCpX8jT8RezAU1rGqYUg",
+                "straightLineDistanceMeters": 227.35121,
+                "travelDistanceMeters": 404.34604,
+                "types": [
+                    "establishment",
+                    "local_government_office",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Nazarlou Grocery store"
+                },
+                "name": "places/ChIJy4EMNOv8jT8RU2GEUEn7nOs",
+                "placeId": "ChIJy4EMNOv8jT8RU2GEUEn7nOs",
+                "straightLineDistanceMeters": 92.39751,
+                "travelDistanceMeters": 144.70801,
+                "types": [
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+        "languageCode": "en",
+        "text": "سوخاری چیکو۱"
+    },
+    "formattedAddress": "P7QM+JFW Andisheh, Tehran, Tehran Province, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfde9afe14505:0x90a060846b9adb60!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfde9afe14505:0x90a060846b9adb60!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=10421435659592588128&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfde9afe14505:0x90a060846b9adb60!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfde9afe14505:0x90a060846b9adb60!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=10421435659592588128&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJBUXhr-n9jT8RYNuaa4RgoJA",
+    "location": {
+        "latitude": 35.739101999999995,
+        "longitude": 51.283701799999996
+    },
+    "name": "places/ChIJBUXhr-n9jT8RYNuaa4RgoJA",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true
+    },
+    "postalAddress": {
+        "addressLines": [
+            "P7QM+JFW"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "Andisheh"
+    },
+    "primaryType": "meal_takeaway",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Takeout Restaurant"
+    },
+    "rating": 1,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Meraj partovi zadeh",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWByxBK7QdEUhVkQ02IAAjYW7oktJJf_O0zfHriwZJ_pjRNQ2c=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/109639630057802835607/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN6azhpMzV3RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6azhpMzV3RRAB!2m1!1s0x3f8dfde9afe14505:0x90a060846b9adb60",
+            "name": "places/ChIJBUXhr-n9jT8RYNuaa4RgoJA/reviews/ChdDSUhNMG9nS0VJQ0FnSUN6azhpMzV3RRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "من یک بار اخر شب ساندویچ گرفتم تا الان دو الی سه روز مشکل معده پیدا کردم که احتمالا از کاهو نشستس چون کاهو ها تو هم بود قابلیت شستشو نداشته .... شکایت نکردم ولی به تمام بچه های محل میگم ازش خرید نکننن همین الان از درد دارم میرم بیمارستان متاسفانه\nبه مجموعه زیر نظرتون توجه کنید مردم به خطر نندازید"
+            },
+            "publishTime": "2024-06-04T17:35:13.213213Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "I once had a sandwich late at night and I've had stomach problems for two or three days now, probably from the lettuce because it was in there and it couldn't be washed... I didn't complain, but I'm telling all the kids in the area not to buy from him. I'm in pain right now. I'm going to the hospital, unfortunately. Pay attention to the group under your supervision. People, don't put them at risk."
+            }
+        }
+    ],
+    "shortFormattedAddress": "P7QM+JFW Andisheh, Tehran",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7404805302915,
+            "longitude": 51.28510798029149
+        },
+        "low": {
+            "latitude": 35.73778256970851,
+            "longitude": 51.28241001970849
+        }
+    },
+    "timestamp": 1765104832
+}

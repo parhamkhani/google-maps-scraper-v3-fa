@@ -1,0 +1,177 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "fa",
+            "longText": "کیلومتر ۲۸ جاده مخصوص"
+        },
+        {
+            "languageCode": "fa",
+            "longText": "نرسیده به پل مترو",
+            "shortText": "نرسیده به پل مترو",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "languageCode": "fa",
+            "longText": "به کرج",
+            "shortText": "به کرج",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "East Tehransar"
+                },
+                "name": "places/ChIJr8TTlI37jT8RdY7YLlfTmCw",
+                "placeId": "ChIJr8TTlI37jT8RdY7YLlfTmCw"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Tehransar"
+                },
+                "name": "places/ChIJux_H2uv7jT8RteehOuWKWg4",
+                "placeId": "ChIJux_H2uv7jT8RteehOuWKWg4"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 21"
+                },
+                "name": "places/ChIJR4Qp0Oj6jT8RPqZojC5qdME",
+                "placeId": "ChIJR4Qp0Oj6jT8RPqZojC5qdME"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "آموزشگاه پی دی ار استاد بیابانی"
+                },
+                "name": "places/ChIJJ-b4YgD9jT8RVhR9n3BoyHg",
+                "placeId": "ChIJJ-b4YgD9jT8RVhR9n3BoyHg",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 16.177176,
+                "travelDistanceMeters": 14.582939,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "fa",
+        "text": "رستوران آذربایجان"
+    },
+    "formattedAddress": "Tehran, کیلومتر ۲۸ جاده مخصوص، به کرج، نرسیده به پل مترو، Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd6e79fad347:0xc2f0a2eef91d4481!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd6e79fad347:0xc2f0a2eef91d4481!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=14046906385033938049&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd6e79fad347:0xc2f0a2eef91d4481!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd6e79fad347:0xc2f0a2eef91d4481!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=14046906385033938049&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJR9P6eW79jT8RgUQd-e6i8MI",
+    "internationalPhoneNumber": "+98 26 3231 0402",
+    "location": {
+        "latitude": 35.704511,
+        "longitude": 51.2699492
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJR9P6eW79jT8RgUQd-e6i8MI",
+    "nationalPhoneNumber": "026 3231 0402",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "plusCode": {
+        "compoundCode": "P739+RX Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP739+RX"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "کیلومتر ۲۸ جاده مخصوص",
+            "به کرج",
+            "نرسیده به پل مترو"
+        ],
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "servesBrunch": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran، کیلومتر ۲۸ جاده مخصوص، به کرج، نرسیده به پل مترو",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7058460802915,
+            "longitude": 51.27129428029149
+        },
+        "low": {
+            "latitude": 35.7031481197085,
+            "longitude": 51.2685963197085
+        }
+    },
+    "timestamp": 1765104793
+}

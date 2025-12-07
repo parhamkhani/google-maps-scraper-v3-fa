@@ -1,0 +1,366 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P75H+5C6",
+            "shortText": "P75H+5C6",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Shishe Mina",
+            "shortText": "Shishe Mina",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Azadi Town"
+                },
+                "name": "places/ChIJvfsCs2_8jT8RODV5P-5G0OA",
+                "placeId": "ChIJvfsCs2_8jT8RODV5P-5G0OA"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 21"
+                },
+                "name": "places/ChIJR4Qp0Oj6jT8RPqZojC5qdME",
+                "placeId": "ChIJR4Qp0Oj6jT8RPqZojC5qdME"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "نمایندگی مجاز ایران خودرو ۱۱۷۲"
+                },
+                "name": "places/ChIJiypi7bb9jT8RgzQoBtV_C4c",
+                "placeId": "ChIJiypi7bb9jT8RgzQoBtV_C4c",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 16.279053,
+                "travelDistanceMeters": 4.2785025,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Paytakht Taekwondo House"
+                },
+                "name": "places/ChIJq6pqIm_8jT8RKEHG0oVlgb0",
+                "placeId": "ChIJq6pqIm_8jT8RKEHG0oVlgb0",
+                "straightLineDistanceMeters": 296.98923,
+                "travelDistanceMeters": 294.79916,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Classic Western Hall"
+                },
+                "name": "places/ChIJ7QeNZ2r8jT8Rm2gEp7PBHj4",
+                "placeId": "ChIJ7QeNZ2r8jT8Rm2gEp7PBHj4",
+                "straightLineDistanceMeters": 312.4695,
+                "travelDistanceMeters": 328.64355,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Faraji High School"
+                },
+                "name": "places/ChIJ1ZNx4278jT8R-t6_IP4ZR28",
+                "placeId": "ChIJ1ZNx4278jT8R-t6_IP4ZR28",
+                "straightLineDistanceMeters": 229.04054,
+                "travelDistanceMeters": 284.95743,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Koosha International Center of Applied Science & Technology"
+                },
+                "name": "places/ChIJ01qMZ2r8jT8RDX1NSs9Hpq8",
+                "placeId": "ChIJ01qMZ2r8jT8RDX1NSs9Hpq8",
+                "straightLineDistanceMeters": 415.8902,
+                "travelDistanceMeters": 412.57373,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "باربیکیو مستر رنگو"
+    },
+    "formattedAddress": "Tehran Province, Tehran, Shishe Mina, P75H+5C6, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd7dd778af09:0x55e2d0ffcfab8a11!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd7dd778af09:0x55e2d0ffcfab8a11!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=6188738635079846417&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd7dd778af09:0x55e2d0ffcfab8a11!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd7dd778af09:0x55e2d0ffcfab8a11!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=6188738635079846417&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJCa941339jT8REYqrz__Q4lU",
+    "internationalPhoneNumber": "+98 939 777 7116",
+    "location": {
+        "latitude": 35.7079042,
+        "longitude": 51.2785045
+    },
+    "name": "places/ChIJCa941339jT8REYqrz__Q4lU",
+    "nationalPhoneNumber": "0939 777 7116",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alimohammad Mostofi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGKevWyWS3LhtGj8HHeE7EUQtwooGArpiFJ3n6EFU-hKXSs5Vr=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108668586725183987347"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDljOj4OQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDljOj4OQ!2e10!4m2!3m1!1s0x3f8dfd7dd778af09:0x55e2d0ffcfab8a11",
+            "heightPx": 4032,
+            "name": "places/ChIJCa941339jT8REYqrz__Q4lU/photos/AZLasHqqK3HvkRuyKc51sF0rWxE8eRGivsrctvtCjU_Cfj5h2k-J910Ol-gr_VtGoovmEAjiBxXh2RVy4vwf3zhGAvSh_bUi0qFCsPzl4YPhrco6t5_qA97wN6dHvuCpO8dA0pGYO4vpqxqP21Zw0kawnASgH7a6I-ZSCyMJNfJBc0cA-Tq4FRivyiR6srVD01LT9iliGuV8mcSAC6D1ZZ9JdOS8YlAHPtlc0fOahZlSRbxvHA7oMOjN9SH63abcAF2XFe41vpdwYfIO41AngV9owiE5e8SRUavtP9jfmgHiDnWJGKHCjuCB6J7nFfwZlYtfuoobaWfp15jAfdZdR8ZluK8gJ_KJTy0mCLrZ8itZe3QaUvFY-7f_TQC5bTwyjwUa4vNj15UMbB_4vTTePoe0oPZlFJZvZzKNLiqI46eB5yI",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alimohammad Mostofi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGKevWyWS3LhtGj8HHeE7EUQtwooGArpiFJ3n6EFU-hKXSs5Vr=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108668586725183987347"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDljOj4RQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDljOj4RQ!2e10!4m2!3m1!1s0x3f8dfd7dd778af09:0x55e2d0ffcfab8a11",
+            "heightPx": 4032,
+            "name": "places/ChIJCa941339jT8REYqrz__Q4lU/photos/AZLasHrGqHF-ITS3DYhQZOstDPs_5U9H3Zl8ijqcH2oy3Zy47hAA4iwaCUduNxF6iVQJa0YXQCwGMoIpuXYHKldWX14mnFneMamzUtyXMjisjicC6B3U7NiIv1ox_1kZhQG0-Wk_7j3ofLEcis85cuvUM2tsuNlRtvpk_JRoTiAxc9jO1ttX21iz76lpg9ZttjoL7AAGRl6gmJ_SjtFD59dpp3TeD05AeYgVb8irFrXPh07X3CjeWTQmI7emoS-34Kyouh3XAhR79nTkq923WINymF_oZ6VatX1ylPYOlZB4Wy1mrtOFwBux3NGlXy9_OmZVTISbUnf5vLngV3I__L0kPuHzNw1UPC8dFSo4vscYtfp5G-roEO8SoDc9B0Gl6O_icMvbNZ3DIp_-2jSWN_ihkrQfuN247idOJCi1O0HyTw-2rQ",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alimohammad Mostofi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGKevWyWS3LhtGj8HHeE7EUQtwooGArpiFJ3n6EFU-hKXSs5Vr=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108668586725183987347"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDljOj4xQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDljOj4xQE!2e10!4m2!3m1!1s0x3f8dfd7dd778af09:0x55e2d0ffcfab8a11",
+            "heightPx": 4032,
+            "name": "places/ChIJCa941339jT8REYqrz__Q4lU/photos/AZLasHpgs7O5O2xM498Y8M6Pmm-giI63H54UnXqi3JZNRmHrbHHi07gXAzl5yeLlc4_Mg6o4wVf9DbZ_8_jBIN-AXcf5KHa9H5nmhbulkj36hWJOIX10MJnMFh3ibCk5TjoupSwtOgJX4mPBuavUexRGACoC7hFRbQQehKBwrA8fKkVuPYJ6TI8kr9MRJAteON4XZAwMRiXA3JeuNNCUZ4CX0ju8XJpBW0FmdzFbMN2NwlHdjwVPlVyuVIeEkVbTRfyP1i2AXoZkfpAboZ4G6bw_kicGAfBc-DU_qpuXdswRm_01N-R7NqqSqaA_bMQDlLy-cWXmNpHotnfkocTd6Sux_4ImZp5GfFgniQu0pgYwRJMzDOg1K8uaTIYJdIIyuYq1S8k48uTbBhx1VM1tS-OOPHcRLBlDpSBHlmaWoNNmzMY1lvse",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alimohammad Mostofi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGKevWyWS3LhtGj8HHeE7EUQtwooGArpiFJ3n6EFU-hKXSs5Vr=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108668586725183987347"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDljOj4uQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDljOj4uQE!2e10!4m2!3m1!1s0x3f8dfd7dd778af09:0x55e2d0ffcfab8a11",
+            "heightPx": 4032,
+            "name": "places/ChIJCa941339jT8REYqrz__Q4lU/photos/AZLasHqhvG22mj2WCWIrn1PsQO73mQ-JKwlPoNGxYv32ShS6LMG6ZWqwD-1UhnNmBBHGTjQjnJepFmpRyEsqEVpsBzO1OawSGf0J9dVb7NhjIjbSfktjqrWZkzji7mEYZrS9Yh5OU2rK99GMrIi34NViVYQ75OV5y3IJNHLJ_PfmKVFkeFw3eJGonzdHEltV5U5b56wNalolotuY4qvBSY0FeXCzPombZTyI_MQ5LRq6hiCluqpT32B8_A9idpLPi3sJQyY9V9jA6Otba3HepBcEVowSFbxdBqQkjltOQ2VZE-SfFqBg6zwLmCRIxpfiF61exh33tcY_-cD27gMsKtssmrL7NduuWYmZc1zIthTtV25tSy3LiaX8UAHw64Hy_TIF0adF5F0G8BDIg49sSECvO6_JsvtCvYgvql9CMsTMMhqwm5L4",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alimohammad Mostofi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGKevWyWS3LhtGj8HHeE7EUQtwooGArpiFJ3n6EFU-hKXSs5Vr=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108668586725183987347"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDljOj4BQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDljOj4BQ!2e10!4m2!3m1!1s0x3f8dfd7dd778af09:0x55e2d0ffcfab8a11",
+            "heightPx": 4032,
+            "name": "places/ChIJCa941339jT8REYqrz__Q4lU/photos/AZLasHrGN_D3hUdMZq_3_2i_lxz1DN0DZr50L8Hac-diRoNNi1juZfEX36nW8J5ZG-rI-GeNhJIqbDhW07QrcFz82-IrrjPe_4sEDB8b_l8dsgUn_tHDiqvCpKC2J4mQkr8BVDwoBSh8iDrGhj7YSaz_w0G3Hw5nhQRoVcnYquF_KQGL7IGoGmvOS3xN4LWYLVRG69J44QS5fQb3ins-ZCc7Z4YrsfczkMufKuFVVblt2lF11L-Wo1RSyispBTaJSykuuirnD0WcpygVZ_UCP7KJxXNcHeEVlRLMheKabT6BFMhxn71hlggw82UHgzjmfYLkUYLHSoLlOoRG7SbHrsW6cDg5auraNW_-29gERL65-o7zNn6vOVpYGRU9b9zzUQGmC8W8df5LqhB_6a9UG7mBlL7jesYCUcdLs7WEqcPNi6si7g",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alimohammad Mostofi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGKevWyWS3LhtGj8HHeE7EUQtwooGArpiFJ3n6EFU-hKXSs5Vr=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108668586725183987347"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDljOj4hQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDljOj4hQE!2e10!4m2!3m1!1s0x3f8dfd7dd778af09:0x55e2d0ffcfab8a11",
+            "heightPx": 4032,
+            "name": "places/ChIJCa941339jT8REYqrz__Q4lU/photos/AZLasHpxGI1c0pfqxy4hrSIH-SOsTRF4ymdNvaAS8M6Wn2R1vXJz9vJLgDVoOHcBSLzKrYgyAf3khjYfjx8Mh2jwkKWqWkcnv1n-_k-bpb-wbofryM6a4eyM5VvJAlknuvbM5D-seOfGNS391IZJlVLcXLKw8B7sKVFvj5ll7kd4bX8Lnio5_98YUt7s70gFBf-FGh7grKTWH1GPVY9A6nkjFG2quqwMAG8-SRGn711-rXfHrJhMSOFVIxRe70GktHBGCnXZKPe_pXRKkL5msP3bNxj723RkrOIvBgxGwxzKGX0LtlxGQMK3LPDCwbVUiszIJj7lakxkTdkZOtz6dmXh2WOJxGF1k8W1QPmKbccz8CE17JpOiyBps1-I3zNIHt2Cp7KB6KxHST7sK4sIAdPkJBTxbnlYDZmQk-Y1Wun3b_9yMsI",
+            "widthPx": 3024
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "Shishe Mina",
+            "P75H+5C6"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "barbecue_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Barbecue Restaurant"
+    },
+    "rating": 3.3,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Hasan Moosavi.",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVbrS6VG4ttwVi9NdmRm-aYzM9Ir0RR7YjTkFNh0CxpCj1ZaJ4=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/110686581191347018644/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VMR3hoTXUzM2FLM0h3EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VMR3hoTXUzM2FLM0h3EAE!2m1!1s0x3f8dfd7dd778af09:0x55e2d0ffcfab8a11",
+            "name": "places/ChIJCa941339jT8REYqrz__Q4lU/reviews/ChZDSUhNMG9nS0VMR3hoTXUzM2FLM0h3EAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Good"
+            },
+            "publishTime": "2025-06-11T14:49:56.567463Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Good"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Alimohammad Mostofi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGKevWyWS3LhtGj8HHeE7EUQtwooGArpiFJ3n6EFU-hKXSs5Vr=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/108668586725183987347/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURsak1TYU1BEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURsak1TYU1BEAE!2m1!1s0x3f8dfd7dd778af09:0x55e2d0ffcfab8a11",
+            "name": "places/ChIJCa941339jT8REYqrz__Q4lU/reviews/ChZDSUhNMG9nS0VJQ0FnSURsak1TYU1BEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "از نظر کیفیت غذایی به نظرم می‌تونن بهتر باشن، از نظر خدمات و برخورد واقعا عالی بودن و خیلی برخورد خوبی داشتن. محیط بیرونی‌شون خیلی قشنگ و دلنشین هست و بال و کتف خیلی خوشمزه‌ای هم می‌زنن. اما برای جیگر به نظرم بهشون بگین که براتون ول‌دان بزنن."
+            },
+            "publishTime": "2023-11-30T15:08:39.562326Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "In terms of food quality, I think they could be better, but in terms of service and attitude, they were really great and had a very nice attitude. Their outdoor environment is very nice and pleasant, and they also have very delicious wings and shoulders. But for the liver, I think you should tell them to cook for you."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Hossein Ghadaksaz",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXvR0-s04upNOEbvhPJkh1uVZivBbuQMwpVECFDwPk4m5oeq7Lqw=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/116200458696772420810/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuc05yd2d3RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuc05yd2d3RRAB!2m1!1s0x3f8dfd7dd778af09:0x55e2d0ffcfab8a11",
+            "name": "places/ChIJCa941339jT8REYqrz__Q4lU/reviews/ChdDSUhNMG9nS0VJQ0FnSURuc05yd2d3RRAB",
+            "publishTime": "2024-10-02T09:15:58.601076Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a year ago"
+        }
+    ],
+    "shortFormattedAddress": "Tehran, Shishe Mina, P75H+5C6",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "barbecue_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 3,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.70923363029151,
+            "longitude": 51.279846880291494
+        },
+        "low": {
+            "latitude": 35.70653566970851,
+            "longitude": 51.277148919708495
+        }
+    },
+    "timestamp": 1765104794
+}

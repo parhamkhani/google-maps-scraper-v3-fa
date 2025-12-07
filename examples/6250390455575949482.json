@@ -1,0 +1,312 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P874+X34",
+            "shortText": "P874+X34",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Ekbatan Town",
+            "shortText": "Ekbatan Town",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ekbatan Phase Two"
+                },
+                "name": "places/ChIJkdJewMz9jT8Rp03QYa-tU0c",
+                "placeId": "ChIJkdJewMz9jT8Rp03QYa-tU0c"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ekbatan Town"
+                },
+                "name": "places/ChIJX9SXfNv9jT8RI2uoo_0CD5Y",
+                "placeId": "ChIJX9SXfNv9jT8RI2uoo_0CD5Y"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Pasargad Shopping Center"
+                },
+                "name": "places/ChIJAT9dNrX9jT8Rr6UchxSfTtc",
+                "placeId": "ChIJAT9dNrX9jT8Rr6UchxSfTtc",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 26.69015,
+                "travelDistanceMeters": 17.431824,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shopping_mall"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Khomeini High School"
+                },
+                "name": "places/ChIJz1jS07T9jT8RgDsKTJTQkEE",
+                "placeId": "ChIJz1jS07T9jT8RgDsKTJTQkEE",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 139.5323,
+                "travelDistanceMeters": 428.12347,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school",
+                    "secondary_school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "FazBurger"
+                },
+                "name": "places/ChIJDeLxB3b9jT8Rs4EPb3iZZ00",
+                "placeId": "ChIJDeLxB3b9jT8Rs4EPb3iZZ00",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 28.569967,
+                "travelDistanceMeters": 28.341246,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Joorchin Stationary And Bookstore"
+                },
+                "name": "places/ChIJC2ySu9v9jT8RQHNLkJKcntw",
+                "placeId": "ChIJC2ySu9v9jT8RQHNLkJKcntw",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 32.394394,
+                "travelDistanceMeters": 29.181168,
+                "types": [
+                    "book_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Gisel Coffee"
+                },
+                "name": "places/ChIJHw5IoUT9jT8RMhNRD-lO7Vs",
+                "placeId": "ChIJHw5IoUT9jT8RMhNRD-lO7Vs",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 15.595482,
+                "travelDistanceMeters": 468.97696,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJAT9dNrX9jT8Rr6UchxSfTtc",
+            "name": "places/ChIJAT9dNrX9jT8Rr6UchxSfTtc"
+        }
+    ],
+    "displayName": {
+        "languageCode": "fa",
+        "text": "پیتزا بلوک"
+    },
+    "formattedAddress": "P874+X34 Ekbatan Town, Tehran, Tehran Province, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd005f4d4365:0x56bdd900dc18b0aa!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd005f4d4365:0x56bdd900dc18b0aa!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=6250390455575949482&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd005f4d4365:0x56bdd900dc18b0aa!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd005f4d4365:0x56bdd900dc18b0aa!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=6250390455575949482&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJZUNNXwD9jT8RqrAY3ADZvVY",
+    "location": {
+        "latitude": 35.714833299999995,
+        "longitude": 51.3052692
+    },
+    "name": "places/ChIJZUNNXwD9jT8RqrAY3ADZvVY",
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Qazaleh Bagheri",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI5WVt5jKIco8OJDNhAiXxEZh6Yxozo-cKIdV5gtFZAQFtqfQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114221511083506441062"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKz9AcQXGf3grkAAHgP&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKz9AcQXGf3grkAAHgP!2e10!4m2!3m1!1s0x3f8dfd005f4d4365:0x56bdd900dc18b0aa",
+            "heightPx": 540,
+            "name": "places/ChIJZUNNXwD9jT8RqrAY3ADZvVY/photos/AZLasHo8ZZPqLRJU31DcEjCERm5MC1_kqqnUP1r1fS_c3gMfPZCjAuM1jLCOFJZyptWl-U1vHncI-m4QCbK7aXiLZ91nRo-hC5Uzlpcs9PbjFbRYZARdhjtMDJxDaZo4NPepkMt1kMOsQRpC115FKx84bWL1jB49awnUsNjG-RKI886eakXPgMfMHD-laq9BxqUzNBU9jYXF97oKBKozLXx3fJGz4Z7upRrp0RTAkoak9aDv3OIoewHT_VoepUPSAgmuhBv4P_Dc5r7K6wmuBN8D7lGYjIR6RvzBDXpZZomWfnpNKxJBSHihZRg-IaCbZyKF0fEwzkzQzJVNIZHqOUW0QVRanLTKXFI7C1t-6Zh9BRT-3kBgOBZkyL4PGsXUskdV609XzqY_pXEkDDDz6NY39KFpIXRJg8g9a044MFpBg4uaEyG8wGaatJIwNnCC9g",
+            "widthPx": 960
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Qazaleh Bagheri",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI5WVt5jKIco8OJDNhAiXxEZh6Yxozo-cKIdV5gtFZAQFtqfQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114221511083506441062"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKz9AcQXGf3gr8AAORJ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKz9AcQXGf3gr8AAORJ!2e10!4m2!3m1!1s0x3f8dfd005f4d4365:0x56bdd900dc18b0aa",
+            "heightPx": 960,
+            "name": "places/ChIJZUNNXwD9jT8RqrAY3ADZvVY/photos/AZLasHrvMBV33BR4jpMJy1PZ5TjDoUahEQ9blZJNrrBWGn_dhXrNzK231fKRgoybfrOpo2GA6fLZ6rPVZ6U6bm14_-_UQQe2qOl-Hy5f_onerKj-Yy0CKfVgzjGqIFQfD13locK-H8qqUFWQDBl9Q9chUxLHlPqr7vX3MyZUVVlWnNeZQD78uayNigSBik-wfgYXk_BEdpvGNaFniVGO9JN8OdrX3eTaxh3EYm1mQQcLNKLiuXTdi0gioiVNyvV0FBszdfa9N8uaomD7fgZWE0aWBBZEk4Mtq2vYVz5CV3y7GCQuBd2wUf1XD40_uFukvWWy_1jqcamkRgk8F31r6P6WF_rVfl054vkAlqKP2gAa5PHsitrZ22LRLVxcLrHHINTu6Qo97UBdXgmnHgcWGGvqaqGQ_NUlyWLnjENbNKB_wS9SMGf_5YHG-fT83Gh7e6FE",
+            "widthPx": 540
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Qazaleh Bagheri",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI5WVt5jKIco8OJDNhAiXxEZh6Yxozo-cKIdV5gtFZAQFtqfQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114221511083506441062"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKz9AcQXGf3gsQABUyE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKz9AcQXGf3gsQABUyE!2e10!4m2!3m1!1s0x3f8dfd005f4d4365:0x56bdd900dc18b0aa",
+            "heightPx": 540,
+            "name": "places/ChIJZUNNXwD9jT8RqrAY3ADZvVY/photos/AZLasHqHt5PUW2ulBPwnlMbTeak-rbfa6VoqkXJ8_ZWK_J8HkFWgwIXGqOirHqHzV5eAUOBWfcnET9Fy2VhiD0-agIETtWOPU67SR-o_mCl-UWJcabbDeG4Z9C2_X5vYpvP-Ku2i0SnXTRrXZlstE3h46ZdLONTtzshM8nv0PrvMIR9MzK5ksgnu4rwRM8rxXcPcdDxgw7UiwDpAD5p2lX-sYJZl6bB7brJZ1K_4vjJCvTHuvZwR1q5POuIXFTVfRrURBIbBY0oAkW12D7gzl0h_V4GLIqT969yMjv1jAFUYVqERobxnouFYBYjwPC9Q2kZZQVTpFGutwJmJOpGbL-81ZJjpxOpwD8kqP0bOA5Y7VOIni2OlWlgbqMxoTBjgD0ntkScPKqOihLW03c3uP-Fh3JFDrP4ASa8KpINEb4aTgm90nFNpUXF3vJOQbUQ3gg",
+            "widthPx": 960
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Qazaleh Bagheri",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI5WVt5jKIco8OJDNhAiXxEZh6Yxozo-cKIdV5gtFZAQFtqfQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114221511083506441062"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydERAAOrEWf3gsEADSvL&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERAAOrEWf3gsEADSvL!2e10!4m2!3m1!1s0x3f8dfd005f4d4365:0x56bdd900dc18b0aa",
+            "heightPx": 540,
+            "name": "places/ChIJZUNNXwD9jT8RqrAY3ADZvVY/photos/AZLasHrcXB7y2beaL4tu3KHVJ0wS14sjDUpudQiEMlsQhc2zPWrfLxD2jKsSGscQiBpaV3MhCZp0uRrvZLTHCRviKeXBG0FzMDadPlnJVccsvskoxWB1xGt26g4o-mcK9y9Vwh_bJM7PuVNDfB0LQzeDC8pOm6sQCCPtGkPbC6aKj2rbJAwuDFM2Oli1qmW7XdTIcuTiy_0E9nnNrTVv0MUGTk7t5H86pCCdbbbE-S20KoCIWOzEppmmel8fb2e_MqZcn4fzE4sUS-PJlPf_UnH5C_JEEST1tSlxnZ-0oUFT7VsW5GcyPP14_3ex2d26cIhAnDKxwS-6YA0hJabpIyloYBG20zQeSNb9lb1uTcGNcQ-H0Ou7iL0dmVu2fpBSJvsqMwcNe1oZHnKz4g3lNmnCmnxYkTfj5jXsi1eLLQuTF-k7-7tn28WENLNF7jGpMPOs",
+            "widthPx": 960
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Qazaleh Bagheri",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI5WVt5jKIco8OJDNhAiXxEZh6Yxozo-cKIdV5gtFZAQFtqfQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114221511083506441062"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydERAAOrEWf3grwAACRt&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERAAOrEWf3grwAACRt!2e10!4m2!3m1!1s0x3f8dfd005f4d4365:0x56bdd900dc18b0aa",
+            "heightPx": 540,
+            "name": "places/ChIJZUNNXwD9jT8RqrAY3ADZvVY/photos/AZLasHqsjjhSxppuQmjnIMjdPb1lfsti792PzZjORyZlQOeuzNg1BeGEomfzn4BfaqJKSpUK4of8pRyu8NLxemdLy_OGgPEmF3xjaKxZxOhoibUwSFRmQQ6kRd00WRFx_DQa4FbZxfOrsx4M7nkm-QiTENuLEYhtRuV4MNpxGeNEm4qss-sfoitaIUnzxLEnyoNFo8xVn-xRXfiZ1e5yexg7_o2FrjkD3RpugT0YzubmZYUZxxPBwqK9lrrQP_7QvRYtXiNn4DtmFJMWBbQh4pbpa9bAejNEPhRV2dgKWYtMEbs1g43qkOwXn8V1Qj4lHvDijdbb2IOIydWiHu9v5JyXBtXoW4UV1-M45DBCRc_QrYjcXUMrhTziCsEmsXDgIS-xXlpBMk2h81toKkQQnVAW0mcQve36A4MjE2JIIEUNQL4tml4uK3qE1Q3D6T3qBaRK",
+            "widthPx": 960
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "P874+X34"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "Ekbatan Town"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "shortFormattedAddress": "P874+X34 Ekbatan Town, Tehran",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.71624403029149,
+            "longitude": 51.3066343802915
+        },
+        "low": {
+            "latitude": 35.7135460697085,
+            "longitude": 51.3039364197085
+        }
+    },
+    "timestamp": 1765104805
+}

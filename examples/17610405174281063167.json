@@ -1,0 +1,474 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P749+MJ",
+            "shortText": "P749+MJ",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Azadi Town"
+                },
+                "name": "places/ChIJvfsCs2_8jT8RODV5P-5G0OA",
+                "placeId": "ChIJvfsCs2_8jT8RODV5P-5G0OA"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 21"
+                },
+                "name": "places/ChIJR4Qp0Oj6jT8RPqZojC5qdME",
+                "placeId": "ChIJR4Qp0Oj6jT8RPqZojC5qdME"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shahr Farsh"
+                },
+                "name": "places/ChIJBekD9P7vjT8RBIt53VUV5k8",
+                "placeId": "ChIJBekD9P7vjT8RBIt53VUV5k8",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 52.63549,
+                "travelDistanceMeters": 1.0733407,
+                "types": [
+                    "establishment",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Home appliances city"
+                },
+                "name": "places/ChIJyzhZuPX9jT8Rt4I5tEmZ1us",
+                "placeId": "ChIJyzhZuPX9jT8Rt4I5tEmZ1us",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 98.51078,
+                "travelDistanceMeters": 124.02043,
+                "types": [
+                    "establishment",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "بانک ملی"
+                },
+                "name": "places/ChIJu0qXpHf8jT8RBzxOto5xjsg",
+                "placeId": "ChIJu0qXpHf8jT8RBzxOto5xjsg",
+                "straightLineDistanceMeters": 245.09908,
+                "travelDistanceMeters": 492.02307,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Iran Khodro Engine R&D and Manufacturing Co. (IPCo)"
+                },
+                "name": "places/ChIJ98EBPnf8jT8R9anKXeouY2U",
+                "placeId": "ChIJ98EBPnf8jT8R9anKXeouY2U",
+                "straightLineDistanceMeters": 181.84529,
+                "travelDistanceMeters": 404.77228,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "پارکینگ شهر فرش"
+                },
+                "name": "places/ChIJ44_SBX39jT8RAhdI3FTtO2s",
+                "placeId": "ChIJ44_SBX39jT8RAhdI3FTtO2s",
+                "straightLineDistanceMeters": 50.908665,
+                "travelDistanceMeters": 210.26953,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "تراک برگر"
+    },
+    "formattedAddress": "P749+MJ, Tehran, Tehran Province, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=17610405174281063167&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=17610405174281063167&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJj1WHpKn9jT8R_0q5uzO6ZPQ",
+    "internationalPhoneNumber": "+98 919 731 9758",
+    "location": {
+        "latitude": 35.7067409,
+        "longitude": 51.2683832
+    },
+    "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ",
+    "nationalPhoneNumber": "0919 731 9758",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "محمد حمزه ای",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6ziOiwcX2An9DNp_h0EWO9eF92glmBjRVuc-fKIXtuAfk-A=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109499444529890987434"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBnea7tAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBnea7tAE!2e10!4m2!3m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "heightPx": 2048,
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/photos/AZLasHrxOECdpjbXuuLi2wKfYdKeansq3mjD1FegOSBtBt29xI2i-PfzM0vDI2Y1Lbp4JoAQl4w0B01C9VzNP--idsjhE0OW24OYeXWAG64KqaEgwEiYD97NGhiYEH8OE2kjDwdu0mVTnc35UIr_Oy-xBCojb775b6yHIY5hMfwtmGTmJgzoV79o2riGJsd2bJi3tuviJm2yefFnFu1Jjl-dFbCJYvpprod4y5dw7lfz1v1ovL4zRk3dy6xoktll5Cl5Hy9jEOyTeFE5a0jBTzTeTWXNFnLzYF9y0e9svWh-DwrziNuUVqoMpfvjEJTyzxVxIIC7ydGAegSQPTwBkfnLhRZXnlQi6eH0AiZYfq5ihcS4txnbQj_B8w_aR3lFPWgeaVFiy8XTDXF-N7K4xaxmfvqUgf6wqIl8Rl5jZ30v8s0SAt-8",
+            "widthPx": 4160
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sahar Mousavi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWialMR7s4_cE_OrIGRha6uPefEuJGbygponNyGyIOc2T_OZ_ex=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113638317280900322009"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRqoPzBw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRqoPzBw!2e10!4m2!3m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "heightPx": 2084,
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/photos/AZLasHplJB7idZhpQGkPAxHC3fc-ugyXhm_NhporHJvDKn3XPpGjZSjQnQDW_xyp2v8pRDBvJUmImvj_u27D-q90R8G7eeotXZEssd3k6CRkEoyJZXG86CKpnpcy_DHKnxCfwWlt_5f75Xvn3_X-lbFDv5gcD9mse1eUbJHqEOU8daYr7qFXUzjAqEEN8d6sqwkAjwG21BpZaArXPZJOAJ2DZQN1e0Lag-Cf3BJnL39EwH37jmh4JsCnaao6qzNMJLuPc_CvwlKxIY_c9fMylUWKQFfJftChhltMUeklMZBw8__Ob3aPSDwjF6D-MBOg8lJahaZWec8XX_DosOpK5IsRtzh--LcypFMOGx1T7lUtxC2frrE1-EbT5bUFd0VfQxq9IOEbPt-cFViHIDwA2VstEgdQ2DaJquT_eTy-kAty7i3RfQ",
+            "widthPx": 4624
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ebi Dashty",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlibjLReaXWdYF679uFRxSSo2K_PYvFqtzFiBqe8EiZ2TDRSlZ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117450333768031140689"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFwbvUVQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFwbvUVQ!2e10!4m2!3m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "heightPx": 3024,
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/photos/AZLasHpaMwHjbDiy75flFn_PaHxq079c4PCx5d_5CldKNkDSqEij9iI__UbbRCubal0HQtthyL6smCVvpczaKsWKWyES63OEZP7erXGx46pr-SzgNfDo0OAI-Mnk9tgkEPqug1Y3xR4CerTEZkUuJGRYxp72-11b-LJX1fdhJ-99YKzdRXiKq6O5aYK4CtD8pWKQ6_kyxtoczuY0izx-I3XRrze_Mw7Bc8ZtbPfLZsRvXlQpGBXMQhDFRIFhpaSCQ4-04lMLN7VYmmsy6KcQHszv0raake5iyYAytT0YKrevUVPzXsjrA4XrfCRV1ehU80jtcXe6LdSNtqtJwf_dJybmnmnL86whKVmDT9deuh2v1pFMLPNWSUVapW3qRay-90gM_s3O01FPSFH7ax9onRdHm7diC0e5vDKbyF6waF50auU0YQ",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ebi Dashty",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlibjLReaXWdYF679uFRxSSo2K_PYvFqtzFiBqe8EiZ2TDRSlZ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117450333768031140689"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFwefDvAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFwefDvAE!2e10!4m2!3m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "heightPx": 4032,
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/photos/AZLasHpMf7DlHd3Ngsn368T3TUYygno57Xw2hicKMuKfoJ0sBwzId-6X8Q7elhEobwnu74UwSzYtFGD1X-JrmvT9C9eVCM4n4Lrufb-Hj0d88uq-AyaTEll3f7GqY5hyLk3dUPAx5tREqmnbVO08fmu4Oo-xgHf8vuNyVW10SnKrRNkxQHiGqZxRVkEeubteYHbU7WzWPh3ii-wVL7pXYTXAGC2dEqHgk0c2qIg0nvIxkQOYNpfKFiVVe6sZlfbhUOh8gN88Ol2Wl2enV2AJz03fbiLq7bX12HOdT_cdxzzOvui0aOiEMvDcUkHGKiWxea5ihGlYHR58fKKMBWlRJFWpX6ISadHYjAbQrHaqpZiSgzGdXIktpl7o18DMP97ilNP8r97g-B59Erm9Bs6ab6_rE60YIw1ZMydbWDtg5IDO3nhaFAI",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "مسکن ۰۹۱۲۱۱۷۳۸۰۲ سناتور فردوس شرق نبش گلستان",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKDZQwBxBNYkRGzy3nQWXTljH_rRAzXdaOGhHX7bardcDAVgS6=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104643026775610544821"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrp__E0AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrp__E0AE!2e10!4m2!3m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "heightPx": 4032,
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/photos/AZLasHrXBnvUp-acZsT5j_q5KLBkuJO7SmT8TlXoovaMZCHoLDYiofBdaLCuCY9jdFkZoWm2jNlJwxLeF_nujbSdKFq_T0T_un0u0piIAWzlUgk2zTTRuTPshGfn63f0moQzy8qvrQeZzjI3b6QFkGFdBCzVDDOm51KYgCiUyMCoAJvPP55xwmjX2B-tJglLardbryiKxzDzu93zfDoJBxlWObSpwnqTwrYh6xhiESqDeH1JHjdrcAC2Ffym7PcBA0W5yw61c1kIxtGpqm9OuuNA6i2EchsQQePeDu4pOF6K3Fek6nrqnEiydPtxupUk6tTquygCCk2JNay4m-pVGZCuZ_9BNA0ixrdxRlE9DjxBQAKB08vNGgIWRb13vdqP9iOszKLo8WFpfOCjBzMhqKFcgaE-fTaKRdTBkaUyMoa4W7y7rrx6",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ebi Dashty",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlibjLReaXWdYF679uFRxSSo2K_PYvFqtzFiBqe8EiZ2TDRSlZ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117450333768031140689"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFlZz1xgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFlZz1xgE!2e10!4m2!3m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "heightPx": 3024,
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/photos/AZLasHqHoye9oj2Cmq8WeJMxo3yO2lMGchEeAdq0_hbSEwU-hWWUfPk456ytiw4p1UARhxpUMRfNhqkvGnQuGd5AimON2qB73RjbOBEM7WIeRM_9SGQ7F8oCFMtGSy-Iy8uwuILuP2n3pQzvAqG_obj8qj7ejj2gq1XAb-U9FuVNbQJ8PDp1UwgtH4La6MUrJjcJ-qfx58t15vOrweaNUb8F9V6O5PBdZqEcPOON_kx66pD9canuANfphz_oxBDbCYmA_iGfsgg4Tk8-NLHBDkTeuWDqj7x2TxNhoK8KXuIwtT0ODQAbvJ75F57qpQNYoEOnZTWGR4I8PPGzi2qN11p7Op1clsJFxUA3we-h80FwPeNRdnl256h3zeyq4GxgwAaHhxpVN2MrvhaJJ6DD7VfH--4wogU8JDJRTbZEmH-IeQxzuB4N",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ebi Dashty",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlibjLReaXWdYF679uFRxSSo2K_PYvFqtzFiBqe8EiZ2TDRSlZ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117450333768031140689"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFleznhQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFleznhQE!2e10!4m2!3m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "heightPx": 4032,
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/photos/AZLasHrVHRa1W57F-Mo9xJNkAAZSSkqcD0h3vr5suDDVRMJr6ZCX0O-t1CkQaUK5CQmOECtpo5Yc5_pb-Ur8QWu8aUr417p6Cys8xEQENhN-FvS0fhPsKMG8WPVrxRRNDU1DVtP5n0SeWX7-_Vibz9R-bWmdWGyT57H8VP0a0284NL5L5ir6Yw1N8VlG3wnu5i6LC64mx-Otw1-tU-x8ffhz1NL7_1lJOHB7OCepFfldnsTNnoohcTJL8x0qDABcL6mzvECc4dq07an-ucPEn5IymeYnMRMgPw12sx6vsc1j3W4TMa_KsiO0tRNd31Om1PA5_S9-FHA3ADQ8tG_0D_-7eQbfUKhPB2cDJTdGk90juGDjj9JiJ56r7mWAxLkz6Empke2aJETn86F4SjLmXVTTGnsPLrssOP0qOPVa_nNCxNZP8_LD",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sahar Mousavi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWialMR7s4_cE_OrIGRha6uPefEuJGbygponNyGyIOc2T_OZ_ex=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113638317280900322009"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRqsPt9gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRqsPt9gE!2e10!4m2!3m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "heightPx": 4000,
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/photos/AZLasHqoXZgXB54IT27E9SP-RDhoYaKl_GKWuqcoMawufi11EOeHtuPNb0BjJCD4521khKMi46xT4De5t7ixXkKlDGl0WqCmX6uXs6gRS4CrDUSGYv29tKlZAWlDcDkvbhkJadT1kyOC_xZ4e_JBa1snIFQNqf_LQF2QYnL_3RU1B_HXQdfdJNVh-UprqN6zb3K0Eo3oNcuWneRMnVHVPh0uJ0Qbmli_mQY7b5vaZ0KE5R8gpfD0QFDkd_sHc5vtFdjnLfoHQ1acJxyVAFPfTnJiDZsDmflVvR3Rr_UTq65J13BGWpjTmGCTGuSfSeZZOG_H12qCoarBHxDuUwkehVfvy4d98VbmF2m9ukhNDF50qWAhvaJ3IvBIrQFO8LSJrG3Zh7bP1pj-H39-CRuReUad_SwhE7__1UTDt3F2KU04K6KWlcg",
+            "widthPx": 1800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ebi Dashty",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlibjLReaXWdYF679uFRxSSo2K_PYvFqtzFiBqe8EiZ2TDRSlZ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117450333768031140689"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFwbvhzAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFwbvhzAE!2e10!4m2!3m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "heightPx": 4032,
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/photos/AZLasHrpSoTtwtGMZLChS5kZcv5NYuj2QOHUIpTVYVzDAgXMDhdU3LLfXDKl3w4SZGLALNKkpNgl_2TRNQof2-WaEHzXN6SlQLMpgR4tJ6r-9Fnd4CiqKTKUBLCJdfgfFD3zER-AJ7szuWsv3D9q2buVCPMaSrWw3FPuVL9Ur6ia-6NRFizMoJYIbd-07Mv6PGeYbREIfwcknIQ2a3Ud872q7GE61kX4kXCGJGqG7NTtb3QWgElZRFx7hgTDdzEZe_4p0BqJJXkmj8qSiba-7Nk_rcz7LlAtkX4Eln7eHHfUidCpA5b6N-v6ArzMJTBoEbwlS7HgWPd_VUaNTqb9Q5AlPRy9H4UQ4XEdxekMi36kSP6VeLe_KMq64BO60cFFoTeXiHszBIxqsWcEKDxA3ZOaVQEMAqp8WeTwpc2epZnfIcRa7C9h",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ebi Dashty",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlibjLReaXWdYF679uFRxSSo2K_PYvFqtzFiBqe8EiZ2TDRSlZ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117450333768031140689"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFlezyygE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFlezyygE!2e10!4m2!3m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "heightPx": 4032,
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/photos/AZLasHogJMyVnE7Z1qvkPzX7qADWIZpq96z4MHVq4Qff5TDlyGTsRmwvQnvOoXg3i8XA2EsttJ2f00utJa3QNnqa3AxGCSMVC8jrboP7YyUZJ3rVHYW60GGnLZRvO3h220uYEn5LzGiL2ekl3VsEJK-xKIXG1AWrU1lG9hfo3IuJmOAqrPgeGW-cjUWcC7EMgKOpJPsxpjxr8mgn6jHMVRzAtZpksI301jOC2RwojQgHHnobUjZIu0Qw42gDT2Icbok4TE7L8n4ZHnEiBe-q-depC7Wumemhdk9kH8mAMR5lTpgrMGOfLUtdrlD3OILfGKWGOf4pB3kSfNfZeHqowye-RKDHTpVhy4PtB3R05LOVS07f2LLsvvX1n5ua5iKeJjxSVWUgVMtZgMMkT1uGzcoS8qF6B__Q19YMZ_krOcQaqcn250E",
+            "widthPx": 3024
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "P749+MJ"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "hamburger_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Hamburger Restaurant"
+    },
+    "rating": 3.3,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Ebi Dashty",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlibjLReaXWdYF679uFRxSSo2K_PYvFqtzFiBqe8EiZ2TDRSlZ=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/117450333768031140689/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURGd2VlRnlRRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURGd2VlRnlRRRAB!2m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURGd2VlRnlRRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I ordered a mushroom king burger and it was prepared according to schedule and it was really delicious.  As soon as you enter the hall's entrance area, you can smell a great burger and it is very tempting.  In my opinion, the quality as far as the smell was great."
+            },
+            "publishTime": "2023-11-07T19:15:38.355078Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I ordered a mushroom king burger and it was prepared according to schedule and it was really delicious.  As soon as you enter the hall's entrance area, you can smell a great burger and it is very tempting.  In my opinion, the quality as far as the smell was great."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ali reza Mofid",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLjJK1kNnp97IEO4DAW0Ja3P__9UDics_nK339qWcU3WwEdYQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/106720547678202033310/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2MDhMbk9nEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2MDhMbk9nEAE!2m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2MDhMbk9nEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "ازشون سیب زمینی سرخ کرده گرفتیم، واقعا از شدت خام بودن و بد مزه بودن دور انداختیم. اینکه تونستن سیب زمینی رو‌ اینجوری درست کنن خیلی سخت بود به نظرم"
+            },
+            "publishTime": "2024-12-23T20:18:21.469092Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "11 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "We got some fries from them, we threw them away because they were so raw and tasted bad. I think it was really hard for them to make fries like that."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ehsan Mohamadi",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLqjiF0nxT6E2odbeOuJtUtmXRVBhjeFCaM9Rm7iSS1bSFv1w=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/101814033241332298551/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4bnV5RS13RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4bnV5RS13RRAB!2m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4bnV5RS13RRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "اشغال\nباید کلی صبر کنید\nمحل درستی برای نشستن ندارن\nمکانشم هی ماشین میاد\nاصلا نخرید از نضر من اشغال"
+            },
+            "publishTime": "2023-06-08T18:24:18.502595Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Occupied\nYou have to wait a long time\nThey don't have a proper place to sit\nMy place is coming soon\nDon't buy it at all, occupied in my opinion"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Contrast Studio",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAEKpJJGm5tIqC70SLgsNIWbdWuvpRvz1JX7zxnIXnz7r_rV1L=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/106381246453299490826/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURiMXJLR0VnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURiMXJLR0VnEAE!2m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURiMXJLR0VnEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "عالی"
+            },
+            "publishTime": "2024-08-05T05:50:43.237025Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Excellent"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "ANISA SADEGHIKIA",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI72BLnm3md4RlHmP8G0k_sSTcr4aewi6O-MI02hZzutGPatA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/112298130595003812033/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4NjlXNFNREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4NjlXNFNREAE!2m1!1s0x3f8dfda9a487558f:0xf464ba33bbb94aff",
+            "name": "places/ChIJj1WHpKn9jT8R_0q5uzO6ZPQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4NjlXNFNREAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "افتضاح ترین برگر"
+            },
+            "publishTime": "2023-05-26T14:12:37.568744Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The most disgusting burger"
+            }
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "P749+MJ, Tehran",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "hamburger_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 7,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7080708302915,
+            "longitude": 51.2698285802915
+        },
+        "low": {
+            "latitude": 35.7053728697085,
+            "longitude": 51.2671306197085
+        }
+    },
+    "websiteUri": "http://truckburger.ir/",
+    "timestamp": 1765104793
+}

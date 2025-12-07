@@ -1,0 +1,248 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P8H9+3P5",
+            "shortText": "P8H9+3P5",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE",
+                "placeId": "ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJQ-413779jT8R7lWt_dHTS7s",
+                "placeId": "ChIJQ-413779jT8R7lWt_dHTS7s"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ayande Bartar High School"
+                },
+                "name": "places/ChIJzwpRiLz9jT8RDQFMM3-GE3Y",
+                "placeId": "ChIJzwpRiLz9jT8RDQFMM3-GE3Y",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 19.168154,
+                "travelDistanceMeters": 19.276367,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school",
+                    "secondary_school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bi Ni Ci"
+                },
+                "name": "places/ChIJbyb_5NIcjj8RbHpMV43fkWs",
+                "placeId": "ChIJbyb_5NIcjj8RbHpMV43fkWs",
+                "straightLineDistanceMeters": 51.90357,
+                "travelDistanceMeters": 283.3991,
+                "types": [
+                    "car_repair",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ali ibn Abi taleb Mosque"
+                },
+                "name": "places/ChIJy2sTf6_9jT8RhWSqNLjbSRQ",
+                "placeId": "ChIJy2sTf6_9jT8RhWSqNLjbSRQ",
+                "straightLineDistanceMeters": 385.90186,
+                "travelDistanceMeters": 397.5083,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Berelian Ice cream & Juice Bar"
+                },
+                "name": "places/ChIJ_0WE06T9jT8Rs8dYIs_VEn0",
+                "placeId": "ChIJ_0WE06T9jT8Rs8dYIs_VEn0",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 76.12085,
+                "travelDistanceMeters": 76.1151,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vahdat Optic"
+                },
+                "name": "places/ChIJdaZiXLz9jT8R_X5NmnUVt18",
+                "placeId": "ChIJdaZiXLz9jT8R_X5NmnUVt18",
+                "straightLineDistanceMeters": 282.99667,
+                "travelDistanceMeters": 283.0808,
+                "types": [
+                    "establishment",
+                    "health",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "آشپزخانه مدرن"
+    },
+    "formattedAddress": "P8H9+3P5, Tehran, Tehran Province, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfdfc8c17cb6f:0x35b15383b0d64ad9!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdfc8c17cb6f:0x35b15383b0d64ad9!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=3868965379960621785&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfdfc8c17cb6f:0x35b15383b0d64ad9!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdfc8c17cb6f:0x35b15383b0d64ad9!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=3868965379960621785&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJb8sXjPz9jT8R2UrWsINTsTU",
+    "internationalPhoneNumber": "+98 912 242 1325",
+    "location": {
+        "latitude": 35.7276272,
+        "longitude": 51.3193533
+    },
+    "name": "places/ChIJb8sXjPz9jT8R2UrWsINTsTU",
+    "nationalPhoneNumber": "0912 242 1325",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Milad",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXws-ISeP5WXapuGrZeogAdQxEnftQiai9QimxRXWglldIoN7Wc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116532457983350735125"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-zpztYA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-zpztYA!2e10!4m2!3m1!1s0x3f8dfdfc8c17cb6f:0x35b15383b0d64ad9",
+            "heightPx": 1080,
+            "name": "places/ChIJb8sXjPz9jT8R2UrWsINTsTU/photos/AZLasHqjkL3KjzAl7gfqJFzWMBRy6WjJPRWUePfCfHOfoh-5XaeA8L8ibKB1Gmw0VPrEgKgbvvzh1o7_kdcF_kd1jD8rz-zsRcFJo3sqyATIr-S-ouR15hz3a82eTQ8_MqQX9yIsjeh0E_EgDgXGnwXTgznd959PkDMqGr0QrJ9a9_7XfiDYZ8Q-WvhxKi-kuf8EkL0VK1wdSltz7WXPAFezKa8RKzoxFyne-GQDO4ok2zPVwbJnZNaFkM0cjfdwO0ZO3hqY8VRmVB4VV-Zok3wo2KVPf4HmZVHGK7QlaJ6gGUavugkYRi2O-9D_V6oWzKnCsoDJjkCYg72Fxw7tx2V4TjNSh3ifExFFQ1DB5_iNofd0qF-E5leWlZ5LOini1kDFBop1GBfZkr7SizB3hJrK-3A5tiFfno0CpEdTWaLkNCa2HQ",
+            "widthPx": 810
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "P8H9+3P5"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "servesBrunch": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "P8H9+3P5, Tehran",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.728999430291495,
+            "longitude": 51.32071603029149
+        },
+        "low": {
+            "latitude": 35.726301469708496,
+            "longitude": 51.318018069708494
+        }
+    },
+    "timestamp": 1765104817
+}

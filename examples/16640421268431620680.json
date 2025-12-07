@@ -1,0 +1,304 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P7QM+VRG",
+            "shortText": "P7QM+VRG",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Sazman-e-Ab",
+            "shortText": "Sazman-e-Ab",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sharabiyani"
+                },
+                "name": "places/ChIJD4CU6ev8jT8R4zotG87RoEk",
+                "placeId": "ChIJD4CU6ev8jT8R4zotG87RoEk"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sahar Park"
+                },
+                "name": "places/ChIJRTnGTuv8jT8Rvl45CRgXZrI",
+                "placeId": "ChIJRTnGTuv8jT8Rvl45CRgXZrI"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Tavon ladan Confectionery"
+                },
+                "name": "places/ChIJnZ4gLuv8jT8RfKCZ9ejLvc4",
+                "placeId": "ChIJnZ4gLuv8jT8RfKCZ9ejLvc4",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 17.90731,
+                "travelDistanceMeters": 17.354206,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Haji Baba Ice Cream"
+                },
+                "name": "places/ChIJ0UIg1Or8jT8R1sU-f6wjLWU",
+                "placeId": "ChIJ0UIg1Or8jT8R1sU-f6wjLWU",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 139.53912,
+                "travelDistanceMeters": 254.106,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Nazarlou Grocery store"
+                },
+                "name": "places/ChIJy4EMNOv8jT8RU2GEUEn7nOs",
+                "placeId": "ChIJy4EMNOv8jT8RU2GEUEn7nOs",
+                "straightLineDistanceMeters": 25.467503,
+                "travelDistanceMeters": 57.974457,
+                "types": [
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Maskan Bank"
+                },
+                "name": "places/ChIJ_2NNuJT8jT8Rs4PiHB_R-8I",
+                "placeId": "ChIJ_2NNuJT8jT8Rs4PiHB_R-8I",
+                "straightLineDistanceMeters": 147.519,
+                "travelDistanceMeters": 212.0656,
+                "types": [
+                    "atm",
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Karvasalamat Occupational Medicine"
+                },
+                "name": "places/ChIJU9UEzur8jT8ROe8YyQADBoE",
+                "placeId": "ChIJU9UEzur8jT8ROe8YyQADBoE",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 128.57945,
+                "travelDistanceMeters": 254.0873,
+                "types": [
+                    "establishment",
+                    "health",
+                    "hospital",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+        "languageCode": "en",
+        "text": "کبابسرای ممتاز تعاون"
+    },
+    "formattedAddress": "P7QM+VRG Sazman-e-Ab, Tehran, Tehran Province, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfda68e5f8187:0xe6eea6fa99b8ca48!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfda68e5f8187:0xe6eea6fa99b8ca48!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=16640421268431620680&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfda68e5f8187:0xe6eea6fa99b8ca48!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfda68e5f8187:0xe6eea6fa99b8ca48!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=16640421268431620680&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJh4Ffjqb9jT8RSMq4mfqm7uY",
+    "internationalPhoneNumber": "+98 21 4410 6405",
+    "location": {
+        "latitude": 35.7396867,
+        "longitude": 51.284572
+    },
+    "name": "places/ChIJh4Ffjqb9jT8RSMq4mfqm7uY",
+    "nationalPhoneNumber": "021 4410 6405",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Abdollah Saadatmandi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUrEYVbNLurs2YxZQPEaduTsOWEAetFj--PBhfXhfzp8-YR7SaFQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112972145894351529915"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-waDDwwE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-waDDwwE!2e10!4m2!3m1!1s0x3f8dfda68e5f8187:0xe6eea6fa99b8ca48",
+            "heightPx": 4000,
+            "name": "places/ChIJh4Ffjqb9jT8RSMq4mfqm7uY/photos/AZLasHql3ECLC597tSrO0epMo2iTSqCTKDVKNocCZy7dSyGl13YXKJXhorsnom2RIQrwKUzIFqaJTTza3bXOnAtJWgPDk6EkmZAgU-9fzfYoorrE1YtrpLftGCVxbBAUBpe7TTSD33UQ6bDMfIfzyW20uzQxg3Wvct_xJCy_ZJcBikKSJktvdEHbVVuxpFooMiGHYpIU84rz8R-vQzjCOGavJG4ovbYw-OpgsFXTt78ZjkZT0SmP2JJ1f5vfZF6NIVyZYX6mldtWLwMqbBspm9vLlScw-nagHFCnbhj7NTv_Svhdfm_ksJpED414RHPuxqecAkUd2UcW8xbFCnMbMxUwPOgKGrlOmYFIQEU_Fm7g07_M-SzIDHgDKzngz_buW34HubXJXqT6ui63c-nUiYTWQAolK-JVi8YqigHaQ7FC81iNutOb",
+            "widthPx": 3000
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "P7QM+VRG"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "Sazman-e-Ab"
+    },
+    "primaryType": "barbecue_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Barbecue Restaurant"
+    },
+    "rating": 4.3,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "naghme naeemi",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGo74bsJDAyVfk6PnVnKaDTaI3k-IKTv7xDHhL-egSJaKKuQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/114813373944112640367/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyc096clpREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyc096clpREAE!2m1!1s0x3f8dfda68e5f8187:0xe6eea6fa99b8ca48",
+            "name": "places/ChIJh4Ffjqb9jT8RSMq4mfqm7uY/reviews/ChZDSUhNMG9nS0VJQ0FnSURyc096clpREAE",
+            "publishTime": "2024-07-13T08:20:05.872723Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago"
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Hossein Hashemi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrrYk8FkWD4zrYuDXxq-VCu4d_N5dzYOTYNl3rwTLYPxb1p-k1=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/100487658145097158555/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURhbnM3VXlnRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURhbnM3VXlnRRAB!2m1!1s0x3f8dfda68e5f8187:0xe6eea6fa99b8ca48",
+            "name": "places/ChIJh4Ffjqb9jT8RSMq4mfqm7uY/reviews/ChdDSUhNMG9nS0VJQ0FnSURhbnM3VXlnRRAB",
+            "publishTime": "2021-08-22T16:03:31.528324Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 years ago"
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Abdollah Saadatmandi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUrEYVbNLurs2YxZQPEaduTsOWEAetFj--PBhfXhfzp8-YR7SaFQ=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/112972145894351529915/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR5aDUtTk1nEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR5aDUtTk1nEAE!2m1!1s0x3f8dfda68e5f8187:0xe6eea6fa99b8ca48",
+            "name": "places/ChIJh4Ffjqb9jT8RSMq4mfqm7uY/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5aDUtTk1nEAE",
+            "publishTime": "2021-03-19T15:34:57.836044Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "4 years ago"
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "P7QM+VRG Sazman-e-Ab, Tehran",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "barbecue_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 3,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.741056780291494,
+            "longitude": 51.2858136802915
+        },
+        "low": {
+            "latitude": 35.7383588197085,
+            "longitude": 51.2831157197085
+        }
+    },
+    "timestamp": 1765104832
+}

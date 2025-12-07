@@ -1,0 +1,670 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P8G5+74P",
+            "shortText": "P8G5+74P",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "South Varzi Street",
+            "shortText": "S Varzi St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "District 5",
+            "shortText": "District 5",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parvaz Town"
+                },
+                "name": "places/ChIJpzIbIK39jT8RbaSDa0D_Ra0",
+                "placeId": "ChIJpzIbIK39jT8RbaSDa0D_Ra0"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdoos Park"
+                },
+                "name": "places/ChIJE936tK39jT8RozCZvHanshE",
+                "placeId": "ChIJE936tK39jT8RozCZvHanshE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdoos Park"
+                },
+                "name": "places/ChIJE936tK39jT8Rpd7MQWjzYtU",
+                "placeId": "ChIJE936tK39jT8Rpd7MQWjzYtU",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 102.98329,
+                "travelDistanceMeters": 191.13504,
+                "types": [
+                    "establishment",
+                    "park",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr Abolghazi (Kimiagar) Pharmacy"
+                },
+                "name": "places/ChIJ9dgl_Kz9jT8R40YdwoIoGKE",
+                "placeId": "ChIJ9dgl_Kz9jT8R40YdwoIoGKE",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 57.19327,
+                "travelDistanceMeters": 75.2569,
+                "types": [
+                    "drugstore",
+                    "establishment",
+                    "health",
+                    "pharmacy",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Yalda 24-hour Pharmacy"
+                },
+                "name": "places/ChIJvwUP-az9jT8RnWe6uO9RmM8",
+                "placeId": "ChIJvwUP-az9jT8RnWe6uO9RmM8",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 60.78668,
+                "travelDistanceMeters": 286.19913,
+                "types": [
+                    "establishment",
+                    "health",
+                    "pharmacy",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr Ebrahimi 24-hour Clinic (Kimiagar)"
+                },
+                "name": "places/ChIJ7WZ3AK39jT8RKxOceR1CKaU",
+                "placeId": "ChIJ7WZ3AK39jT8RKxOceR1CKaU",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 21.239128,
+                "travelDistanceMeters": 39.39021,
+                "types": [
+                    "establishment",
+                    "health",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parsian Bank"
+                },
+                "name": "places/ChIJEQE5k1T8jT8ROSoxeTbzqMY",
+                "placeId": "ChIJEQE5k1T8jT8ROSoxeTbzqMY",
+                "straightLineDistanceMeters": 468.44238,
+                "travelDistanceMeters": 494.5608,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T19:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 45
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:45 AM – 11:00 PM",
+            "Tuesday: 10:45 AM – 11:00 PM",
+            "Wednesday: 10:45 AM – 11:00 PM",
+            "Thursday: 10:45 AM – 11:00 PM",
+            "Friday: 10:45 AM – 11:00 PM",
+            "Saturday: 10:45 AM – 11:00 PM",
+            "Sunday: 10:45 AM – 11:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Pizza 2002"
+    },
+    "formattedAddress": "Tehran Province, Tehran, District 5, S Varzi St, P8G5+74P, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfdadabd4b2db:0x825be6078ab861d!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdadabd4b2db:0x825be6078ab861d!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=587084647992362525&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfdadabd4b2db:0x825be6078ab861d!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdadabd4b2db:0x825be6078ab861d!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=587084647992362525&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ27LUq639jT8RHYareGC-JQg",
+    "internationalPhoneNumber": "+98 21 4412 7409",
+    "liveMusic": false,
+    "location": {
+        "latitude": 35.7257107,
+        "longitude": 51.3078127
+    },
+    "name": "places/ChIJ27LUq639jT8RHYareGC-JQg",
+    "nationalPhoneNumber": "021 4412 7409",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mohammad Majidi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWk15k7qN48p5MEbOXe7uSw5cCpLrO1WQ0N0R3eDKxV9OSvoQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117492501982180053676"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDc_e7rnAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDc_e7rnAE!2e10!4m2!3m1!1s0x3f8dfdadabd4b2db:0x825be6078ab861d",
+            "heightPx": 3024,
+            "name": "places/ChIJ27LUq639jT8RHYareGC-JQg/photos/AZLasHp4m3LXJQHVXqUZktEC_3x0BOuTvzp1om-tM7lKVKw_MF6H7R9pIoWY3gskozNiJXKWAx3tooD0zPy-wgHBwOhoawfBapGrg04Mm9NrcOVmOFff2wRjSRw5QO66pYZS_tOH8aFF76GQJjbBXItpGXuwMUfQ__9kFZsLdgdeeSPMmS5Nx1XsWmLLKV9qUFXqLL1vaYLYM4dStIU03N18c_mDXnu0hoXwnGlRm74KvCq1xxVIgjJSEaubBf1JICyxuG0XQVATz-K_ivEK56qeY2vUX4Xmw9dU1QYWGfShdUv04RFlAfqqCOlkq3uZd_ICCq7hSzwUXW8Rt1mvaoBg6Byk9kz1BVK8an_MrF8KjqDV8lLmeU7hYNFgi47lA7k_Jb9oWLMTor00F4Xxlxk61PjXBj_tS8UOhmM-iB68ARoC0tw",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "js3 js3",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEilWNmjACIFjHIcePl-u43a8d_SJbnvAak6o7IgH_BlYzBOs=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113752907006954523644"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkjqCuzgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkjqCuzgE!2e10!4m2!3m1!1s0x3f8dfdadabd4b2db:0x825be6078ab861d",
+            "heightPx": 3264,
+            "name": "places/ChIJ27LUq639jT8RHYareGC-JQg/photos/AZLasHqTGMy-846t__HmMH5dVMG7GoZ8dDPUgDFyaZsxkWXc3erh0dm_WUfBgZ7yV838tCE_vAJ6XxstvoBvEk358I-ZFyNIatdRgR-LguIcPPvmxYwU74koXhUGu_8cQlsyGBIxtbHjXkS6_zqlkqI-GgykoPFUmzEK3X7HNy0lZMCxr52ME5ALZ7jpRtQ5BU0xNmIlU4tgOrk69ghnXuJFmgVxbZLfXpvmWN9OZrt7yqjZ2LN8ffzCRVnDVev9OXx0sRNhyknXfZLCoUM1SH_5Emp3ZihWRJ3Fuhe2SqV6ALw1en7ApIWM2n8C1s1I_wpd06gyHzzWfMYnSE-MzSTvWdM6G51DMyfq3-SlMaN3FwrAeR6ji3a5RnFzIg7vcSdHBm3qi84t4ed_PV916GLRmE5oAVxu1j11ARtwcTORbm1IBbfu",
+            "widthPx": 2448
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "S Varzi St",
+            "P8G5+74P"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "District 5"
+    },
+    "primaryType": "pizza_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Pizza Restaurant"
+    },
+    "rating": 4.3,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T19:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 45
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:45 AM – 11:00 PM",
+            "Tuesday: 10:45 AM – 11:00 PM",
+            "Wednesday: 10:45 AM – 11:00 PM",
+            "Thursday: 10:45 AM – 11:00 PM",
+            "Friday: 10:45 AM – 11:00 PM",
+            "Saturday: 10:45 AM – 11:00 PM",
+            "Sunday: 10:45 AM – 11:00 PM"
+        ]
+    },
+    "reservable": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Khashayar Panah",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW5_k5j56FCNoK9qHIHp4yVI4X0c7naCgs3VuC_bAsGQHQzuyl=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/116769943554517602217/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wNVUySnphSFJXVWxsVWRIZENTMDV1UTJNd1drRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wNVUySnphSFJXVWxsVWRIZENTMDV1UTJNd1drRRAB!2m1!1s0x3f8dfdadabd4b2db:0x825be6078ab861d",
+            "name": "places/ChIJ27LUq639jT8RHYareGC-JQg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wNVUySnphSFJXVWxsVWRIZENTMDV1UTJNd1drRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "کیفیت حرف آخر رو میزنه"
+            },
+            "publishTime": "2025-08-26T18:47:28.143512522Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Quality has the final say."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "js3 js3",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEilWNmjACIFjHIcePl-u43a8d_SJbnvAak6o7IgH_BlYzBOs=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/113752907006954523644/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNJbl9lZGF3EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNJbl9lZGF3EAE!2m1!1s0x3f8dfdadabd4b2db:0x825be6078ab861d",
+            "name": "places/ChIJ27LUq639jT8RHYareGC-JQg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJbl9lZGF3EAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "غذاش کیفت متوسط هم ساندویچ داره هم پیتزا هم مرغ بریونی"
+            },
+            "publishTime": "2018-12-14T13:51:21.032743304Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "6 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The food is average quality, with sandwiches, pizza, and chicken Brioni."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Mohammad Majidi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWk15k7qN48p5MEbOXe7uSw5cCpLrO1WQ0N0R3eDKxV9OSvoQ=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/117492501982180053676/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM0MGZEQlRBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM0MGZEQlRBEAE!2m1!1s0x3f8dfdadabd4b2db:0x825be6078ab861d",
+            "name": "places/ChIJ27LUq639jT8RHYareGC-JQg/reviews/ChZDSUhNMG9nS0VJQ0FnSUM0MGZEQlRBEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "از قدیم اوایل دههٔ ۸۰ با پیتزا و ساندویچ های خوب"
+            },
+            "publishTime": "2019-06-08T13:02:26.876941Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "From the early 80s with good pizza and sandwiches"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ali Ebi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYFuCkg2TcCN9oyERN-5QTeX38kFBduHCbri8thrT8lxwlVdg=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/100692671850215170689/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURLam9xV093EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURLam9xV093EAE!2m1!1s0x3f8dfdadabd4b2db:0x825be6078ab861d",
+            "name": "places/ChIJ27LUq639jT8RHYareGC-JQg/reviews/ChZDSUhNMG9nS0VJQ0FnSURLam9xV093EAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "عالی، پیتزا بهترین برخورد عالی ، بهداشت عالی"
+            },
+            "publishTime": "2021-05-11T14:34:52.655441Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Excellent, the best pizza, excellent service, excellent hygiene"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "arash yaghoobi",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDBPt11DlLwRzJPSJYjiSKso0RtH6NwOo3o-DM-IUnUsHsqQ=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/103348465748621560674/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSURJNWZjShAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSURJNWZjShAB!2m1!1s0x3f8dfdadabd4b2db:0x825be6078ab861d",
+            "name": "places/ChIJ27LUq639jT8RHYareGC-JQg/reviews/ChRDSUhNMG9nS0VJQ0FnSURJNWZjShAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "قدیمی و عالی"
+            },
+            "publishTime": "2019-01-13T22:12:35.083737263Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Old and great"
+            }
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, District 5, S Varzi St, P8G5+74P",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "pizza_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 11,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7270413802915,
+            "longitude": 51.309242230291495
+        },
+        "low": {
+            "latitude": 35.724343419708504,
+            "longitude": 51.306544269708496
+        }
+    },
+    "timestamp": 1765104805
+}

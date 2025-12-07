@@ -1,0 +1,586 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P7X4+7H6",
+            "shortText": "P7X4+7H6",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "fa",
+            "longText": "شهرک چشمه",
+            "shortText": "شهرک چشمه",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "District 22",
+            "shortText": "District 22",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shahrak-e-Cheshmeh"
+                },
+                "name": "places/ChIJDVhi8FT7jT8RTvqRvNXAx8o",
+                "placeId": "ChIJDVhi8FT7jT8RTvqRvNXAx8o"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 22"
+                },
+                "name": "places/ChIJad-enSXljT8RkdEMb4fmE3o",
+                "placeId": "ChIJad-enSXljT8RkdEMb4fmE3o"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "املاک برج عقیق"
+                },
+                "name": "places/ChIJhWQBC4P7jT8RXfZC5pl6rt8",
+                "placeId": "ChIJhWQBC4P7jT8RXfZC5pl6rt8",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 44.770515,
+                "travelDistanceMeters": 90.57396,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "real_estate_agency"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "دبستان علی مهدوی"
+                },
+                "name": "places/ChIJj9DEUR_7jT8Ryd4MYMDi4Yw",
+                "placeId": "ChIJj9DEUR_7jT8Ryd4MYMDi4Yw",
+                "straightLineDistanceMeters": 371.3951,
+                "travelDistanceMeters": 490.98468,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Cafe!n"
+                },
+                "name": "places/ChIJEf3KBQD7jT8Ri0gnGWoocsY",
+                "placeId": "ChIJEf3KBQD7jT8Ri0gnGWoocsY",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 10.497964,
+                "travelDistanceMeters": 5.973547,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "لیوراکس"
+                },
+                "name": "places/ChIJp0HnLQD7jT8RDul3C9SHx38",
+                "placeId": "ChIJp0HnLQD7jT8RDul3C9SHx38",
+                "straightLineDistanceMeters": 393.8323,
+                "travelDistanceMeters": 400.53317,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "دبیرستان دخترانه شهدای شهرک سرچشمه"
+                },
+                "name": "places/ChIJfzm2L4j7jT8RfVySJfU0h_0",
+                "placeId": "ChIJfzm2L4j7jT8RfVySJfU0h_0",
+                "straightLineDistanceMeters": 340.33752,
+                "travelDistanceMeters": 456.27313,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 7,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 14,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 6,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 16,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 59,
+                    "truncated": true
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 7,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:30 AM – 12:00 AM",
+            "Tuesday: 7:30 AM – 12:00 AM",
+            "Wednesday: 7:30 AM – 12:00 AM",
+            "Thursday: 7:30 AM – 12:00 AM",
+            "Friday: 6:30 AM – 2:00 PM, 4:00 PM – 12:00 AM",
+            "Saturday: 7:30 AM – 12:00 AM",
+            "Sunday: 7:30 AM – 12:00 AM"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Ashkadeh Baran"
+    },
+    "formattedAddress": "Tehran Province, Tehran, District 22, شهرک چشمه، P7X4+7H6, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfbd129151181:0xd084b148f5416b71!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfbd129151181:0xd084b148f5416b71!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=15025329183725284209&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfbd129151181:0xd084b148f5416b71!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfbd129151181:0xd084b148f5416b71!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=15025329183725284209&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJgREVKdH7jT8RcWtB9UixhNA",
+    "internationalPhoneNumber": "+98 21 4612 5295",
+    "location": {
+        "latitude": 35.7481566,
+        "longitude": 51.2563964
+    },
+    "name": "places/ChIJgREVKdH7jT8RcWtB9UixhNA",
+    "nationalPhoneNumber": "021 4612 5295",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Milad Javdan",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2fcA78sDAMwa9ZAceFld2Vw8RZJ5S2H4on6oBSiysWRbx0Q_P=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111087109303575023456"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT0aXisAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT0aXisAE!2e10!4m2!3m1!1s0x3f8dfbd129151181:0xd084b148f5416b71",
+            "heightPx": 1868,
+            "name": "places/ChIJgREVKdH7jT8RcWtB9UixhNA/photos/AZLasHpjkdQs0usSbTUIrnZUDbfkcPF5LV_ZrF3mDkERtTPvp3KUvy7mq76aR8C5bIihf588_1l1piivLiIfitkU_9lDoHLMLjXybvbURWV8ICdRfMG37ipC8HTxvjhc9Q9SRsEO370Qf8FKUbnvwid0e6h2_qmewtwmWmFWbfKh7MNItwWizoqFTbwGAKyzwuSEGvllrEqeUCrs9UgBDCZt1NfVYWR4mpYCDAyXK_JeNWakS1_k1vNexLaKS9SZz41hwVrp1ZqlHBZ0EraHd4wKmf0VIQWTFYRPbe9ScadrlhGmhqTgzk4B4aaI2WZVlOPaDiRsaCb_bI8UhhgWkW6Y7fHzIiNRzIJkSPGB2aPjzoWvvm0EZfvFaIaszuxasbDyzoHd2YAgOb9AEfcMqBHXFtl9Y7OPMvZZ3aeN0QddHeSaZDb8",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Milad Javdan",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2fcA78sDAMwa9ZAceFld2Vw8RZJ5S2H4on6oBSiysWRbx0Q_P=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111087109303575023456"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT0YWjgwE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT0YWjgwE!2e10!4m2!3m1!1s0x3f8dfbd129151181:0xd084b148f5416b71",
+            "heightPx": 1868,
+            "name": "places/ChIJgREVKdH7jT8RcWtB9UixhNA/photos/AZLasHqcTU_VieMW_564P1Bus6r1oudI_0In6H3e1notH75Z9LHml2GN0ln18sqqhH1n76swd5FwlL5WxXeZmz0fUdJKGeIFhZImJ8Ms4-dR0nle3yCjciS9LL4gzz42qUhYvQtMZqRPN3Ir2Fa9y1lv_HesRg8Hb4saLw0T-ObcS-pKz7DDMhDnYGsA7TZK4GknP9rSkXpsdfJTEs36ffYhuw47616MpwHLMK2M-9MtfpST5iBKcQqoQ8jSMxrbJq3eJFKe3MYRANxpscOOcxLQZXvbCTz7Cc4dVxZTLG1jkZycL8YZvI0jr8xpdBHUm9M_1fRE-_AmyeiKw5ReLIeEkTrjI2rUIkXxicS6c6aARCgi9VDRzmT0xNS7BJGEF7-IbnzV3QQ7CLmYFyuZiTw_ctpIrmNJIlMAqCwL0YiV2tP46TbU",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "ali assareh",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGnVXDPLng0SQlpNpNIYnGZN0jgmZgmiSU22fsSDS-IcZlsAB-=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105440811658070229384"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC9r7rE7gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9r7rE7gE!2e10!4m2!3m1!1s0x3f8dfbd129151181:0xd084b148f5416b71",
+            "heightPx": 4032,
+            "name": "places/ChIJgREVKdH7jT8RcWtB9UixhNA/photos/AZLasHpOzk9ZCwXRm1KPNmMDWEYfJJ2GVbJwipkoh6kgTDpoitIh6S21zAWbXgKk23sLzCTZIKjcgTgBVzzTqleP7JquQRPEJUP2NtlgwC7g6u6XJjjHqLy40HAwjUmo69Od6ARKVQDDIWIjQHHljhjXzCEkgOH_YrCv51e69V2G2Nw1nrdAzoHQTkbxZUKCHfBwbEdpU0UxHm9g7zm51sVov9WaicsYPIx-O23gi9bFFWIwKcJGNgtxEABinnZR-8OlDZrsbFmGd1PfOUQD16MBq7SfYwzIeJ4yRnm1_EUV8y4x8SjcwDPv05wjxLHhQQPSMyJK8ZNJBpqT4w2A0Q08VoJmFwbX4CGWZiPSI93PUbkHnlWdHOtOQvKaWQRFWuk7_2FCWKFN5BjxanSWF7DexcGI97AwojFpePQl5wejX98w5MI",
+            "widthPx": 3024
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "شهرک چشمه",
+            "P7X4+7H6"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "District 22"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 7,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 14,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 6,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 16,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 7,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:30 AM – 12:00 AM",
+            "Tuesday: 7:30 AM – 12:00 AM",
+            "Wednesday: 7:30 AM – 12:00 AM",
+            "Thursday: 7:30 AM – 12:00 AM",
+            "Friday: 6:30 AM – 2:00 PM, 4:00 PM – 12:00 AM",
+            "Saturday: 7:30 AM – 12:00 AM",
+            "Sunday: 7:30 AM – 12:00 AM"
+        ]
+    },
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, District 22، شهرک چشمه، P7X4+7H6",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.74950063029151,
+            "longitude": 51.2577604302915
+        },
+        "low": {
+            "latitude": 35.74680266970851,
+            "longitude": 51.255062469708506
+        }
+    },
+    "timestamp": 1765104853
+}

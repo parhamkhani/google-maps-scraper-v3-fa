@@ -1,0 +1,660 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P7W7+PVH",
+            "shortText": "P7W7+PVH",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "40th Street",
+            "shortText": "40th St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 22"
+                },
+                "name": "places/ChIJad-enSXljT8RkdEMb4fmE3o",
+                "placeId": "ChIJad-enSXljT8RkdEMb4fmE3o"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shahrak-e-Cheshmeh"
+                },
+                "name": "places/ChIJDVhi8FT7jT8RTvqRvNXAx8o",
+                "placeId": "ChIJDVhi8FT7jT8RTvqRvNXAx8o"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shahrak-e-Sadra"
+                },
+                "name": "places/ChIJNdB-hGf7jT8Rjjaaitotz3Y",
+                "placeId": "ChIJNdB-hGf7jT8Rjjaaitotz3Y"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sofre Irani Garden Restaurant"
+                },
+                "name": "places/ChIJN4dRNqj8jT8RrZRqb86iIUc",
+                "placeId": "ChIJN4dRNqj8jT8RrZRqb86iIUc",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 15.677514,
+                "travelDistanceMeters": 16.90812,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Olympic Twin Towers"
+                },
+                "name": "places/ChIJK4W_cKj8jT8Rb8bjiNw0MIk",
+                "placeId": "ChIJK4W_cKj8jT8Rb8bjiNw0MIk",
+                "straightLineDistanceMeters": 210.35402,
+                "travelDistanceMeters": 305.02972,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "کبابی گلپایگانی"
+                },
+                "name": "places/ChIJgzu6wnL9jT8RWGeev1rVjGs",
+                "placeId": "ChIJgzu6wnL9jT8RWGeev1rVjGs",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 22.064163,
+                "travelDistanceMeters": 28.116291,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Almahdi Mosque"
+                },
+                "name": "places/ChIJ4acV3Kn8jT8RfgFLAgcU6U8",
+                "placeId": "ChIJ4acV3Kn8jT8RfgFLAgcU6U8",
+                "straightLineDistanceMeters": 109.16331,
+                "travelDistanceMeters": 354.7555,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "َApadana Language Academy"
+                },
+                "name": "places/ChIJeaD_nof9jT8RyT9TUg9VSew",
+                "placeId": "ChIJeaD_nof9jT8RyT9TUg9VSew",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 4.6766806,
+                "travelDistanceMeters": 2.9780731,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:29:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 11:59 PM",
+            "Tuesday: 11:00 AM – 11:59 PM",
+            "Wednesday: 11:00 AM – 11:59 PM",
+            "Thursday: 11:00 AM – 11:59 PM",
+            "Friday: 11:00 AM – 11:59 PM",
+            "Saturday: 11:00 AM – 11:59 PM",
+            "Sunday: 11:00 AM – 11:59 PM"
+        ]
+    },
+    "displayName": {
+        "languageCode": "en",
+        "text": "فست فود ریحانه"
+    },
+    "formattedAddress": "Tehran Province, Tehran, 40th St, P7W7+PVH, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd001fb9c7e5:0x3b0987ffe8d65e2!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd001fb9c7e5:0x3b0987ffe8d65e2!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=265880053513807330&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd001fb9c7e5:0x3b0987ffe8d65e2!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd001fb9c7e5:0x3b0987ffe8d65e2!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=265880053513807330&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ5ce5HwD9jT8R4mWN_n-YsAM",
+    "internationalPhoneNumber": "+98 21 4473 3323",
+    "location": {
+        "latitude": 35.7468241,
+        "longitude": 51.2646727
+    },
+    "name": "places/ChIJ5ce5HwD9jT8R4mWN_n-YsAM",
+    "nationalPhoneNumber": "021 4473 3323",
+    "outdoorSeating": true,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "behzad saeedie",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLZkNuerwAXni0n_Mp-hj1Oh9IOFyc1kuHOSjf7b4_xL_ncAw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107946924234841781708"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfpsPMtwE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfpsPMtwE!2e10!4m2!3m1!1s0x3f8dfd001fb9c7e5:0x3b0987ffe8d65e2",
+            "heightPx": 3024,
+            "name": "places/ChIJ5ce5HwD9jT8R4mWN_n-YsAM/photos/AZLasHoz86RuyFz-w3Da85gwOHxA7zBEdwLz5NZ1LR83ycDzQiG0Onnrccr9TqaD4_xkf8WhfCkCiMFN88jCNGVX_JX6iRt-saCwY-R3N_b5uDc7Py2OCMeYQkPiLYghYojajExbMeu3aPS8qhbw2Nso6bkCK0i0XceMAEW0KLXTNT4ZkpNDX-f91M3XU-KDm4D9F-0idNo5q9Q1PVwIR3nvT8KVZxCVZktoohxpVo7fpfuPZoWIwiOudusZtvIErwI_rEFNt22Riyw0-AV3Qiy1rN6gGLALuP6sQAFySARm-fOa9m6YO9dw-bvAvfiSrus7WuPDAQnG0ztwfzdHcr1vLkGBqT20zl94xDZLxJJruWvXyfv8d5p-UEgp7pXZTo4c22pShBfACH2R7OfQ9WhQQBLYjOnLBvQVmmy4XNOLprR2gBEH",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ali Aghamiri",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGM7Wz3W3zNNJoEvAcURhEQwlJRPlL9Ysyc6i7LEcc5P6omBt7=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107804044162453301872"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCou5TKAw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCou5TKAw!2e10!4m2!3m1!1s0x3f8dfd001fb9c7e5:0x3b0987ffe8d65e2",
+            "heightPx": 4032,
+            "name": "places/ChIJ5ce5HwD9jT8R4mWN_n-YsAM/photos/AZLasHpTarVT-Boa8E7DCwYEcsSYABwSVPawqboH5RmR0HbmuMSo_6M60zMxGKO7CJghC9J3kieFGpCEAzN890V_rMNb4zzuaoNq6VlUfQP13XdmD-cND9j19FsXjvO5qeUpGE53NAlBQ7TNp8g3JtBtie3gS6PKDONsN13BANwuAhT-kuelHKqbCPVT_M2MpDilJOVrK5ZJbBM16ujPv0c1AuIeU0WT_VFTe0Nz5kX1UIs76TVnSrPKtGR-7TFzFFS5eS6OyxNigZBFOlQByluvP4i8ciGMEHU-1WFuImtf4-Q6vubHe47S2Y0VirtgfAuZVvN3jf_TQ0rvRm8l-yD2qEHA3vS43Goq_bsJZ3FnzMVE3CQrkDjH0ErrG0qUHJAsMpG-Xx7Cpmb0wbhDA7rI1SLwwdxb9r3m9QnQ46H2_MyfZg",
+            "widthPx": 2268
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ali Aghamiri",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGM7Wz3W3zNNJoEvAcURhEQwlJRPlL9Ysyc6i7LEcc5P6omBt7=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107804044162453301872"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCou5TKfQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCou5TKfQ!2e10!4m2!3m1!1s0x3f8dfd001fb9c7e5:0x3b0987ffe8d65e2",
+            "heightPx": 4032,
+            "name": "places/ChIJ5ce5HwD9jT8R4mWN_n-YsAM/photos/AZLasHpR3L_HnSucCSGp9FrmJqKA-H6LK3jFADFS-K4ggPwIBQPJRrK9-KdLt4CfqvuFTin7-AFh98hYomAyI0JKK7-2Rlgtop1fBX4g7Sp1MKv6pTx-tQIIH8v3X4XB0lpKO6TqGSqcfXNwUxk4YDixPcirQjFJ7UZoQDcEV85VlDH1Fv66Pdn8h2-ih8TX4JaZpSRa4UYJ2xxVo8uIO1JnvQLhMf77GQ04yCCp98JCimslGAdkbZ_UzvEZEOE-s0RoLJTQR2hDQSHqUvov_QtT3U5ITTvVJCK2t9XZZ8wYMtPLBRF8WpqlHolWfPTQ7WtzlktQF0dy26PG7_28eV357We_IRf92VLa1joOoqvz5allThai6jZycR8pdhXJraEhrjg_eTPLwErFzm4cqwKwU-eacFQaBs4YV-JeHGJmt_O1Wg",
+            "widthPx": 2268
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "behzad saeedie",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLZkNuerwAXni0n_Mp-hj1Oh9IOFyc1kuHOSjf7b4_xL_ncAw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107946924234841781708"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfpv2VGQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfpv2VGQ!2e10!4m2!3m1!1s0x3f8dfd001fb9c7e5:0x3b0987ffe8d65e2",
+            "heightPx": 608,
+            "name": "places/ChIJ5ce5HwD9jT8R4mWN_n-YsAM/photos/AZLasHptgdKikQgV6-5ATuKV9S1-ojwxVxuaJaP_WKqvLGK1aANSTuww0GvctiXawfWt1293ou_mxJ8WecFr0QlTUSAvZGVIttTI1Ro4BLJ9RRB7OyNq20ha37HGEd8wq2f4UzjciqHxv0a3rYrn-7N4kwfVwBHdkMAYabTW3etCxxWGBzKdUsgGlMQUQozDp0LXqRGmtKGMFSuJAnmTsPYY7IjB2RCpE9ZwHUDcl6g-vi4P7AQqYK3oRf3Oo71hS4hC3rgQhFEFsLGzYgq51T_odnbeencI7RZrF4s3eKWlNOPm921aA_pOcokVog_R13PbF2dEpNmJh9RURH6Bw5_fJWmDTDbSbHnIeQvrh20RoBuqiA0k47xzQFvdTX8FhugAS2PVldM-kzK8rR717px516oJhN0She8vEzHuwzQ_l58LBQ",
+            "widthPx": 898
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ali Aghamiri",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGM7Wz3W3zNNJoEvAcURhEQwlJRPlL9Ysyc6i7LEcc5P6omBt7=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107804044162453301872"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCou5TK_QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCou5TK_QE!2e10!4m2!3m1!1s0x3f8dfd001fb9c7e5:0x3b0987ffe8d65e2",
+            "heightPx": 4032,
+            "name": "places/ChIJ5ce5HwD9jT8R4mWN_n-YsAM/photos/AZLasHoCzWw5mCEYXmnMbAvKhoRvVYRoJ9ZdRuwAJFUegmIBD-qRJW1fGMuf_DJQdJKIDl_-O6agQIVBXDvNd1RXxEWsK01BYINlA7aFgjAi5CKGhyTev5MpFS0HCVMU2SkMF9wKy2i1QHq9sxFK_xB0MmlgGHKK4rwVfoYovWsntvS4U1y6V94lni2PkSw5ceaETYyu3KI5-hUT8SK5sFWMMXsKby_THntWpdfS4RwxlK7HPegfCKsCC_CBCtoxWFjLmcmQUmDjD7SDZIrXEgNRyk7iuMAXGYTtyw00IZnde8T9Vi8o9CgESFUnqg7BvSPBfRU_eBzjSA9ax339nKJMxKVhN91qadz370SKmI_ne_eO2MNSe6WvrDAPrwzNqq7PUzAlHF-btXMXY5IDmCnIa7F9hWmNkDYSb5tls4cx_As202vZ",
+            "widthPx": 2268
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "behzad saeedie",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLZkNuerwAXni0n_Mp-hj1Oh9IOFyc1kuHOSjf7b4_xL_ncAw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107946924234841781708"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfpqP0vgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfpqP0vgE!2e10!4m2!3m1!1s0x3f8dfd001fb9c7e5:0x3b0987ffe8d65e2",
+            "heightPx": 3024,
+            "name": "places/ChIJ5ce5HwD9jT8R4mWN_n-YsAM/photos/AZLasHq_pfIKU1e8159WLKOGrouI4_iLAbPlCosSjo4NCq3ych3XK4DfIPGEnt1ktaKo2GITbcP7r376vA_vJzA04yM4WSpVeo9cKh07u6d1y7Aq9GmeI3joo62pZR5SNpj9RBXUJtpCxKNez1Q5uW0PZn_dB8w437e4IEJ7AWpNKIY7Lz2-xOCTMEGr4H8F7qJ163tDsq3eHK99rmUa7wfYUj6ykgujWBPbryhgtkM2DOVaVTmdXy8nklxJwipLA3GvPZGjaDrvFHaxwxdRJ2hjW4Ngb_wa4UU-7U7J9Ra6VbhY0m6G3nsomWZoCOrnKZNgk1Iy9bB_hfXSL0L6D_4GDHdibVUSuisaaTtinwe_B6C8Yh4ZQ-NjFlAqaKqnkkbiKIIDsdDFmbSYCHiRX6Hu5wNLd7bqcK-vWHklw4poZ101OI8",
+            "widthPx": 4032
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "40th St",
+            "P7W7+PVH"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "fast_food_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Fast Food Restaurant"
+    },
+    "rating": 4.3,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:29:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 59
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 11:59 PM",
+            "Tuesday: 11:00 AM – 11:59 PM",
+            "Wednesday: 11:00 AM – 11:59 PM",
+            "Thursday: 11:00 AM – 11:59 PM",
+            "Friday: 11:00 AM – 11:59 PM",
+            "Saturday: 11:00 AM – 11:59 PM",
+            "Sunday: 11:00 AM – 11:59 PM"
+        ]
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Pasha Jafari",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIBtIi_L6FqkvMU-EG3ru-Jme0qc-QrqapZvP9qKlalRM9suQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/101028991327130899247/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poV2FuWTVla05VYzJ0RVIzZElUell6YzNaeFoyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poV2FuWTVla05VYzJ0RVIzZElUell6YzNaeFoyYxAB!2m1!1s0x3f8dfd001fb9c7e5:0x3b0987ffe8d65e2",
+            "name": "places/ChIJ5ce5HwD9jT8R4mWN_n-YsAM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poV2FuWTVla05VYzJ0RVIzZElUell6YzNaeFoyYxAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "قیمت کمی بالاست اما کیفیت عالیه\nپرسنل معمولی هستند\nفضاش خیلی دلنشین و قشنگ بود"
+            },
+            "publishTime": "2025-11-22T15:31:14.775334396Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The price is a bit high but the quality is great\nThe staff are average\nThe space was very pleasant and beautiful"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ali Aghamiri",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGM7Wz3W3zNNJoEvAcURhEQwlJRPlL9Ysyc6i7LEcc5P6omBt7=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/107804044162453301872/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvdTR6YnZ3RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvdTR6YnZ3RRAB!2m1!1s0x3f8dfd001fb9c7e5:0x3b0987ffe8d65e2",
+            "name": "places/ChIJ5ce5HwD9jT8R4mWN_n-YsAM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvdTR6YnZ3RRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "قیمت کمی بالاس ولی حجم و کیفیت مواد اولیه بسیار خوبه. یک ساندویچش برای ما دو نفر بس بود.\nاحتمال زیاد دوباره میریم.\nاگه بقیه مشتری ها رعایت کنن و دم در سیگار نکشن که بوش نیاد تو خیلی بهتر میشه.\nمحیط خوبی داره، حیف که به پیچک های روی سقف رسیدگی‌نکردن."
+            },
+            "publishTime": "2025-04-20T06:40:45.140358Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "7 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The price is a bit high, but the quantity and quality of the ingredients are very good. One sandwich was enough for the two of us.\nWe will probably go again.\nIf the other customers would be considerate and not smoke near the door so that the smell doesn't get in, it would be much better.\nIt has a nice atmosphere, too bad they didn't take care of the ivy on the roof."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Arshia Safari Z",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHyQrndqPCx7WSKhbfBY4DCGQsbsgXtopxj-8CxrRbxsaE0KXG=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/102303908965144451413/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNF9YTi1RRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNF9YTi1RRRAB!2m1!1s0x3f8dfd001fb9c7e5:0x3b0987ffe8d65e2",
+            "name": "places/ChIJ5ce5HwD9jT8R4mWN_n-YsAM/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNF9YTi1RRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "قیمت بالا ولی کیفیتم بالا\nجای نشستن بد نیست کوچیکه دلنشینه\nپیتزا رست بیفاش عالیه"
+            },
+            "publishTime": "2025-03-13T20:31:46.124834Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "8 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "High price but high quality\nNot a bad place to sit, small and pleasant\nThe pizza is excellent, not too spicy"
+            }
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, 40th St, P7W7+PVH",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 3,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7481508802915,
+            "longitude": 51.26599038029149
+        },
+        "low": {
+            "latitude": 35.7454529197085,
+            "longitude": 51.26329241970849
+        }
+    },
+    "timestamp": 1765104853
+}

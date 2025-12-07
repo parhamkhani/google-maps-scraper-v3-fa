@@ -1,0 +1,270 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P892+4PH",
+            "shortText": "P892+4PH",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "بلوار شهید باکری،",
+            "shortText": "بلوار شهید باکری،",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Karaj",
+            "shortText": "Karaj",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Alborz Province",
+            "shortText": "Alborz Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parvaz Town"
+                },
+                "name": "places/ChIJpzIbIK39jT8RbaSDa0D_Ra0",
+                "placeId": "ChIJpzIbIK39jT8RbaSDa0D_Ra0"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "South Sazman Barnameh"
+                },
+                "name": "places/ChIJhy9IAFT8jT8RR2etd29ld9M",
+                "placeId": "ChIJhy9IAFT8jT8RR2etd29ld9M"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shaghayegh Bus Terminal"
+                },
+                "name": "places/ChIJpx-x1E38jT8R4TmgeuKwdZM",
+                "placeId": "ChIJpx-x1E38jT8R4TmgeuKwdZM",
+                "spatialRelationship": "WITHIN",
+                "straightLineDistanceMeters": 175.6109,
+                "travelDistanceMeters": 174.82591,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "transit_station"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Eram Sabz Metro Station"
+                },
+                "name": "places/ChIJz25Z98P9jT8R0WcEedqq3d8",
+                "placeId": "ChIJz25Z98P9jT8R0WcEedqq3d8",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 12.748569,
+                "travelDistanceMeters": 15.145866,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ansar Al-Hossein Mosque"
+                },
+                "name": "places/ChIJUwHkW0z8jT8RLEL0qYb2Yy4",
+                "placeId": "ChIJUwHkW0z8jT8RLEL0qYb2Yy4",
+                "straightLineDistanceMeters": 61.043537,
+                "travelDistanceMeters": 88.20334,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Khomeini High School"
+                },
+                "name": "places/ChIJz1jS07T9jT8RgDsKTJTQkEE",
+                "placeId": "ChIJz1jS07T9jT8RgDsKTJTQkEE",
+                "straightLineDistanceMeters": 366.27866,
+                "travelDistanceMeters": 464.94562,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school",
+                    "secondary_school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Salar-e-Daryani Supermarket"
+                },
+                "name": "places/ChIJL_TfTUz8jT8RtwvvVlwLM7o",
+                "placeId": "ChIJL_TfTUz8jT8RtwvvVlwLM7o",
+                "straightLineDistanceMeters": 129.25882,
+                "travelDistanceMeters": 155.79384,
+                "types": [
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store",
+                    "supermarket"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "کلین فود ارم سبز"
+    },
+    "formattedAddress": "Alborz Province, Karaj, بلوار شهید باکری،, P892+4PH, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfdf7c3dfa2fb:0x6c08178db2bef052!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdf7c3dfa2fb:0x6c08178db2bef052!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=7784497853266587730&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfdf7c3dfa2fb:0x6c08178db2bef052!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdf7c3dfa2fb:0x6c08178db2bef052!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=7784497853266587730&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ-6Lfw_f9jT8RUvC-so0XCGw",
+    "location": {
+        "latitude": 35.7178061,
+        "longitude": 51.3018732
+    },
+    "name": "places/ChIJ-6Lfw_f9jT8RUvC-so0XCGw",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "namino gostar iraninan",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUS5UA_zvBA7aNYEP1b2JeRn2rB3qWamMsn6zmZekoplAON6Slq=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106559088913350772248"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICyh9H1ugE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyh9H1ugE!2e10!4m2!3m1!1s0x3f8dfdf7c3dfa2fb:0x6c08178db2bef052",
+            "heightPx": 1280,
+            "name": "places/ChIJ-6Lfw_f9jT8RUvC-so0XCGw/photos/AZLasHpM9Q0SAmgUINcKIgHHB-sfUmUjfHTfpowkw5fUK13E_ewBQv6T3xfgGLsM1irtZVv_C0ji4FrO4palhRLx_l5q3Jk8of7-r145DF1cqHnYGsiN-gaDdK915eNYhgR8WVoonZb-coszlxJlhWfC_HTQXa9tbTC7Qy4iQxG0f7ZTc_931iROo_BnZCllwrlPG7NCXf_D5_9HyR74LvOoibtwLJKGD5xCmd_ilsskq8vDQHU6aZ2oUl4MqeMLEHPEJ11fF_ugYogupSgA6iQrtsG-OlkebhCaaSQa3tpNamS6b0UjRLbDQsVmE-sbL2jS2_7FXOrlW4-8QUBQtKhjxa-EWjiAudA4a---n_7LM9GSgk9Om2G-_BndBSVDJx7mOwRuuJxxfyHlI-i9y8FQDcye0SZ85CwocIY2lCbG8GY36q9B",
+            "widthPx": 1707
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "farzad keivanlou",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDEej4OhH68NKwih9Ts2Cr1Q6r9vRkrc8W9J8CMv0OiOePGNZo=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112269169295444006088"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC23oTFPg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC23oTFPg!2e10!4m2!3m1!1s0x3f8dfdf7c3dfa2fb:0x6c08178db2bef052",
+            "heightPx": 2160,
+            "name": "places/ChIJ-6Lfw_f9jT8RUvC-so0XCGw/photos/AZLasHpQa4QNJCx0yjd4pb4nCbbpqjEorT08JehERBHmgNNYlF6XBgk0uTuMqmu6r0ZmVtDno0gH2osqKzGBbBRZnaxcyjw_WxwjF5VSvMKtsUGbe1l6fOrPxfBWZBbm9aZLrH2C6ex5GEBipWahZdgzQaoDJX6DoT5FJMvgfID6NpJt0AON1BSJlPSaV9DYSfIHopYOhY7k8--eHXEb3Vk5cAk_G2no-iqkKx2V0du9cxMECOwk77WIF8zjvI0WWlFiC-jEuxa0ccmPcbGH3HEvrjt9zMsjlRa3aEfR2K7xsj5d5-Q0m3hDmyw2NGEm2xdo3Pho3qVINOmZsaDZ5nv9kpvKg1ywdxQSMwsHDuAHiVDc8uBN0wfU_H3FyLmuW0QdoLzEIdIZ6s2Tbwy3DMW3rpmOmslXEHltjuV-lM5w7-8DjQ",
+            "widthPx": 3840
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "بلوار شهید باکری،",
+            "P892+4PH"
+        ],
+        "administrativeArea": "Alborz Province",
+        "languageCode": "en-US",
+        "locality": "Karaj",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "servesBrunch": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Karaj, بلوار شهید باکری،, P892+4PH",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.719235380291494,
+            "longitude": 51.3030737302915
+        },
+        "low": {
+            "latitude": 35.716537419708494,
+            "longitude": 51.3003757697085
+        }
+    },
+    "websiteUri": "https://cleanfoods.ir/",
+    "timestamp": 1765104805
+}

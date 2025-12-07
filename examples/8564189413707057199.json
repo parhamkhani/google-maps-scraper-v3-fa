@@ -1,0 +1,309 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "No. 101",
+            "shortText": "No. 101",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Ayatollah Kashani Boulevard",
+            "shortText": "Ayatollah Kashani Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Ferdows",
+            "shortText": "Ferdows",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Mehran"
+                },
+                "name": "places/ChIJ-6R9JKT9jT8R2cfeUcr3-OM",
+                "placeId": "ChIJ-6R9JKT9jT8R2cfeUcr3-OM"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJQ-413779jT8R7lWt_dHTS7s",
+                "placeId": "ChIJQ-413779jT8R7lWt_dHTS7s"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Reza Mosque"
+                },
+                "name": "places/ChIJxVFDiaP9jT8RJJVJmSbCK48",
+                "placeId": "ChIJxVFDiaP9jT8RJJVJmSbCK48",
+                "straightLineDistanceMeters": 45.7784,
+                "travelDistanceMeters": 72.010025,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "دکتر رامین اسدی"
+                },
+                "name": "places/ChIJY6y5KoX9jT8RConolXRxz1A",
+                "placeId": "ChIJY6y5KoX9jT8RConolXRxz1A",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 15.298912,
+                "travelDistanceMeters": 12.511131,
+                "types": [
+                    "establishment",
+                    "health",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "برج تجاری اداری توپاز"
+                },
+                "name": "places/ChIJITRTDXr9jT8RBR4BEtuCfFk",
+                "placeId": "ChIJITRTDXr9jT8RBR4BEtuCfFk",
+                "straightLineDistanceMeters": 282.40436,
+                "travelDistanceMeters": 323.67084,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bank Day"
+                },
+                "name": "places/ChIJVTJFYrv9jT8RftXj_kYKHRw",
+                "placeId": "ChIJVTJFYrv9jT8RftXj_kYKHRw",
+                "straightLineDistanceMeters": 57.73873,
+                "travelDistanceMeters": 115.35454,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sarmayeh Bank"
+                },
+                "name": "places/ChIJ_V1mYbv9jT8RIb3ZMxI3TJM",
+                "placeId": "ChIJ_V1mYbv9jT8RIb3ZMxI3TJM",
+                "straightLineDistanceMeters": 52.851818,
+                "travelDistanceMeters": 97.53076,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+        "languageCode": "en",
+        "text": "کباب ناب بناب (گیلانی)"
+    },
+    "formattedAddress": "Tehran Province, Tehran, Ferdows, Ayatollah Kashani Blvd, No. 101, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd005c38208f:0x76da1ce5912b882f!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd005c38208f:0x76da1ce5912b882f!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=8564189413707057199&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd005c38208f:0x76da1ce5912b882f!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd005c38208f:0x76da1ce5912b882f!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=8564189413707057199&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJjyA4XAD9jT8RL4grkeUc2nY",
+    "location": {
+        "latitude": 35.727491799999996,
+        "longitude": 51.3208029
+    },
+    "name": "places/ChIJjyA4XAD9jT8RL4grkeUc2nY",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mohammadreza Didari",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLtIq3ZXdcUJtn7yYffcGLMZcSI1XtLXYPXp6HWwJqyZNyzEQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104524914235223257825"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDL5J3L1AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDL5J3L1AE!2e10!4m2!3m1!1s0x3f8dfd005c38208f:0x76da1ce5912b882f",
+            "heightPx": 4032,
+            "name": "places/ChIJjyA4XAD9jT8RL4grkeUc2nY/photos/AZLasHrMgJkutcnmJzgMTL_XJhTLlXXwmxhMcQncdY973d7ZjVHOdU0lBzLn19YziTsJV_Gaiei9vdcgrA22E7dgUNYX1QFtpCaRfQN-0CnIRtqFkj5dTLP6veNFOt8_LQs53fxrM2Ab7m_BW4HpEmyMVowghmLB6juHP_OypYfbOT8VXmswfRmxLSBrT6S1fYzqRzp7QKy_hQMZVqPKETNmBUsRmSooWtOS8Nh95VDTKMx5r81VUVIGG4uUkwBGaV3eDpQB3-XvMyjL59cYs0MxsXThgxeVvToXVstmDjr_4B9xKP-V7Z4EXvS3q_6n6f7d5HDQ4jgsOmYiXzf0Zf2Ze6LQxfRVLcecA6gzFgQkv0MK_EzDlHR18LZhUuFvnQiq1u6YdyA1wCY6yEROrD8edVGfppXswYG7yKWyncnXpFDH89xQ",
+            "widthPx": 3024
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "P8GC+X8 Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP8GC+X8"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Ayatollah Kashani Blvd, No. 101"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "Ferdows"
+    },
+    "primaryType": "barbecue_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Barbecue Restaurant"
+    },
+    "rating": 5,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Yara Whitfield",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK5-RT4mu-TlZVRmnp9uUwvOlI14RJgrsmgtNAN2Ku00bn32w=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/112889268814619236525/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvaTdyajNBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvaTdyajNBRRAB!2m1!1s0x3f8dfd005c38208f:0x76da1ce5912b882f",
+            "name": "places/ChIJjyA4XAD9jT8RL4grkeUc2nY/reviews/ChdDSUhNMG9nS0VJQ0FnTURvaTdyajNBRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "One of the best Kebab I have ever tried. Personel were also polite."
+            },
+            "publishTime": "2025-04-28T20:20:42.328566Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "7 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "One of the best Kebab I have ever tried. Personel were also polite."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "tanaz titi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOOot7BDIbtwxweQs06WOSFP4Yt9dpzw5usLQKQZbmD8nt_RNZ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/117875135877726853664/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCa0xWZHFaa053ZDBkRllYcENTR2RzVTJscmNGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCa0xWZHFaa053ZDBkRllYcENTR2RzVTJscmNGRRAB!2m1!1s0x3f8dfd005c38208f:0x76da1ce5912b882f",
+            "name": "places/ChIJjyA4XAD9jT8RL4grkeUc2nY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCa0xWZHFaa053ZDBkRllYcENTR2RzVTJscmNGRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "عالی هم کیفیت هم قیمت"
+            },
+            "publishTime": "2025-08-31T08:39:02.131853072Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Excellent both in quality and price."
+            }
+        }
+    ],
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, Ferdows, Ayatollah Kashani Blvd, No. 101",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "barbecue_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.72878608029149,
+            "longitude": 51.322118830291494
+        },
+        "low": {
+            "latitude": 35.72608811970849,
+            "longitude": 51.319420869708495
+        }
+    },
+    "timestamp": 1765104817
+}

@@ -1,0 +1,505 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P8HC+F6V",
+            "shortText": "P8HC+F6V",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Behnam Street",
+            "shortText": "Behnam St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Mehran"
+                },
+                "name": "places/ChIJ-6R9JKT9jT8R2cfeUcr3-OM",
+                "placeId": "ChIJ-6R9JKT9jT8R2cfeUcr3-OM"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJQ-413779jT8R7lWt_dHTS7s",
+                "placeId": "ChIJQ-413779jT8R7lWt_dHTS7s"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Baran Store"
+                },
+                "name": "places/ChIJDceiraT9jT8RzpkF8ypQZY4",
+                "placeId": "ChIJDceiraT9jT8RzpkF8ypQZY4",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 28.976461,
+                "travelDistanceMeters": 19.764036,
+                "types": [
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store",
+                    "supermarket"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ofoq Kourosh Store"
+                },
+                "name": "places/ChIJc4u99KP9jT8RTBLg75cfspA",
+                "placeId": "ChIJc4u99KP9jT8RTBLg75cfspA",
+                "straightLineDistanceMeters": 398.53546,
+                "travelDistanceMeters": 399.83017,
+                "types": [
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store",
+                    "supermarket"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Reza Mosque"
+                },
+                "name": "places/ChIJxVFDiaP9jT8RJJVJmSbCK48",
+                "placeId": "ChIJxVFDiaP9jT8RJJVJmSbCK48",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 99.62574,
+                "travelDistanceMeters": 98.46312,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "ویچوبرگر"
+                },
+                "name": "places/ChIJqQUO0f79jT8RJDjzL4aJvQA",
+                "placeId": "ChIJqQUO0f79jT8RJDjzL4aJvQA",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 179.67825,
+                "travelDistanceMeters": 178.75046,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bi Ni Ci"
+                },
+                "name": "places/ChIJbyb_5NIcjj8RbHpMV43fkWs",
+                "placeId": "ChIJbyb_5NIcjj8RbHpMV43fkWs",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 115.50467,
+                "travelDistanceMeters": 211.42125,
+                "types": [
+                    "car_repair",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T18:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 8,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 8:00 AM – 10:00 PM",
+            "Tuesday: 8:00 AM – 10:00 PM",
+            "Wednesday: 8:00 AM – 10:00 PM",
+            "Thursday: 8:00 AM – 10:00 PM",
+            "Friday: 8:00 AM – 10:00 PM",
+            "Saturday: 8:00 AM – 10:00 PM",
+            "Sunday: 8:00 AM – 10:00 PM"
+        ]
+    },
+    "displayName": {
+        "languageCode": "fa",
+        "text": "کبابخانه بارین"
+    },
+    "formattedAddress": "Tehran, Behnam St, P8HC+F6V, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd0007cf57a9:0xe5dae188e8876d68!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd0007cf57a9:0xe5dae188e8876d68!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=16562798557741411688&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd0007cf57a9:0xe5dae188e8876d68!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd0007cf57a9:0xe5dae188e8876d68!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=16562798557741411688&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJqVfPBwD9jT8RaG2H6Ijh2uU",
+    "internationalPhoneNumber": "+98 935 844 2628",
+    "liveMusic": false,
+    "location": {
+        "latitude": 35.7286675,
+        "longitude": 51.3205179
+    },
+    "name": "places/ChIJqVfPBwD9jT8RaG2H6Ijh2uU",
+    "nationalPhoneNumber": "0935 844 2628",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Behnam St",
+            "P8HC+F6V"
+        ],
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "barbecue_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Barbecue Restaurant"
+    },
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T18:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 8,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 8:00 AM – 10:00 PM",
+            "Tuesday: 8:00 AM – 10:00 PM",
+            "Wednesday: 8:00 AM – 10:00 PM",
+            "Thursday: 8:00 AM – 10:00 PM",
+            "Friday: 8:00 AM – 10:00 PM",
+            "Saturday: 8:00 AM – 10:00 PM",
+            "Sunday: 8:00 AM – 10:00 PM"
+        ]
+    },
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, Behnam St, P8HC+F6V",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "barbecue_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.73002193029151,
+            "longitude": 51.3218205302915
+        },
+        "low": {
+            "latitude": 35.72732396970851,
+            "longitude": 51.3191225697085
+        }
+    },
+    "timestamp": 1765104817
+}

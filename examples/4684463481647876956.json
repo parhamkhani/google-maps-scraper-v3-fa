@@ -1,0 +1,255 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P874+V4H",
+            "shortText": "P874+V4H",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Ekbatan Town",
+            "shortText": "Ekbatan Town",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ekbatan Phase Two"
+                },
+                "name": "places/ChIJkdJewMz9jT8Rp03QYa-tU0c",
+                "placeId": "ChIJkdJewMz9jT8Rp03QYa-tU0c"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ekbatan Town"
+                },
+                "name": "places/ChIJX9SXfNv9jT8RI2uoo_0CD5Y",
+                "placeId": "ChIJX9SXfNv9jT8RI2uoo_0CD5Y"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Khomeini High School"
+                },
+                "name": "places/ChIJz1jS07T9jT8RgDsKTJTQkEE",
+                "placeId": "ChIJz1jS07T9jT8RgDsKTJTQkEE",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 181.46698,
+                "travelDistanceMeters": 253.68494,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school",
+                    "secondary_school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Block 2"
+                },
+                "name": "places/ChIJeaisPEv8jT8RFNtxgIM1vI0",
+                "placeId": "ChIJeaisPEv8jT8RFNtxgIM1vI0",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 168.94579,
+                "travelDistanceMeters": 151.51514,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Gisel Coffee"
+                },
+                "name": "places/ChIJHw5IoUT9jT8RMhNRD-lO7Vs",
+                "placeId": "ChIJHw5IoUT9jT8RMhNRD-lO7Vs",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 28.056322,
+                "travelDistanceMeters": 27.873291,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Black Ball Billiard Club"
+                },
+                "name": "places/ChIJAWfI1kr8jT8RBj_gNrmThko",
+                "placeId": "ChIJAWfI1kr8jT8RBj_gNrmThko",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 92.89979,
+                "travelDistanceMeters": 459.13794,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Wingstop"
+                },
+                "name": "places/ChIJM5pOUVb9jT8RL1IsRi_wiJk",
+                "placeId": "ChIJM5pOUVb9jT8RL1IsRi_wiJk",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 8.598344,
+                "travelDistanceMeters": 8.124512,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJAT9dNrX9jT8Rr6UchxSfTtc",
+            "name": "places/ChIJAT9dNrX9jT8Rr6UchxSfTtc"
+        }
+    ],
+    "displayName": {
+        "languageCode": "en",
+        "text": "Hoorak"
+    },
+    "formattedAddress": "P874+V4H Ekbatan Town, Tehran, Tehran Province, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd00309aa8b5:0x41028eb79ae94b5c!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd00309aa8b5:0x41028eb79ae94b5c!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=4684463481647876956&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd00309aa8b5:0x41028eb79ae94b5c!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd00309aa8b5:0x41028eb79ae94b5c!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=4684463481647876956&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJtaiaMAD9jT8RXEvpmreOAkE",
+    "location": {
+        "latitude": 35.7145173,
+        "longitude": 51.3052746
+    },
+    "name": "places/ChIJtaiaMAD9jT8RXEvpmreOAkE",
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Shayan Eskandarpoor",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJmKfTMX4rHFogDwrK_n3ry_yC-KRq9qZ_qOfiwZIoQ5jQP-g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100742391733912219932"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydVgTQFnTWgOZkEADnOU&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydVgTQFnTWgOZkEADnOU!2e10!4m2!3m1!1s0x3f8dfd00309aa8b5:0x41028eb79ae94b5c",
+            "heightPx": 4080,
+            "name": "places/ChIJtaiaMAD9jT8RXEvpmreOAkE/photos/AZLasHoSJw-N5HkHCdPGshfRwIW6l3eoxaVAas7omAGCEi9Hv30hXHg4y2OHEjBqlBHSEW7m9-Zxy0rPXRhEqRsXrErJ4ZcRASM88CdmX-Ci2QHXJWMQqp8jq9JfzJhl0gpnr4BEqlgLCUIRMTQkjVTXXqtwz2WD9DlCexyj7c5egNwZzbLOCLiO30Et6VysljWn3RWTh5dR6IvOA88ZTMLpNgSUxHROwcLZRF-txjv2mvPjrdzhq4I3He1WPQX06rQfSg4dq8F63tCS4HCQXA-ywZc2CO5LF9IC1O-QCW62g3JPPOq5Jior0-z89SvbdJtdelIpqFPJpPEYTX7dJpmf-Xg-IZJPLQlyAhDMeTRwoFDZhUukdzt0D9OM7jpCHDRb5csLsK_fHZfX6dAUfnqdYe3yhS8oygV4lpX6GTLk0N5wo_NpKEWhzppmaLoc8SGM",
+            "widthPx": 3072
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "P874+V4H"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "Ekbatan Town"
+    },
+    "primaryType": "hamburger_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Hamburger Restaurant"
+    },
+    "shortFormattedAddress": "P874+V4H Ekbatan Town, Tehran",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "hamburger_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.716083830291495,
+            "longitude": 51.3065578802915
+        },
+        "low": {
+            "latitude": 35.713385869708496,
+            "longitude": 51.30385991970851
+        }
+    },
+    "timestamp": 1765104805
+}

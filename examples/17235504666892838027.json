@@ -1,0 +1,605 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P75H+FM8",
+            "shortText": "P75H+FM8",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Azadi Town"
+                },
+                "name": "places/ChIJvfsCs2_8jT8RODV5P-5G0OA",
+                "placeId": "ChIJvfsCs2_8jT8RODV5P-5G0OA"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 21"
+                },
+                "name": "places/ChIJR4Qp0Oj6jT8RPqZojC5qdME",
+                "placeId": "ChIJR4Qp0Oj6jT8RPqZojC5qdME"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Farhangian Town"
+                },
+                "name": "places/ChIJV6lUkDb8jT8RjhoLD3FUJpw",
+                "placeId": "ChIJV6lUkDb8jT8RjhoLD3FUJpw"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "قنادی پدر"
+                },
+                "name": "places/ChIJw4QvEKb9jT8RMQTt_SwOGfA",
+                "placeId": "ChIJw4QvEKb9jT8RMQTt_SwOGfA",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 25.265383,
+                "travelDistanceMeters": 12.458225,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "نمایندگی مجاز ایران خودرو ۱۱۷۲"
+                },
+                "name": "places/ChIJiypi7bb9jT8RgzQoBtV_C4c",
+                "placeId": "ChIJiypi7bb9jT8RgzQoBtV_C4c",
+                "straightLineDistanceMeters": 125.82626,
+                "travelDistanceMeters": 190.27141,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Paytakht Taekwondo House"
+                },
+                "name": "places/ChIJq6pqIm_8jT8RKEHG0oVlgb0",
+                "placeId": "ChIJq6pqIm_8jT8RKEHG0oVlgb0",
+                "straightLineDistanceMeters": 257.94327,
+                "travelDistanceMeters": 303.2378,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Classic Western Hall"
+                },
+                "name": "places/ChIJ7QeNZ2r8jT8Rm2gEp7PBHj4",
+                "placeId": "ChIJ7QeNZ2r8jT8Rm2gEp7PBHj4",
+                "straightLineDistanceMeters": 258.7398,
+                "travelDistanceMeters": 381.886,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Koosha International Center of Applied Science & Technology"
+                },
+                "name": "places/ChIJ01qMZ2r8jT8RDX1NSs9Hpq8",
+                "placeId": "ChIJ01qMZ2r8jT8RDX1NSs9Hpq8",
+                "straightLineDistanceMeters": 356.38916,
+                "travelDistanceMeters": 465.81616,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T18:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 9,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 9:00 AM – 10:00 PM",
+            "Tuesday: 9:00 AM – 10:00 PM",
+            "Wednesday: 9:00 AM – 10:00 PM",
+            "Thursday: 9:00 AM – 10:00 PM",
+            "Friday: 9:00 AM – 10:00 PM",
+            "Saturday: 9:00 AM – 10:00 PM",
+            "Sunday: 9:00 AM – 10:00 PM"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Denj Traditional Restaurant"
+    },
+    "formattedAddress": "P75H+FM8, Tehran, Tehran Province, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfc69521cb39d:0xef30d02d4abc248b!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfc69521cb39d:0xef30d02d4abc248b!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=17235504666892838027&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfc69521cb39d:0xef30d02d4abc248b!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfc69521cb39d:0xef30d02d4abc248b!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=17235504666892838027&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJnbMcUmn8jT8RiyS8Si3QMO8",
+    "internationalPhoneNumber": "+98 21 4450 9696",
+    "location": {
+        "latitude": 35.7086501,
+        "longitude": 51.2792026
+    },
+    "name": "places/ChIJnbMcUmn8jT8RiyS8Si3QMO8",
+    "nationalPhoneNumber": "021 4450 9696",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "postalAddress": {
+        "addressLines": [
+            "P75H+FM8"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.5,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T18:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 9,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 9:00 AM – 10:00 PM",
+            "Tuesday: 9:00 AM – 10:00 PM",
+            "Wednesday: 9:00 AM – 10:00 PM",
+            "Thursday: 9:00 AM – 10:00 PM",
+            "Friday: 9:00 AM – 10:00 PM",
+            "Saturday: 9:00 AM – 10:00 PM",
+            "Sunday: 9:00 AM – 10:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Mohammadreza Sehat",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI_m4KMKLK3nH0mCRZPAB300_ahlOo1OLIGHVLMV9HecKEMtQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/107908551642313842767/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMwZ01iVWxnRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMwZ01iVWxnRRAB!2m1!1s0x3f8dfc69521cb39d:0xef30d02d4abc248b",
+            "name": "places/ChIJnbMcUmn8jT8RiyS8Si3QMO8/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwZ01iVWxnRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Good BBQ for fair price"
+            },
+            "publishTime": "2019-09-10T08:23:28.513660Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "6 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Good BBQ for fair price"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "elena azizi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIS5FMEZ_nTGAMYXfvJZT2csOPfxiC8wL-B45oyvSButH556Y=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/114093157726061065493/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKNmIxRnFRVXc0WnkxTmEyRkJlRzVKYUdwbFNuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKNmIxRnFRVXc0WnkxTmEyRkJlRzVKYUdwbFNuYxAB!2m1!1s0x3f8dfc69521cb39d:0xef30d02d4abc248b",
+            "name": "places/ChIJnbMcUmn8jT8RiyS8Si3QMO8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKNmIxRnFRVXc0WnkxTmEyRkJlRzVKYUdwbFNuYxAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "خوب بود و غذا هم خوشمزه بود"
+            },
+            "publishTime": "2025-08-18T12:03:37.297376403Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "It was good and the food was delicious."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "hadi pajtar",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuaShv1mXOxB8ltoG6-QVzEBAPhIzv_09zsBqyMAFWOEQ51fBk=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/101597621175446579493/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR3aHZtSHhBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR3aHZtSHhBRRAB!2m1!1s0x3f8dfc69521cb39d:0xef30d02d4abc248b",
+            "name": "places/ChIJnbMcUmn8jT8RiyS8Si3QMO8/reviews/ChdDSUhNMG9nS0VJQ0FnSUR3aHZtSHhBRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "خیلی عالی تنوع داره"
+            },
+            "publishTime": "2018-10-27T05:11:38.643812182Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "7 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "It has a great variety."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "پریسا عبدی نیری",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL_vEFW20f97_HvbUGDzNcg8ErLI0A1uKJujMKu1MtRvYVv-Q=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/116668119898796677157/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURpM0tHY3lBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURpM0tHY3lBRRAB!2m1!1s0x3f8dfc69521cb39d:0xef30d02d4abc248b",
+            "name": "places/ChIJnbMcUmn8jT8RiyS8Si3QMO8/reviews/ChdDSUhNMG9nS0VJQ0FnSURpM0tHY3lBRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "بد نیس"
+            },
+            "publishTime": "2020-11-28T17:05:17.056402Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "5 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Not bad."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "سید سعید محمدی",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBOPdQRv60yTMUHbswYg0ZBwWPW-GDyGcjcCGpObk5sRJCyj4=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/102653006246376009727/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURJa1k2Nm9RRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURJa1k2Nm9RRRAB!2m1!1s0x3f8dfc69521cb39d:0xef30d02d4abc248b",
+            "name": "places/ChIJnbMcUmn8jT8RiyS8Si3QMO8/reviews/ChdDSUhNMG9nS0VJQ0FnSURJa1k2Nm9RRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "غذای کاملا لذیذ"
+            },
+            "publishTime": "2019-01-08T21:56:25.979623058Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Absolutely delicious food."
+            }
+        }
+    ],
+    "servesBreakfast": true,
+    "servesBrunch": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "P75H+FM8, Tehran",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 13,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7099852802915,
+            "longitude": 51.28063058029149
+        },
+        "low": {
+            "latitude": 35.7072873197085,
+            "longitude": 51.2779326197085
+        }
+    },
+    "timestamp": 1765104794
+}

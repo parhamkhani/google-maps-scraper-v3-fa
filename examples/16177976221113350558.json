@@ -1,0 +1,256 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P7X6+P7R",
+            "shortText": "P7X6+P7R",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "fa",
+            "longText": "شهرک چشمه",
+            "shortText": "شهرک چشمه",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "District 22",
+            "shortText": "District 22",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shahrak-e-Cheshmeh"
+                },
+                "name": "places/ChIJDVhi8FT7jT8RTvqRvNXAx8o",
+                "placeId": "ChIJDVhi8FT7jT8RTvqRvNXAx8o"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 22"
+                },
+                "name": "places/ChIJad-enSXljT8RkdEMb4fmE3o",
+                "placeId": "ChIJad-enSXljT8RkdEMb4fmE3o"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Olympics Town Petrol Station"
+                },
+                "name": "places/ChIJY8IFGqr8jT8RkSlDZZRP7k4",
+                "placeId": "ChIJY8IFGqr8jT8RkSlDZZRP7k4",
+                "straightLineDistanceMeters": 299.11526,
+                "travelDistanceMeters": 409.76028,
+                "types": [
+                    "establishment",
+                    "gas_station",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "دبستان علی مهدوی"
+                },
+                "name": "places/ChIJj9DEUR_7jT8Ryd4MYMDi4Yw",
+                "placeId": "ChIJj9DEUR_7jT8Ryd4MYMDi4Yw",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 40.93571,
+                "travelDistanceMeters": 37.8654,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Intifada Martyrs School"
+                },
+                "name": "places/ChIJrRSiAKr8jT8RWavr-znGQAU",
+                "placeId": "ChIJrRSiAKr8jT8RWavr-znGQAU",
+                "straightLineDistanceMeters": 239.84688,
+                "travelDistanceMeters": 473.46164,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school",
+                    "secondary_school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "نمایشگاه صنایع خودرو سازی ایلیا"
+                },
+                "name": "places/ChIJLb0pewX9jT8R-q6kVRgS4hY",
+                "placeId": "ChIJLb0pewX9jT8R-q6kVRgS4hY",
+                "straightLineDistanceMeters": 277.01404,
+                "travelDistanceMeters": 372.30356,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Pirook food"
+                },
+                "name": "places/ChIJ7W2TGKr8jT8RNPY54Aob6HM",
+                "placeId": "ChIJ7W2TGKr8jT8RNPY54Aob6HM",
+                "straightLineDistanceMeters": 334.64923,
+                "travelDistanceMeters": 418.44022,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+        "languageCode": "en",
+        "text": "کترینگ قائم"
+    },
+    "formattedAddress": "Tehran Province, Tehran, District 22, شهرک چشمه، P7X6+P7R, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfb007ce5a64f:0xe083b7a8942d799e!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfb007ce5a64f:0xe083b7a8942d799e!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=16177976221113350558&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfb007ce5a64f:0xe083b7a8942d799e!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfb007ce5a64f:0xe083b7a8942d799e!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=16177976221113350558&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJT6blfAD7jT8RnnktlKi3g-A",
+    "location": {
+        "latitude": 35.7493532,
+        "longitude": 51.260644899999996
+    },
+    "name": "places/ChIJT6blfAD7jT8RnnktlKi3g-A",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true
+    },
+    "postalAddress": {
+        "addressLines": [
+            "شهرک چشمه",
+            "P7X6+P7R"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "District 22"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 3,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "maziyar safavi",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQOjBZcc2fZRcbcz8b2bRnDFX4CbVKlgBsZxdqBKRIZ_0wXQ=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/101309933392591184403/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CUWJ6UXhZWFpIYldRM0xYSlNORUZZTkVoMldXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CUWJ6UXhZWFpIYldRM0xYSlNORUZZTkVoMldXYxAB!2m1!1s0x3f8dfb007ce5a64f:0xe083b7a8942d799e",
+            "name": "places/ChIJT6blfAD7jT8RnnktlKi3g-A/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CUWJ6UXhZWFpIYldRM0xYSlNORUZZTkVoMldXYxAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "یکیبار سفارش دادم غذا"
+            },
+            "publishTime": "2025-11-19T19:12:00.558448301Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "I ordered food once."
+            }
+        }
+    ],
+    "shortFormattedAddress": "Tehran, District 22، شهرک چشمه، P7X6+P7R",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.75075143029151,
+            "longitude": 51.26201613029151
+        },
+        "low": {
+            "latitude": 35.74805346970851,
+            "longitude": 51.25931816970851
+        }
+    },
+    "timestamp": 1765104853
+}

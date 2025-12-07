@@ -1,0 +1,337 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P874+W6X",
+            "shortText": "P874+W6X",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Ekbatan Town",
+            "shortText": "Ekbatan Town",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ekbatan Phase Two"
+                },
+                "name": "places/ChIJkdJewMz9jT8Rp03QYa-tU0c",
+                "placeId": "ChIJkdJewMz9jT8Rp03QYa-tU0c"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ekbatan Town"
+                },
+                "name": "places/ChIJX9SXfNv9jT8RI2uoo_0CD5Y",
+                "placeId": "ChIJX9SXfNv9jT8RI2uoo_0CD5Y"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Pasargad Shopping Center"
+                },
+                "name": "places/ChIJAT9dNrX9jT8Rr6UchxSfTtc",
+                "placeId": "ChIJAT9dNrX9jT8Rr6UchxSfTtc",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 21.743015,
+                "travelDistanceMeters": 8.017769,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shopping_mall"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Khomeini High School"
+                },
+                "name": "places/ChIJz1jS07T9jT8RgDsKTJTQkEE",
+                "placeId": "ChIJz1jS07T9jT8RgDsKTJTQkEE",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 139.95854,
+                "travelDistanceMeters": 402.6739,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school",
+                    "secondary_school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "FazBurger"
+                },
+                "name": "places/ChIJDeLxB3b9jT8Rs4EPb3iZZ00",
+                "placeId": "ChIJDeLxB3b9jT8Rs4EPb3iZZ00",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 4.632334,
+                "travelDistanceMeters": 2.8916492,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Joorchin Stationary And Bookstore"
+                },
+                "name": "places/ChIJC2ySu9v9jT8RQHNLkJKcntw",
+                "placeId": "ChIJC2ySu9v9jT8RQHNLkJKcntw",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 14.543573,
+                "travelDistanceMeters": 3.731573,
+                "types": [
+                    "book_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Gol-e Narges Swimming Pool"
+                },
+                "name": "places/ChIJgUju6sr9jT8RHZy3Kg_4RWE",
+                "placeId": "ChIJgUju6sr9jT8RHZy3Kg_4RWE",
+                "straightLineDistanceMeters": 273.8255,
+                "travelDistanceMeters": 370.40405,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+        "languageCode": "en",
+        "text": "کبابسرای دهقان شعبه اصلی"
+    },
+    "formattedAddress": "P874+W6X Ekbatan Town, Tehran, Tehran Province, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd003e28561b:0xda6b29cd44be92d2!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd003e28561b:0xda6b29cd44be92d2!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=15738719284374704850&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd003e28561b:0xda6b29cd44be92d2!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd003e28561b:0xda6b29cd44be92d2!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=15738719284374704850&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJG1YoPgD9jT8R0pK-RM0pa9o",
+    "liveMusic": false,
+    "location": {
+        "latitude": 35.7148782,
+        "longitude": 51.3055841
+    },
+    "name": "places/ChIJG1YoPgD9jT8R0pK-RM0pa9o",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "maryam tabatabae",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXLaQGEr7jNXV11HBDP3hi4WiBqDIDRU7EcN4xxaKCxe9_qw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109184243605663223991"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_3ZD2ew&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_3ZD2ew!2e10!4m2!3m1!1s0x3f8dfd003e28561b:0xda6b29cd44be92d2",
+            "heightPx": 4096,
+            "name": "places/ChIJG1YoPgD9jT8R0pK-RM0pa9o/photos/AZLasHoovBq2zYGtXVzcWd2gSLEc_nIHjwRBFrQiDBmhknuj4cpasIUmBwkkKdBI4loZUwogeYuC5Mzxn1QHEShVSU4O82EwQO3KzU_IY978BeAjjyjTTBNajJwEyZV6plaIHdv_uehH19e4zSh2ecVnzoop2KxjFQYLS7WHAPpbyx5jQLBAV3lAoj-__l4qw6FAcQG1cI5fT4_NSgSEp4p5puYnTzZRTrKjMd66GRi2VAZrBkCUg6wPpWHu6LW-3JS7Q6mtrJJGjPMa2pOCbnol7N8jjgN6HOW6T_qEeehPu1vsv6UeM5ai0BDje7MD2EwXafL9y-mVFmuzDb9_xfI18kETLXePJO5zok0aKCVsSIo6Yzj72840ycZ9cf2DRGmBWFuj8SunsfLTPumE3_4t2u6xQF5NXZqYhe9AMDiqJTg",
+            "widthPx": 1844
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "maryam tabatabae",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXLaQGEr7jNXV11HBDP3hi4WiBqDIDRU7EcN4xxaKCxe9_qw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109184243605663223991"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_3dD5wAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_3dD5wAE!2e10!4m2!3m1!1s0x3f8dfd003e28561b:0xda6b29cd44be92d2",
+            "heightPx": 1844,
+            "name": "places/ChIJG1YoPgD9jT8R0pK-RM0pa9o/photos/AZLasHq92nKJIU5hcJkuzO8SYiQLYN3DNezCAAVPNENSHj2_GY1C9plC1zdc0XD8ifsWMFqpsK3E0P1LetsGhXABM3XBcxK9P_RmE74_ZX-j6Mlm52PNfn8dhA5pCovzVmrF33WOfnVYPH_yAR9Hw367yR7zvITtVLB1EyGDfhieGCOyCI8liPNK0Lh8iVZUZhHxmeIU0GKuAGe4GR68TjBkX7XcrP3BIawC4Hd9dxy-3aahgEPmhcjrluXdbpM8MoZrzlcCP9b_RT2CEFRintUBz1dSMTxXwINy22J7bGoiM6Nhm4wT2mvlNst5VX5kzbgZh_4Bht1n75sT4v9DS24GWzJw4hHzK0j-cc7eL3FxUIJwLBrXzfQVxZnIuzdSDnyEJFGW8K5uay4uEnFI3J9EfEAwjt35r4OcI_t8gSmWjy7IbWyv",
+            "widthPx": 4096
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "rare unobtainable",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJEF0j2t5Xf86RgBhpUZxpRrbleCu5hNF1tkMZg1U3L-KW9zw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111646319083717045303"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICX-uviOw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICX-uviOw!2e10!4m2!3m1!1s0x3f8dfd003e28561b:0xda6b29cd44be92d2",
+            "heightPx": 1280,
+            "name": "places/ChIJG1YoPgD9jT8R0pK-RM0pa9o/photos/AZLasHriXutmoNyilRA62i1u6Y8gQZrDAg0jPletuZ6wxPRCbfq-hlZv_AQnhF0vg0QqzK8eGqaRYNhXQQ-M9U9uzALm6ic4tdN8Y1NaR_G8_jh8zADMtxU0pGzj6I-FCEZFi6-uN6GlJ_81cUVBxsN_Z3UbDA0KHcfvsUPPten6qFFKYEUPZtd-gCAlr4kUK71LFjJJySj5WR9mH0zMCEgEPJcYc_6gjxVwF-Hth542N9HI61up-liY8NZcE9LVmPtg1YPjzB5E2L7taPtKttxzio2Q8DnhN6Xc39P2poERpeDtledkyUf6nVJ2pM7Mdjs-zh6NJb8rvpdZ5RaCBr8X1xaqcRuCxmQ8wuwEVpiDIdg7pTs5WInp--7NqIhVYrEBXLTfMmw1YvDX_zoO9DlRZRacwcGMYnaTXxSQ0ghil2c",
+            "widthPx": 960
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "rare unobtainable",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJEF0j2t5Xf86RgBhpUZxpRrbleCu5hNF1tkMZg1U3L-KW9zw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111646319083717045303"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICX-uuyTg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICX-uuyTg!2e10!4m2!3m1!1s0x3f8dfd003e28561b:0xda6b29cd44be92d2",
+            "heightPx": 1280,
+            "name": "places/ChIJG1YoPgD9jT8R0pK-RM0pa9o/photos/AZLasHpkGKo9UTi1iYlhgBEWcEkKXAWV4ramjPg9ZS7lMGIs7gK4yOLmMj0YE_10_sr3QVnqaGHXVvuyyVJKW_z69P_CLcbxp2Iogi5SKn5eGNNrgk8G2Haa0AmK41xwrFln6-b-G7Xpup7JiUScfQuWnG5FHcPhCbfqkcO2sLkhRLMzVrDWRiwpcvop2Vas-7IB6fIbdPXKKghOI2eQRUMdCnx6RQA22M3y_IuZW3-c5sVkrVqjzSxcP7aamhmRQZvXQbcVHE1QbgiXEbsU0k_sbSY2SiA6xuFzfZSm-7KQOaJQMpcP2qQ9K0eMPWsE4FbaaLfFfusduXOPb2jwP1upeSSYl8r_F3FS7nY_LCCcpeUoPjhaQAqygczJ2i_PoTRL8XFK6HrSVD2foMu0vE--AmPue_5bWYiPHiZoi_nFpNf3tQ",
+            "widthPx": 960
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "maryam tabatabae",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXLaQGEr7jNXV11HBDP3hi4WiBqDIDRU7EcN4xxaKCxe9_qw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109184243605663223991"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_3bCe5AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_3bCe5AE!2e10!4m2!3m1!1s0x3f8dfd003e28561b:0xda6b29cd44be92d2",
+            "heightPx": 1844,
+            "name": "places/ChIJG1YoPgD9jT8R0pK-RM0pa9o/photos/AZLasHqPVpYYGnzVF12humKV9BUqMiJhOt-XW6LHeXXyWMjCJkDfRwzUTxgaPrcNYPZWsz4YWD51tJ5g8rxoAZ1a_Le8EkffYTItZDi_7bvpxHeBLZKfvpqw5UjKhY2inbYBBpqJCSs6bJdfXKCrgVu41T6PgecQMpc6GjlXQINSjoRaKlK4v6AdfqmvF_kx9LpnDBFDklLxt11hoQWrM6Bwniz-8xjI0v7q63nNYtXsAheb8IAK0eMzUdkSR2Ukx9tVPx6zfNJ4nPwDhDm4XLM9ThnfHwN0ilGclQLpZXTzZGFIKn8A_S19GdIMf-1Cx7ft5gxlnDStFmf7tts5fEWyMajP-7m1E21eq5rAxD6qY3kLRhu0tNxYUNU1_jvtf_X-luZls44JBOkMmlG3b7KaTC9ygpbtSDi1VmC6zGR3Og6blp6z",
+            "widthPx": 4096
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "maryam tabatabae",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXLaQGEr7jNXV11HBDP3hi4WiBqDIDRU7EcN4xxaKCxe9_qw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109184243605663223991"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_3bDegAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_3bDegAE!2e10!4m2!3m1!1s0x3f8dfd003e28561b:0xda6b29cd44be92d2",
+            "heightPx": 1844,
+            "name": "places/ChIJG1YoPgD9jT8R0pK-RM0pa9o/photos/AZLasHrPg-3098SFgZHBglqgM28arlEyUF6vDsDck3TLgfo5Oi1ju_ZCy9oaOp1GbTtsNRqRCmMEi1b-rzAaBoaYC-gl7mjJACFBqhtpHE3X0J_ZYCLZmqamL0vxnGTIY7X_bsC_W5dn_nVaJktSes8XJP6Nq14LmsaBF-YdRhBywWz_ipUnCqPafse7rH-iQBOP4ZuYtH1RGx2V-2OfkGRpJWsselcXlIUgSD1Hyyr_YAtn73AkPi3ONog0GNuPrlCOKO6mQb5nhWz5co191XKVwrKG3ZcURaOdZ3nfHkp-BZkOmgInRf-E3aUiGinZj1HJ_w4XBL2pZSSta5VOnuF-UjFukngNwUSFsyG_5YLbLQOX6JSusR4eGVOSmhXdHwDOX-rzkIyPsO-QXiKacRCrMoWPXTPa4-3ghIxOpHEQGkHmRv4",
+            "widthPx": 4096
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "maryam tabatabae",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXLaQGEr7jNXV11HBDP3hi4WiBqDIDRU7EcN4xxaKCxe9_qw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109184243605663223991"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_3aCwOA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_3aCwOA!2e10!4m2!3m1!1s0x3f8dfd003e28561b:0xda6b29cd44be92d2",
+            "heightPx": 4096,
+            "name": "places/ChIJG1YoPgD9jT8R0pK-RM0pa9o/photos/AZLasHrKyVypl-KkuhVMo63yz8R63VW-4SyAw-a-WiQJxd8vmh3QowIAr-AGtF0kUi1OpasOFpWyg4CeOqyl_38NQdKDpJ3RaXtDCKUU3c1AlskUHKIW5ekI5OXh03_wHpmtNqttWq2wnBuDz4vozBd1BYOTM9F503vjlzR1FsZIkNFv0Upz5VQjmHGOrgUGPjdipWlNR5PwaLWILRF7JAx7ftupdtaFz4B6KEF21CudJPrXfGCUxZf1gG_pBM-4aN8wllsMUgGNnJAYj9ss0aRr3XOtPQwB8ym88XrUzo5DivBRfif5RVUCaFINk4Kbq1LQaCq_9ZKAY_qdyhs5LS9ZNpAnFmLRr4STczYFK_3ckNCLR3SB4v8iFgOOiURnyQ0zNvQuxSTJ3k3c3Qk8WaSM6TXAXjTIGg6A0UKPb7G9P91XVA",
+            "widthPx": 1844
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "P874+W6X"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "Ekbatan Town"
+    },
+    "primaryType": "asian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Asian Restaurant"
+    },
+    "shortFormattedAddress": "P874+W6X Ekbatan Town, Tehran",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.716269330291496,
+            "longitude": 51.30693178029149
+        },
+        "low": {
+            "latitude": 35.7135713697085,
+            "longitude": 51.3042338197085
+        }
+    },
+    "timestamp": 1765104805
+}

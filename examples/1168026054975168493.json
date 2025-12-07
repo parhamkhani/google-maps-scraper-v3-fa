@@ -1,0 +1,252 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "fa",
+            "longText": "روبروی بانک ملی"
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "ابتدای",
+            "shortText": "ابتدای",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "fa",
+            "longText": "12 متري",
+            "shortText": "12 متري",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "fa",
+            "longText": "زیباشهر",
+            "shortText": "زیباشهر",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shahrak-e-Sadra"
+                },
+                "name": "places/ChIJNdB-hGf7jT8Rjjaaitotz3Y",
+                "placeId": "ChIJNdB-hGf7jT8Rjjaaitotz3Y"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 22"
+                },
+                "name": "places/ChIJad-enSXljT8RkdEMb4fmE3o",
+                "placeId": "ChIJad-enSXljT8RkdEMb4fmE3o"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "اداره برق منطقه آزادی (منطقه ۲۲)"
+                },
+                "name": "places/ChIJOa1dJqj8jT8R0eK3GnSv1XI",
+                "placeId": "ChIJOa1dJqj8jT8R0eK3GnSv1XI",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 62.483772,
+                "travelDistanceMeters": 31.076824,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr. Mostofi 24-hour Pharmacy"
+                },
+                "name": "places/ChIJ4droB6j8jT8RD0SgPtbDG-Y",
+                "placeId": "ChIJ4droB6j8jT8RD0SgPtbDG-Y",
+                "straightLineDistanceMeters": 127.10001,
+                "travelDistanceMeters": 147.93678,
+                "types": [
+                    "establishment",
+                    "health",
+                    "pharmacy",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Almahdi Mosque"
+                },
+                "name": "places/ChIJ4acV3Kn8jT8RfgFLAgcU6U8",
+                "placeId": "ChIJ4acV3Kn8jT8RfgFLAgcU6U8",
+                "straightLineDistanceMeters": 253.49228,
+                "travelDistanceMeters": 407.32776,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "دبستان دخترانه سما 1"
+                },
+                "name": "places/ChIJm-DQfh37jT8RV5GXKJ9UQiw",
+                "placeId": "ChIJm-DQfh37jT8RV5GXKJ9UQiw",
+                "straightLineDistanceMeters": 134.17474,
+                "travelDistanceMeters": 182.53143,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "primary_school",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Baztabelm educational institution"
+                },
+                "name": "places/ChIJkX-qnP37jT8R-MNohMMKGMw",
+                "placeId": "ChIJkX-qnP37jT8R-MNohMMKGMw",
+                "straightLineDistanceMeters": 97.85924,
+                "travelDistanceMeters": 118.53932,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+        "languageCode": "fa",
+        "text": "لول کباب عیونی ( حیدری)"
+    },
+    "formattedAddress": "Tehran Province, زیباشهر، روبروی بانک ملی، 12 متري، پلاک ابتدای, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f919300777b3885:0x1035a9822f321fed!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f919300777b3885:0x1035a9822f321fed!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1168026054975168493&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f919300777b3885:0x1035a9822f321fed!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f919300777b3885:0x1035a9822f321fed!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1168026054975168493&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJhTh7dwCTkT8R7R8yL4KpNRA",
+    "internationalPhoneNumber": "+98 21 3611 1165",
+    "location": {
+        "latitude": 35.7450551,
+        "longitude": 51.263592300000006
+    },
+    "name": "places/ChIJhTh7dwCTkT8R7R8yL4KpNRA",
+    "nationalPhoneNumber": "021 3611 1165",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "plusCode": {
+        "compoundCode": "P7W7+2C Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP7W7+2C"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "روبروی بانک ملی",
+            "12 متري، پلاک ابتدای"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "زیباشهر",
+        "regionCode": "IR"
+    },
+    "primaryType": "asian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Asian Restaurant"
+    },
+    "rating": 5,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Vahid Heydari",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCVNC0ZsmGds3Lvgo3KhiotaJ_DhgYiclOIX-fwHoBgGLe3MT0=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/106233304766665893630/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQdnUzU0l3EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQdnUzU0l3EAE!2m1!1s0x3f919300777b3885:0x1035a9822f321fed",
+            "name": "places/ChIJhTh7dwCTkT8R7R8yL4KpNRA/reviews/ChZDSUhNMG9nS0VJQ0FnSURQdnUzU0l3EAE",
+            "publishTime": "2024-12-02T18:43:53.607688Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago"
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "زیباشهر، روبروی بانک ملی، 12 متري، پلاک ابتدای",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7464041802915,
+            "longitude": 51.2649992302915
+        },
+        "low": {
+            "latitude": 35.7437062197085,
+            "longitude": 51.26230126970851
+        }
+    },
+    "timestamp": 1765104853
+}

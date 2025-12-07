@@ -1,0 +1,226 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P8F4+Q6P",
+            "shortText": "P8F4+Q6P",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "South Parvaneh Street",
+            "shortText": "S Parvaneh St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parvaz Town"
+                },
+                "name": "places/ChIJpzIbIK39jT8RbaSDa0D_Ra0",
+                "placeId": "ChIJpzIbIK39jT8RbaSDa0D_Ra0"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parvaneh Sangak Bakery"
+                },
+                "name": "places/ChIJSZKVHwj9jT8Rtf_3bp3-eds",
+                "placeId": "ChIJSZKVHwj9jT8Rtf_3bp3-eds",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 217.89178,
+                "travelDistanceMeters": 237.4285,
+                "types": [
+                    "bakery",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Alpha Electric"
+                },
+                "name": "places/ChIJBbHdS639jT8RSGWZ6C-BFwg",
+                "placeId": "ChIJBbHdS639jT8RSGWZ6C-BFwg",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 100.14403,
+                "travelDistanceMeters": 98.922745,
+                "types": [
+                    "electronics_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "نانوایی لواش"
+                },
+                "name": "places/ChIJK0imyIr9jT8RSqWBUT2jjnE",
+                "placeId": "ChIJK0imyIr9jT8RSqWBUT2jjnE",
+                "straightLineDistanceMeters": 340.8143,
+                "travelDistanceMeters": 435.39252,
+                "types": [
+                    "bakery",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Kosar primary schools for girls"
+                },
+                "name": "places/ChIJbyB5W639jT8RWryOS5v7vYw",
+                "placeId": "ChIJbyB5W639jT8RWryOS5v7vYw",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 133.56656,
+                "travelDistanceMeters": 192.11516,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "primary_school",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "سوپرگوشت یگانه"
+                },
+                "name": "places/ChIJxTsqLmz9jT8RSS3VQ4ODCng",
+                "placeId": "ChIJxTsqLmz9jT8RSS3VQ4ODCng",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 58.993763,
+                "travelDistanceMeters": 56.438305,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+        "languageCode": "fa",
+        "text": "ساندویچی بچه تهران"
+    },
+    "formattedAddress": "Tehran Province, Tehran, S Parvaneh St, P8F4+Q6P, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd007cd97547:0x3dc329055db6ee4d!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd007cd97547:0x3dc329055db6ee4d!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=4450445959796026957&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd007cd97547:0x3dc329055db6ee4d!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd007cd97547:0x3dc329055db6ee4d!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=4450445959796026957&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJR3XZfAD9jT8RTe62XQUpwz0",
+    "location": {
+        "latitude": 35.7244256,
+        "longitude": 51.3055696
+    },
+    "name": "places/ChIJR3XZfAD9jT8RTe62XQUpwz0",
+    "postalAddress": {
+        "addressLines": [
+            "S Parvaneh St",
+            "P8F4+Q6P"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "sandwich_shop",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Sandwich Shop"
+    },
+    "shortFormattedAddress": "Tehran, S Parvaneh St, P8F4+Q6P",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "sandwich_shop",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.72577528029151,
+            "longitude": 51.30691338029149
+        },
+        "low": {
+            "latitude": 35.72307731970851,
+            "longitude": 51.30421541970849
+        }
+    },
+    "timestamp": 1765104805
+}

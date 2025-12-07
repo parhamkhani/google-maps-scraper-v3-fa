@@ -1,0 +1,678 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "Tehran, خیابان آیت الله کاشانی ابتدای"
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "پلاک 3/3",
+            "shortText": "پلاک 3/3",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Mehran Street",
+            "shortText": "Mehran St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Mehran"
+                },
+                "name": "places/ChIJ-6R9JKT9jT8R2cfeUcr3-OM",
+                "placeId": "ChIJ-6R9JKT9jT8R2cfeUcr3-OM"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE",
+                "placeId": "ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Mehran Station"
+                },
+                "name": "places/ChIJA47VtL39jT8R_BhTfaGF6rc",
+                "placeId": "ChIJA47VtL39jT8R_BhTfaGF6rc",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 49.493797,
+                "travelDistanceMeters": 81.064156,
+                "types": [
+                    "bus_station",
+                    "establishment",
+                    "point_of_interest",
+                    "transit_station"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Doctor Ramin Talebian"
+                },
+                "name": "places/ChIJXbCCjrz9jT8RqNXHxrDkUOE",
+                "placeId": "ChIJXbCCjrz9jT8RqNXHxrDkUOE",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 35.80927,
+                "travelDistanceMeters": 14.179058,
+                "types": [
+                    "doctor",
+                    "establishment",
+                    "health",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr. Khorsand 24-hour Pharmacy"
+                },
+                "name": "places/ChIJ5-Q5W7z9jT8R_UnEJiyLdxY",
+                "placeId": "ChIJ5-Q5W7z9jT8R_UnEJiyLdxY",
+                "straightLineDistanceMeters": 118.305984,
+                "travelDistanceMeters": 331.8184,
+                "types": [
+                    "establishment",
+                    "health",
+                    "pharmacy",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Tejarat Bank"
+                },
+                "name": "places/ChIJp9z_Xbz9jT8RWKOGpjop1C0",
+                "placeId": "ChIJp9z_Xbz9jT8RWKOGpjop1C0",
+                "straightLineDistanceMeters": 95.72266,
+                "travelDistanceMeters": 388.1109,
+                "types": [
+                    "atm",
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sina Bank"
+                },
+                "name": "places/ChIJi3TAUbz9jT8R3I1fqDDGro0",
+                "placeId": "ChIJi3TAUbz9jT8R3I1fqDDGro0",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 97.25655,
+                "travelDistanceMeters": 145.69469,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T18:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 8,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 8:00 AM – 10:00 PM",
+            "Tuesday: 8:00 AM – 10:00 PM",
+            "Wednesday: 8:00 AM – 10:00 PM",
+            "Thursday: 8:00 AM – 10:00 PM",
+            "Friday: 8:00 AM – 10:00 PM",
+            "Saturday: 8:00 AM – 10:00 PM",
+            "Sunday: 8:00 AM – 10:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "chiko"
+    },
+    "formattedAddress": "Tehran, Tehran, خیابان آیت الله کاشانی ابتدای, Mehran St, No. پلاک 3/3, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1904952723427983855&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1904952723427983855&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ6bpjVXD9jT8R74HWuWjAbxo",
+    "internationalPhoneNumber": "+98 21 4611 0412",
+    "location": {
+        "latitude": 35.7272921,
+        "longitude": 51.3220879
+    },
+    "name": "places/ChIJ6bpjVXD9jT8R74HWuWjAbxo",
+    "nationalPhoneNumber": "021 4611 0412",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hossein Asadi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx2_pNeOvIN1dJbdic8pxTAtr1IdHXVgKV0JVZ-x3v4YxV964=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103467141620603186692"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCyhE7BheNBC0DFUIJyvD4v&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCyhE7BheNBC0DFUIJyvD4v!2e10!4m2!3m1!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef",
+            "heightPx": 3024,
+            "name": "places/ChIJ6bpjVXD9jT8R74HWuWjAbxo/photos/AZLasHqwDhVUvkjpbJG3G1ti0NJjWmcmGvF71oBhJ4a3jpDfFC5dpjrOQojb54LlDchZi1sfAkjmJGKYO-Mldj7_ftnPrBp1b9YZYGj7qE1k_oMFvwUly6RSdaZi5l4FRaK_4v4-TaWlFRE4Gno_hXvVrWaT109SRjqzswPQbBUUb2XxoI936sMBMl8CYGCOZRrZCVJVMrwebnLGLzMGzqmp4LcvkNo6VQnQTJNo8IfYLI7pYSCsct2wnmJILQTmpDEv9Z1afmERq7_zHxmgWFjUqwuApeExskUn4LUbL8EYHtZAxpZOJ8A9VD6s8nLh8azkD7ma3bcX9LGo5RpQl02fP36Ecj9gV5ve-tAkNtbRPen4iuammHDnV2sV7OKs2irLm-1VCRzckkRtxSMyb2NTucZe9zJR-OaY8AgsuOnlYArTZY_jyNh-wCINfN1vX5Bv",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hossein Asadi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx2_pNeOvIN1dJbdic8pxTAtr1IdHXVgKV0JVZ-x3v4YxV964=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103467141620603186692"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCLmPCtoe1WF_PZFni2L2oY&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCLmPCtoe1WF_PZFni2L2oY!2e10!4m2!3m1!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef",
+            "heightPx": 4032,
+            "name": "places/ChIJ6bpjVXD9jT8R74HWuWjAbxo/photos/AZLasHqTjX57vLaTNKYXGE0VBO1i_5srQ1aSzuMvJ8pzcgnqkMuZ92OdT6oQBBJo_p7Lw-HuZDE9W6l4f-1d-h7z_vwe5t8_cA95i3tLaeBtNrM1TKxlJjwjWyO-RLrCz0PDWqNLPAnqKtQoWkBi4-ToLhCLTScnkmXlG9YwWqjqEJnHYG9M4lUUw4x3uDtlfZEP9OeqOHd_6roQyXrof3QFZzhqnO23gtOtR5ZEFYFUDuX4kVZsRvmJ0JzpkYlhlojo7qn2xM4gMUN6SJNu2gcBVK_pxB0iK1u0lDB05zEi3Q5h1PG4s2EtRSh1wfPdXEs3_32AG0T_vCygcDfH5uNLoa7Q_bKklBbOabwqddcHnZthkiaipTIXxXwzl37HYGNFIvhHhKeYcM193OUggDgGZ_YpE6bO3VW8JZIMzAeKlx6IaZumcgkROAGHBTBCyA",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hossein Asadi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx2_pNeOvIN1dJbdic8pxTAtr1IdHXVgKV0JVZ-x3v4YxV964=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103467141620603186692"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBpMfM2384MaSQnnrsBMbmM&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBpMfM2384MaSQnnrsBMbmM!2e10!4m2!3m1!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef",
+            "heightPx": 4032,
+            "name": "places/ChIJ6bpjVXD9jT8R74HWuWjAbxo/photos/AZLasHpRFQBqP8MAqiQRGp9s6qLgtLJ_cJlPd2i_XdDxpcXprxpOpVVR-YeEvj4J3lWrE6a8DGl2nMVfLW7RME7L9HvWoSNb0LQnWkQX0LUoT0vbzS0w4t5y6GaW7AU5xDfuVc1Pp0uiliQj9FesyCCNvblrmorObVU1548kHCAjxTu87pi-RaCloMKTh9dwmPsKmSfPP2ymwtY0rvpIHJ_NogjMBToXrp2uS4waJ_7stqTgdHn98IBDKvnL1y6gC3ziLS_w93nx98zSVBUdAsRq6pq9CUH6HZRf8vv05qx0PIEIWmtm_XOilh-cP4NDTxArjzw5uy2fDRQ1IuU44bJ2HdcdnEYhnWDNjvs4yqh-479UjPVHrL30dOQo7IV7sU-HDGAOyLCQb-6_RNeXi87tTz4e491NDRe-JJvGjsKlCPTMg8hEHr15FPzqhK9LeYIW",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hossein Asadi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx2_pNeOvIN1dJbdic8pxTAtr1IdHXVgKV0JVZ-x3v4YxV964=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103467141620603186692"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCeQ4Un4DmLj_4npDZ-8vjv&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCeQ4Un4DmLj_4npDZ-8vjv!2e10!4m2!3m1!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef",
+            "heightPx": 4032,
+            "name": "places/ChIJ6bpjVXD9jT8R74HWuWjAbxo/photos/AZLasHqidnGIvhjJsFnGanW_r-lWubMaR0OfBFP8my2zYGH2Bwno5irNXln_bYVjznSXEKX_brBNk-6diadOcWbp1w3-1XFBCDZLJCYzQaYCr0nuEiLLNjE1UVAn7GFJPIyN1ODJxWEeiu2C_00T8eIpKtgrGXChXx2pNcFR5TlQCYdn949icRwSBrHryLWatIhUjNIEPLt_jpp1q_iiq0l3dcvjIpvQeKVceWe34JihFViPYbloy9q3ytWX8a-a4fCo02SK9TCoeUTStzlv4jkxMuy1rB4He-u3Qi0npsPnvzFlJpNw_GXYuoE4Qa5rqsW9fknD64-ecFjAZbtrmc8WLmUDOdfQ3eEtUT256sVlVsDBa10ZqOSFdPVqxvAOCGx2hrkKQFFneDVgj9sBFMGcnQSitLimLTxiGL3GuaWOqoNbhKsdsWYeboCpfwwK4TBu",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hossein Asadi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx2_pNeOvIN1dJbdic8pxTAtr1IdHXVgKV0JVZ-x3v4YxV964=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103467141620603186692"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAujevgBZYMDaX9RjrYFogA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAujevgBZYMDaX9RjrYFogA!2e10!4m2!3m1!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef",
+            "heightPx": 3024,
+            "name": "places/ChIJ6bpjVXD9jT8R74HWuWjAbxo/photos/AZLasHp3JMfxOwsV7sMG-qM5_zvWy8AifsHLZHRJRKJAUm1dAsuWeBz-pgfu1TFRI8B_uXjxSZRHBpOKLLnpWAGzozmB4_WdaY7Hbixzo-gennZAMr6Dxpi5S3NjpdaJHAsRrHhWAP6tHw0fiUHkBgxFZdySJ8mMCrow6VPnocLIa9cvqym6z6X_1H1CCBoxJGJrPeaqas_ZGozRNMSR9YI8ZIDWaREyjC5El7Vu3dU39OYcbx7lio_nT4kBTm-zhcIQ16_kX768AIct4cuTBc3gwxq2LjmbvWksitmWhH2tcUComZoRYyBjksGyqGPUFEllQF8OE9dFZwDm22hCiZFr-Andy2Xk3nFeqowmgFV5hnPIrqyUmVqBc9RmKsjKKrlUqJZvIGNlIJH6f_2VynARjzs-iE1gtSREnjxGe2OVopwuIyfKtGGiZM7DIMOSZSbl",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "farzaneh hosseini",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBamveBK8iqlcBxe9anFA6r8nDPwa-7pazAEZfIIzOdGQ0hg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/118444108649648140877"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrm5ysCQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrm5ysCQ!2e10!4m2!3m1!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef",
+            "heightPx": 1920,
+            "name": "places/ChIJ6bpjVXD9jT8R74HWuWjAbxo/photos/AZLasHoCQ9hhNe0fCiLfkH2qSXwtYAGYVGSPKs4lSamZnclkIcUGE77WThVu053F6y6BZjgADFhuCkcGYFxk89wyfC4fkeTbvmeCX5f7zZwJPKzfbZHaAmBKwao16H_H6uBTxYQZv2GEbSq06y5rb9d4PY4569OtU4y6JPF8xmwFfSRSeyaPVeC8AjPxsGPdS2pjrc_lOy9FgKfymxyq9WXrrHgkf21wwEit2AHxM9fpNhMP6gIv4yrP8_oOxb_mgkTBG5V2-YnV-ASCbuOAmDwvSDltE29J3LhnL97rAbKjte0l8EL6rRxxZZ7YfNovVwFwzL1HahVVb0f3eYf2JAY_9XgRooHG-VyJFczkqmvTkRqpaC1B0x8JpercsvjDWuUQFzIwukXHdsuFA7tL7t29vnvHpBApIq97YZ7rRP8nQvp5Aw",
+            "widthPx": 1080
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "P8GC+WR Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP8GC+WR"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Tehran, خیابان آیت الله کاشانی ابتدای",
+            "Mehran St, No. پلاک 3/3"
+        ],
+        "languageCode": "en-US",
+        "regionCode": "IR"
+    },
+    "primaryType": "fast_food_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Fast Food Restaurant"
+    },
+    "rating": 4.8,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T18:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 8,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 8:00 AM – 10:00 PM",
+            "Tuesday: 8:00 AM – 10:00 PM",
+            "Wednesday: 8:00 AM – 10:00 PM",
+            "Thursday: 8:00 AM – 10:00 PM",
+            "Friday: 8:00 AM – 10:00 PM",
+            "Saturday: 8:00 AM – 10:00 PM",
+            "Sunday: 8:00 AM – 10:00 PM"
+        ]
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "mehdi ebrahimi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCVeCI6rQc10Da1Xi9ryTRJuNZ1wOwozNjMeAeUpHREnWZacmm=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/101097915261299073706/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwdWN5UEtBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwdWN5UEtBEAE!2m1!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef",
+            "name": "places/ChIJ6bpjVXD9jT8R74HWuWjAbxo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwdWN5UEtBEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "کیفیت غذا مطلوب"
+            },
+            "publishTime": "2023-08-06T18:58:25.764120Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Good food quality"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "maziyar safavi",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQOjBZcc2fZRcbcz8b2bRnDFX4CbVKlgBsZxdqBKRIZ_0wXQ=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/101309933392591184403/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ObFRUbG5PVVZMV1ZrMU5pMUVSRVJYUmxKbmMwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ObFRUbG5PVVZMV1ZrMU5pMUVSRVJYUmxKbmMwRRAB!2m1!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef",
+            "name": "places/ChIJ6bpjVXD9jT8R74HWuWjAbxo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ObFRUbG5PVVZMV1ZrMU5pMUVSRVJYUmxKbmMwRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "خوبه"
+            },
+            "publishTime": "2025-11-20T08:25:41.169861152Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Okay."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "arian Kazemzadeh",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVe4yf8fLnhDC1t-lzYsa4j8gC6EHzs08B0R7LigCUOAXcGliryJg=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/105737848151330513365/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURKbHFucnR3RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURKbHFucnR3RRAB!2m1!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef",
+            "name": "places/ChIJ6bpjVXD9jT8R74HWuWjAbxo/reviews/ChdDSUhNMG9nS0VJQ0FnSURKbHFucnR3RRAB",
+            "publishTime": "2023-07-16T11:41:21.944565Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago"
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Shayan Ansarian",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6rqlhsPEK8pSvv5C2gvNIOJIB17R5ocEJYfDAatVA9HV81kE=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/105195479468061384183/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwclZsVnlNV3h4TVY4M1NrbHdSbk51WlVsSFJtYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwclZsVnlNV3h4TVY4M1NrbHdSbk51WlVsSFJtYxAB!2m1!1s0x3f8dfd705563bae9:0x1a6fc068b9d681ef",
+            "name": "places/ChIJ6bpjVXD9jT8R74HWuWjAbxo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwclZsVnlNV3h4TVY4M1NrbHdSbk51WlVsSFJtYxAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "خوب بود کیفیت غذاش ولی خب حیف دیگه از اینجا رفته."
+            },
+            "publishTime": "2025-12-07T07:22:20.509946801Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "in the last week",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The quality of the food was good, but it's a shame it's gone from here."
+            }
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, خیابان آیت الله کاشانی ابتدای, Mehran St, No. پلاک 3/3",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 4,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7286573302915,
+            "longitude": 51.3233957802915
+        },
+        "low": {
+            "latitude": 35.725959369708505,
+            "longitude": 51.3206978197085
+        }
+    },
+    "websiteUri": "http://chiko-fried.ir/",
+    "timestamp": 1765104817
+}

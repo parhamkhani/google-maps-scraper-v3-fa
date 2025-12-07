@@ -1,0 +1,292 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P8F4+R7R",
+            "shortText": "P8F4+R7R",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "District 5",
+            "shortText": "District 5",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parvaz Town"
+                },
+                "name": "places/ChIJpzIbIK39jT8RbaSDa0D_Ra0",
+                "placeId": "ChIJpzIbIK39jT8RbaSDa0D_Ra0"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parvaneh Sangak Bakery"
+                },
+                "name": "places/ChIJSZKVHwj9jT8Rtf_3bp3-eds",
+                "placeId": "ChIJSZKVHwj9jT8Rtf_3bp3-eds",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 239.7858,
+                "travelDistanceMeters": 259.34174,
+                "types": [
+                    "bakery",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Melli Bank"
+                },
+                "name": "places/ChIJJRgcvlT8jT8Rnd1LCoIFRdQ",
+                "placeId": "ChIJJRgcvlT8jT8Rnd1LCoIFRdQ",
+                "straightLineDistanceMeters": 383.34625,
+                "travelDistanceMeters": 499.9522,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parsian Bank"
+                },
+                "name": "places/ChIJEQE5k1T8jT8ROSoxeTbzqMY",
+                "placeId": "ChIJEQE5k1T8jT8ROSoxeTbzqMY",
+                "straightLineDistanceMeters": 405.95386,
+                "travelDistanceMeters": 496.65466,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "نانوایی لواش"
+                },
+                "name": "places/ChIJK0imyIr9jT8RSqWBUT2jjnE",
+                "placeId": "ChIJK0imyIr9jT8RSqWBUT2jjnE",
+                "straightLineDistanceMeters": 362.1297,
+                "travelDistanceMeters": 457.3058,
+                "types": [
+                    "bakery",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parvane Hypermarket"
+                },
+                "name": "places/ChIJ7TSA2qz9jT8RvnCpKBBxFkQ",
+                "placeId": "ChIJ7TSA2qz9jT8RvnCpKBBxFkQ",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 109.38114,
+                "travelDistanceMeters": 107.97649,
+                "types": [
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+        "languageCode": "en",
+        "text": "مطبخ زند"
+    },
+    "formattedAddress": "P8F4+R7R District 5, Tehran, Tehran Province, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd007a5a110b:0xcdde863c0741b44a!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd007a5a110b:0xcdde863c0741b44a!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=14834441814982898762&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd007a5a110b:0xcdde863c0741b44a!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd007a5a110b:0xcdde863c0741b44a!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=14834441814982898762&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJCxFaegD9jT8RSrRBBzyG3s0",
+    "location": {
+        "latitude": 35.724615299999996,
+        "longitude": 51.3056461
+    },
+    "name": "places/ChIJCxFaegD9jT8RSrRBBzyG3s0",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Pouria",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQbYr6Z2SXprd7JrmA5Vf672mUmpZ4iezNxZi-Y6bfcBecRIYM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117507195230019959546"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC34uzXqQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC34uzXqQE!2e10!4m2!3m1!1s0x3f8dfd007a5a110b:0xcdde863c0741b44a",
+            "heightPx": 4640,
+            "name": "places/ChIJCxFaegD9jT8RSrRBBzyG3s0/photos/AZLasHopsseqxWDBUBJsi89DEccBYXvQZTWIyweSz6fUQOHQr526HKij7g4hHUhlihfRcVeQlvn_F1BftLzjmFrdpOP5J3PwSZi-0T8cfFlyhNlh_YViT9dL4V16lIWKfCI3bA2K5RglALbcprMMovFUJA2w7yhJzxak-EsqWgHJd_VPZPlVeqcUO0RHIlOVotY3Y1axyWVv2H9obvIwjxskY3I_CzhbvYwOgPuI2atu0aX-hpfoPb7_nei_052uJjvzvJCfAZDkIVNtMrCZMasNS-hDGPIOKXt_otqbEMiYWuGlmIKHv0cJXIIu-dAeUpQOMgM41kEIS_idUdmo2-5WCEvToBrd_f2DiJyndkqM9q40D3P8FqGTNtaktxoFS35Ya2GgYeO-92w_srER8NOpu7yB2eZcqTcCZx7r-Q27OfAdMWMQ",
+            "widthPx": 2088
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "P8F4+R7R"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "District 5"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 5,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Ali Mirzaei",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPSwNlMC4qKfGfudW_L4RjHK9gUwpeTzlR1XL6J0mG-2RlSdU=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/105963858040796733614/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WRkxYTlFURTl3VUZBelQyaEtWVnAxUWtwRWJGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WRkxYTlFURTl3VUZBelQyaEtWVnAxUWtwRWJGRRAB!2m1!1s0x3f8dfd007a5a110b:0xcdde863c0741b44a",
+            "name": "places/ChIJCxFaegD9jT8RSrRBBzyG3s0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WRkxYTlFURTl3VUZBelQyaEtWVnAxUWtwRWJGRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "کیفیت حرف نداره ، خداییش خوشمزه ترین زرشک پلوی عمرم رو‌خوردم"
+            },
+            "publishTime": "2025-08-18T13:50:39.262947310Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Quality is second to none, oh my god, I ate the most delicious barberry pilaf of my life."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "زهرا زندیه",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUnW3CEcIgGd55PIWPs1qXm6HLPFVjhD9jd8fmHnMDB8lisA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/114841808887174812011/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzNExuLUxnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzNExuLUxnEAE!2m1!1s0x3f8dfd007a5a110b:0xcdde863c0741b44a",
+            "name": "places/ChIJCxFaegD9jT8RSrRBBzyG3s0/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzNExuLUxnEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "طعم خوشمزه  غذا در این رستوران آدمو یاد دستپخت مامان بزرگا میندازه چون سرآشپزش یک خانم باتجربه است نظافت عالی و برخورد بسیار خوب پرسنل و کیفیت غذاها باعث شد نظر م جلب بشه و مشتری دائمشون بشم😊"
+            },
+            "publishTime": "2024-11-01T21:45:41.875746Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The delicious taste of the food in this restaurant reminds me of my grandmother's cooking because the chef is an experienced woman. The excellent cleanliness, the very kind attitude of the staff, and the quality of the food made me pay attention and become their regular customer."
+            }
+        }
+    ],
+    "shortFormattedAddress": "P8F4+R7R District 5, Tehran",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.725969580291505,
+            "longitude": 51.3069541802915
+        },
+        "low": {
+            "latitude": 35.723271619708505,
+            "longitude": 51.3042562197085
+        }
+    },
+    "timestamp": 1765104805
+}

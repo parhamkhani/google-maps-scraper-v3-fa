@@ -1,0 +1,326 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "ستاری بلوار فردوس شرق بعد از"
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "پلاک ۴۰۲",
+            "shortText": "پلاک ۴۰۲",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "South Ebrahimi Street",
+            "shortText": "S Ebrahimi St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdoos Park"
+                },
+                "name": "places/ChIJE936tK39jT8RozCZvHanshE",
+                "placeId": "ChIJE936tK39jT8RozCZvHanshE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE",
+                "placeId": "ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Saman Bank"
+                },
+                "name": "places/ChIJxdah5K39jT8RC9ljCRk4RwY",
+                "placeId": "ChIJxdah5K39jT8RC9ljCRk4RwY",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 56.264614,
+                "travelDistanceMeters": 67.65543,
+                "types": [
+                    "atm",
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Mellat Bank"
+                },
+                "name": "places/ChIJ5VHgAK79jT8RDB21ocnV5Tw",
+                "placeId": "ChIJ5VHgAK79jT8RDB21ocnV5Tw",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 105.21588,
+                "travelDistanceMeters": 116.22473,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Police + 10"
+                },
+                "name": "places/ChIJHcm6_a39jT8R_z5RNhugsqc",
+                "placeId": "ChIJHcm6_a39jT8R_z5RNhugsqc",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 66.687454,
+                "travelDistanceMeters": 77.2872,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bank Sepah"
+                },
+                "name": "places/ChIJvzlcyLH9jT8RwvRCR-vNSEg",
+                "placeId": "ChIJvzlcyLH9jT8RwvRCR-vNSEg",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 226.55998,
+                "travelDistanceMeters": 236.44449,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Maskan Bank"
+                },
+                "name": "places/ChIJKX8vAq79jT8RoSXcU5GcLCk",
+                "placeId": "ChIJKX8vAq79jT8RoSXcU5GcLCk",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 122.60402,
+                "travelDistanceMeters": 130.60562,
+                "types": [
+                    "atm",
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Bosco cafe & restaurant"
+    },
+    "formattedAddress": "Tehran, ستاری بلوار فردوس شرق بعد از, S Ebrahimi St, No. پلاک ۴۰۲, Iran",
+    "goodForGroups": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd001725cee1:0xa38d09635052ec29!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd001725cee1:0xa38d09635052ec29!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=11785086122052480041&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd001725cee1:0xa38d09635052ec29!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd001725cee1:0xa38d09635052ec29!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=11785086122052480041&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ4c4lFwD9jT8RKexSUGMJjaM",
+    "internationalPhoneNumber": "+98 930 111 2718",
+    "location": {
+        "latitude": 35.7250015,
+        "longitude": 51.3094354
+    },
+    "name": "places/ChIJ4c4lFwD9jT8RKexSUGMJjaM",
+    "nationalPhoneNumber": "0930 111 2718",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Navid niakan",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtwYSlDDhMo3XZhohlWZs6raRw8-V0sksfPp0Pl1vS5Cny8A=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116695037799534148743"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_7cbePg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_7cbePg!2e10!4m2!3m1!1s0x3f8dfd001725cee1:0xa38d09635052ec29",
+            "heightPx": 2592,
+            "name": "places/ChIJ4c4lFwD9jT8RKexSUGMJjaM/photos/AZLasHpnGc6HAsvDRxMqIVY6ocac0cGjr39dys1KszECgUTb5BGy8ch_kGXcATn_IEbuQlJX3geHS-qREO5b25Si_YIKiR5-k78NAcVY3ndjGPa9jgBNXpDCL-C7RQuipn40ikJpePsMZnfyO4QHMzypG4uOOxZ3tqaket88QHNaVLWGr-54KwttVxKqawhHoRglx2qsePMtq1d1iEAUui4qzK3pgKoFsnHLdILtR4CgI87sZIAPwMJ-S9cNoUFy7qpZXVYuGI7bhTvTnGI6d6UzmHB5AWMwHjkFhZ7w3EImI2CtMI3IBIh6SnErUs_iTkBhbJhoAftf-Hm5WQo8uvO2MFSCBXUfir5KjHhjpjeQjzyR1Wh60i9kZdYfBLdl7GEnlvXubWIVHniCC6DTrASTE8R3DVtzPWgZBVILbkNUOwSX1Q",
+            "widthPx": 4608
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mora Neda",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLu17LElHE7rmytMmyWSvfbzjYgi3J5KKGf7y1CmuZdtw7JsYc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100834366327271360581"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCa8sGQ9qoqs4xHsMzRxQQw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCa8sGQ9qoqs4xHsMzRxQQw!2e10!4m2!3m1!1s0x3f8dfd001725cee1:0xa38d09635052ec29",
+            "heightPx": 4032,
+            "name": "places/ChIJ4c4lFwD9jT8RKexSUGMJjaM/photos/AZLasHreXg1kHq5bUcwloUV2_v_GpItJl-LvIGje7L7JjvbAn2w_pBCT66TNU9O-sIycLa8u4Ztvyp7xi9N57u1igpYhvlY-veDEkUo13YpRiQYOXFs1kmH6leez0RgplRVPuJQm3KHt9YjthE1HuwRN6ekjBtu78saG7CmIl0o6u5yZRLqj0ET-OQ9pI_75dURCKUdUKal--lelPJ3ZGtbz0IgH1rKA0BsU3gRvBsu_Zbe-1AKm78Y_ZnYsI5SuibCvza7TeauE7rhaYMlq0ZO-DX9qSjTCrR27BwYjwkACTm_iqzM-ReB3Gox4q6mfbRR_HSa0hkMwXdswhBtjxlU5q3pU8diKtnoj78cV6POmK5Y3XuonwA9xTpvNuIcmyv8VuKeuVIYXNJ715HAnjZ0XNLeQITfOt3_8Ab8Ixw7iXKuMZ9uCEasIa1nxOhTf7jj5",
+            "widthPx": 2268
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Navid niakan",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtwYSlDDhMo3XZhohlWZs6raRw8-V0sksfPp0Pl1vS5Cny8A=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116695037799534148743"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_7frjRw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_7frjRw!2e10!4m2!3m1!1s0x3f8dfd001725cee1:0xa38d09635052ec29",
+            "heightPx": 2592,
+            "name": "places/ChIJ4c4lFwD9jT8RKexSUGMJjaM/photos/AZLasHp8rgpdkaEAUiYYz6HDuuCsub0-QtLMNc3gDg8E3JfqnHBtPY54vyUE0Td3z7IZgAsk6mjAzZLKAHxGhU4pO63mApi5uHe_GKKeOuhzMPmU1mCMKEDj-hODV9XPRLUTXkbW2K75EhLnvYfv3gYwE7O57UhlS2H9wlbCp1HeATBtgTw5Cp6mvJSBzd0kk6KMYvrOuL0J9Px6p41tysyiSYeoe43bQ_wb8FsYafYNHS83JwspKS2j8aD7u0aGiKWFyu-ZDYlYGX-7PcM-D_VxD3kqsWqvaY7WFBc72U_lxX1ExXqmMgt3alkmaYx2EE5xsn7dno4jFB93wMZyu3keSraEDeqeYinKEx0aG6-zdnUJwHKeWnG4PIlEpjkf_m4AcO4-DgB-BKRwGh_XUn07NL6GyY4xRL2eNuq9GEGqiMl9Bw",
+            "widthPx": 4608
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Navid niakan",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtwYSlDDhMo3XZhohlWZs6raRw8-V0sksfPp0Pl1vS5Cny8A=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116695037799534148743"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_7cbevgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_7cbevgE!2e10!4m2!3m1!1s0x3f8dfd001725cee1:0xa38d09635052ec29",
+            "heightPx": 4032,
+            "name": "places/ChIJ4c4lFwD9jT8RKexSUGMJjaM/photos/AZLasHpQfrtaJ8nEpIqZ3VlUkUVHpjONm0iyGTzrojZrUiBEPJ18cqPAXOaqwaVHzZUugDFu8YUvnlqvq9-KqaMl-V6nChLsuOe0gPgPO6w_wu1VVQ0NwcfWx_DqlcN513QUpbADrrFBV9OW9qvy6LJp3GWZcwuf0Zq35JOOVIINtNxa6WtXuxLr016X4dZtAnoErmX270RjE2gcuFGgbML2kGx1ddHkj6wiXFFFc_9BZFcSbXHr4xp9hWIDJzprxGhc08UtWzdBOw_fiiwuLULa0lCPH09NcXReJhJEDfLfJA_3UtoAKx2HQDjlryA2FtUEIjXax5jnK0xOHl9XzdFEjOfysfV9YXu1L2pxJgr-7FU6w3UtTnSbAB3s3LQXXSIZ8eaaQ96bGsJYMcDgX8Z_YpIXAKmsH3P-w6kxXGraDEodUiQ",
+            "widthPx": 2268
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "P8G5+2Q Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP8G5+2Q"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "ستاری بلوار فردوس شرق بعد از",
+            "S Ebrahimi St, No. پلاک ۴۰۲"
+        ],
+        "languageCode": "en-US",
+        "regionCode": "IR"
+    },
+    "primaryType": "italian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Italian Restaurant"
+    },
+    "rating": 5,
+    "restroom": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "parisa mokhtarani",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlKcIrrs3epxsuXr7bBUx6y95g3v3nufvG-3Wr-NqCGpDyzA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/105970688625608991047/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBb01iRmhRRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBb01iRmhRRRAB!2m1!1s0x3f8dfd001725cee1:0xa38d09635052ec29",
+            "name": "places/ChIJ4c4lFwD9jT8RKexSUGMJjaM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBb01iRmhRRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "خیلی عالی و باکیفیت"
+            },
+            "publishTime": "2025-01-28T20:10:14.938833Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "10 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Very excellent and high quality."
+            }
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "ستاری بلوار فردوس شرق بعد از, S Ebrahimi St, No. پلاک ۴۰۲",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "italian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.726350480291494,
+            "longitude": 51.310784380291494
+        },
+        "low": {
+            "latitude": 35.7236525197085,
+            "longitude": 51.3080864197085
+        }
+    },
+    "timestamp": 1765104805
+}

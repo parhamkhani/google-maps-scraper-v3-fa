@@ -1,0 +1,729 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "غربی، سازمان برنامه جنوبی"
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "P8G3+HC8",
+            "shortText": "P8G3+HC8",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "بلوار فردوس",
+            "shortText": "بلوار فردوس",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "تهران،",
+            "shortText": "تهران،",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "South Sazman Barnameh"
+                },
+                "name": "places/ChIJhy9IAFT8jT8RR2etd29ld9M",
+                "placeId": "ChIJhy9IAFT8jT8RR2etd29ld9M"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parvaz Town"
+                },
+                "name": "places/ChIJpzIbIK39jT8RbaSDa0D_Ra0",
+                "placeId": "ChIJpzIbIK39jT8RbaSDa0D_Ra0"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Real Estate Registration Kan"
+                },
+                "name": "places/ChIJqZcTDlP8jT8RzsDfW2A0z-o",
+                "placeId": "ChIJqZcTDlP8jT8RzsDfW2A0z-o",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 143.1576,
+                "travelDistanceMeters": 143.23257,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Melli Bank"
+                },
+                "name": "places/ChIJJRgcvlT8jT8Rnd1LCoIFRdQ",
+                "placeId": "ChIJJRgcvlT8jT8Rnd1LCoIFRdQ",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 142.83923,
+                "travelDistanceMeters": 177.55138,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parsian Bank"
+                },
+                "name": "places/ChIJEQE5k1T8jT8ROSoxeTbzqMY",
+                "placeId": "ChIJEQE5k1T8jT8ROSoxeTbzqMY",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 153.37344,
+                "travelDistanceMeters": 174.25381,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "شیرینی کندو"
+                },
+                "name": "places/ChIJbdB091T8jT8RO9AoqseDLw0",
+                "placeId": "ChIJbdB091T8jT8RO9AoqseDLw0",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 174.20892,
+                "travelDistanceMeters": 218.7481,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Qamar Bani Hashim Mosque (AS)"
+                },
+                "name": "places/ChIJ4dVMe1b8jT8RBlZ7xRPsSV0",
+                "placeId": "ChIJ4dVMe1b8jT8RBlZ7xRPsSV0",
+                "straightLineDistanceMeters": 430.81464,
+                "travelDistanceMeters": 489.10464,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:25:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 55
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 59,
+                    "truncated": true
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 PM – 12:00 AM",
+            "Tuesday: 12:00 PM – 12:00 AM",
+            "Wednesday: 12:00 PM – 12:00 AM",
+            "Thursday: 12:00 PM – 12:00 AM",
+            "Friday: 12:00 PM – 12:00 AM",
+            "Saturday: 12:00 PM – 12:00 AM",
+            "Sunday: 11:00 AM – 11:55 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Fast Food Shamadora"
+    },
+    "formattedAddress": "Tehran Province, تهران،, غربی، سازمان برنامه جنوبی, بلوار فردوس, P8G3+HC8, Iran",
+    "goodForChildren": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=4481759299211620715&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=4481759299211620715&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJN5gdyE_9jT8Ra_FPVlZoMj4",
+    "internationalPhoneNumber": "+98 920 920 2167",
+    "location": {
+        "latitude": 35.7264178,
+        "longitude": 51.30357
+    },
+    "name": "places/ChIJN5gdyE_9jT8Ra_FPVlZoMj4",
+    "nationalPhoneNumber": "0920 920 2167",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Shamadora Food",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdaU3gyclNv-f0jjd5brAVs9Wms-_qDSCZOCqUW4qRIR6ux4U=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117508323395667240485"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-2tLfAg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-2tLfAg!2e10!4m2!3m1!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b",
+            "heightPx": 800,
+            "name": "places/ChIJN5gdyE_9jT8Ra_FPVlZoMj4/photos/AZLasHoAUjZTogCn_wCAhmEU6bAMjz_1-zqgcnmiN0UKJt8RZd5920G4zv5MNmBXyKOzn79Bw-tyFVIng16PvaprFoL4ecMfD1KiT9j5rLw3qwRu_UZx8DQbnH4Cks5H36VdORsVvLHstgMhUu8zYSFZyKrMZMpjMYTgT7hlIRkTElJ_In4Y2Rr4ho5detZPXWdu7o70lZCy1sV3B2sWQszIKqO6QmaDZHZFr5NIbpM4s2hz15TNvLK59XDhgzzyivMsX-2aG56fdJwZp6BHRRHexeNqXhQzaURgEn3FpuRR0tMBmlfXUTRMTR_8ipeTAMOhENjHZn_vh7qndmrdHOx-vYFi_9eaIZrHmQXAQHmOe9eEm6TOvWtcWR4lAkt29IGud1pmMFxsb_crYwzxjsbU5NyLmnkHYnGHbHxskS4Rgl2eXg",
+            "widthPx": 1280
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "samira helali",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJtrWoX_dicWQ91n5RlolZf3Zg_HuXSjLDDwHVag7BldnPEgWM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/118421378460284272855"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx8o_V3QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx8o_V3QE!2e10!4m2!3m1!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b",
+            "heightPx": 2560,
+            "name": "places/ChIJN5gdyE_9jT8Ra_FPVlZoMj4/photos/AZLasHoP758_kqJQxedU9kZ7Y-PZJtj1iIbaTwadgEKBXsRvIJ6JWAjbzFzURJfm7SeQrBRzzGPU4fK5R0iBI8BB03Ud9kXiR7cs_dGxJPgEU7kW5Tqq-XxP4t6Wp-Uo53jDQXhhv3LpmwZDcXFkrMW6nNwZbd9u1NKffDkMpzvyrhrP2TlD7aM505jPQ5fJMiteYjIafcO12dGQ7Ciq-a4zwrjg4qwh4IKsAeJ-AVyAYlDx0sdQoNuKYSNAh4YTZe-QJHfLQRbx9pWOMtXPnqnhvbRDrYyBh5t6UbFWqpPAl2Puz0gtkhE5SKRYoJDLfmXNsXm-fT-z-k3HxAOUMp9VaqiuO05XSevzX7Q7tCvTXBvgQh-COeeCig6-V8TeJQWF3usYDFtkzx0JrKxE5ewQcD_tBgj7DkxV6z4xhIRz2bvEqU55",
+            "widthPx": 1152
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Shamadora Food",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdaU3gyclNv-f0jjd5brAVs9Wms-_qDSCZOCqUW4qRIR6ux4U=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117508323395667240485"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICp8fH9nQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICp8fH9nQE!2e10!4m2!3m1!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b",
+            "heightPx": 529,
+            "name": "places/ChIJN5gdyE_9jT8Ra_FPVlZoMj4/photos/AZLasHp_93Tf2WwqAbE3pcLuWubX_VXTXroxxuAw9QVJoDvZRJbr6crVHP1Nqbicri3TyTYAfaBaN7OWsQH3zFy1OnE5lz0rLM8-eXh1d4M68mXrId4FKuq8oiELkS2nZQ_ULUzHQwKOXcxqW-iLGtwgNZuO6nxuUbwktbfQK9L6yqeVRNwq3QbUf_Wc8lqx7nuUxKi3qxk2mz0AaJ_WKko0g4E0D4c-iJSIb0efAO2TuvFAxSJCSJtakg6hWyj-oQTEgPPr0q4q3Qzfg1SreOHgZgXnLB7SiS2XVA-aUn4Qvxii3muIy-59btMDFKAjRGwHgmNWHIqd8U-GYr1w2Y1qvnyU4Kk7fYMk5W1BT_0kzVWCxoqwGi_PQLfkuJr5Msk7OfGfid0svKCCDbfXYCIQ_QQdJlx0gq0zoglAiCJdOkDVi6FB",
+            "widthPx": 534
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Shamadora Food",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdaU3gyclNv-f0jjd5brAVs9Wms-_qDSCZOCqUW4qRIR6ux4U=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117508323395667240485"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-0ZWGLA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-0ZWGLA!2e10!4m2!3m1!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b",
+            "heightPx": 1187,
+            "name": "places/ChIJN5gdyE_9jT8Ra_FPVlZoMj4/photos/AZLasHq5V6sYT5KpwVq9214PviHcxaSwlTFynmTPjmTVr6JIFRfQndH0dUO_X_PWcX07St-RJ6gcReKNv6NCcFBcFqOVZbFRnAtMf9w8TXQ7pUhEFWUVsIDar2j6rZYJw2ZFL_spavS-KwuJIlhknmJj3XmZX4hHfDm79gErdmSYxfg4XKIEcMYnfMYrGFv7K0V_se4_0tXN8xwHi8IbycwHBGdSc--gBDOsz2lkY9udyXuebYFwFgJ72-1CQHO6FUlZtUnU-Qewqctjccn8y7NBCe7DvdBhsQPjnnMhdWUUzRSpXZMdbf4ZobrwXJDidGa9sFhZRL5bHQ1qiV8Bf4PrQlDJ29UpuUa3nRKJgviqOVeJPD4yDgCvplVVh9_JT2fRbhtja9mXadC4yFwftm_0zC95UVL1XmynshEvS0OnEWkjfw",
+            "widthPx": 1300
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "samira helali",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJtrWoX_dicWQ91n5RlolZf3Zg_HuXSjLDDwHVag7BldnPEgWM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/118421378460284272855"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx8o_OvAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx8o_OvAE!2e10!4m2!3m1!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b",
+            "heightPx": 2560,
+            "name": "places/ChIJN5gdyE_9jT8Ra_FPVlZoMj4/photos/AZLasHoUztLe9imc0ANl3Paov044Knpzrhxy1wwYchX9UrZsLtYjAnPSt-GiMqyvw4bQ_DYJ7NPGMpE8Zr6aUDXM3N19hLLYSzfAXX5aVM3tVN8ME-UEby_ORUTV-KBEhr6AHkyn6PVKx0tJVPsDkBoO6BuUaaVwgz9eg2dwd7UWvDq5VoiMVvlkYsz_wFLi0WxotEHsfXfQ2H2Fhq53B7DyfLuTkSEHDN6mNSfaPHtODGYirkQJZ9djlDGsBCAigMqJeIKO-vo5BC1yywkxVuh56dOOfqQ-Q1V6vianar6h7T9RVBVPyBAKUMUggCwvDGLvQBUY1LA7i3tAo8E1umYMYwaTBMh7IgeCrrcucCtCEdh2DP9o8cWshyQK2_swYGlYB9iEe_9oZGs4Gsqh4JpCsPYdFhyN65mEfV0VkN_P8zRjLJ5T",
+            "widthPx": 1152
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "samira helali",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJtrWoX_dicWQ91n5RlolZf3Zg_HuXSjLDDwHVag7BldnPEgWM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/118421378460284272855"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx8o_W8wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx8o_W8wE!2e10!4m2!3m1!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b",
+            "heightPx": 2560,
+            "name": "places/ChIJN5gdyE_9jT8Ra_FPVlZoMj4/photos/AZLasHpCbLKdr75sr0v2abMfM50uglCrdbyepbkV5mjK2aUm_aFP83G5lIdkDy2mWpjRsiPEN19e8uTwJ6dz4EUwqHWOoaySQATWgD1bKP-JgeAtAeO1j4t80hVLEIIQ_qkK174JOh2lXonQ5DRc1tZdIjDf9ym9ppLmvI1412vWOmBWCWayyYp7qRHWnWS3MmNWt5kK2QjcWcgQhUXlUoedqe-pj4QBxMnzbrRxcdBKmW06BjzAs7fNNgIpYx-gAssRAFfSj6zQ6FxcbV8vSqQVAgE_teHFmPAiT0daJLDQCrjWxo5mfRHi9tBHtbkEfEPej__wW9z-RZO71Ljgpl9Ul99fR-qAWHtewaX5FIxzWVpD9OGTYu2VXQXh64k338HqqZ5ZbP77ahnCQstA70ueTuI05t0XlCtkr1USXVUy1exlipxI",
+            "widthPx": 1152
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "samira helali",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJtrWoX_dicWQ91n5RlolZf3Zg_HuXSjLDDwHVag7BldnPEgWM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/118421378460284272855"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx8o-SHg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx8o-SHg!2e10!4m2!3m1!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b",
+            "heightPx": 2560,
+            "name": "places/ChIJN5gdyE_9jT8Ra_FPVlZoMj4/photos/AZLasHpIsOKk3QjrmGLyBcwLHA_97XPD9l8TbQU6BHqwPRNHqgJNufasjQK7wFqA1m3LpfiVI1Q7R_DSlmv7qjlLHEOcEMEnIQguHbqPv5rPF4XPoRQVxkAilTCIGfRayRA1ZUAkh6xxPA1wKv7ukXehtAyfc2ca8gbIcZSjvJSdaxQBu8kTUoDTZX7pANRIktn_j_jRr0meA_yiFTAaCs5IU_Fwr9WLYhIGu4_nh7UlbXielLNgDCCwGvORQddjbZ95U3SoNfUlmhVKhOWu_kruLKUYTE_pAwXU92u1Pyks6KJ7hUqI2wTL1yC3je0wqLw6dvWJLNLDqZfk9AQhINe5IOaYUm8PW7jDgKKlGYA7YpHu7Si3NV6cizCcA6mHEOi_MdIOi2n85kOcrv1no6wyOvBTXiFzWAgsVhQqejcXFB8",
+            "widthPx": 1152
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "غربی، سازمان برنامه جنوبی",
+            "بلوار فردوس",
+            "P8G3+HC8"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "تهران،",
+        "regionCode": "IR"
+    },
+    "primaryType": "fast_food_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Fast Food Restaurant"
+    },
+    "rating": 4.3,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T20:25:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 55
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 PM – 12:00 AM",
+            "Tuesday: 12:00 PM – 12:00 AM",
+            "Wednesday: 12:00 PM – 12:00 AM",
+            "Thursday: 12:00 PM – 12:00 AM",
+            "Friday: 12:00 PM – 12:00 AM",
+            "Saturday: 12:00 PM – 12:00 AM",
+            "Sunday: 11:00 AM – 11:55 PM"
+        ]
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Amin Amininezhad",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlVCaSJKsvyZalOKb5qXc8AtfImxPq5u25HskgBYFc8_xnlrQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/108531661818474697828/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQtMnE3clFnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtMnE3clFnEAE!2m1!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b",
+            "name": "places/ChIJN5gdyE_9jT8Ra_FPVlZoMj4/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtMnE3clFnEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "It is the best fast food with delicious and quality food. I have bought it several times and it was great"
+            },
+            "publishTime": "2022-11-27T14:28:57.051042Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "It is the best fast food with delicious and quality food. I have bought it several times and it was great"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ebrahim Mokhtari",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlpKcQwJDGHld9Yc2MiVdNeQ7gwvhtoMmggilOcF2qkUQV1ww=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/115546976427469321803/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNEMDZiZmxnRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNEMDZiZmxnRRAB!2m1!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b",
+            "name": "places/ChIJN5gdyE_9jT8Ra_FPVlZoMj4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEMDZiZmxnRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "خیلی دیر  نزدیک نیمه شب تحویل دادند و شرمنده میهمان شدیم .\nسالاد سزار آنقدر مونده بود که کاهو پلاسیده بود.\nهزینه بالایی می گیرند هزینه بسته بندی هم دارند. توصیه نمی کنم"
+            },
+            "publishTime": "2024-04-01T08:41:44.902071Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "They delivered very late, near midnight, and we were embarrassed as guests.\nThe Caesar salad was so old that the lettuce was wilted.\nThey charge a high price and they also have a packaging fee. I do not recommend it."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Mhrdad Zyeganeh",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2Jj9WRHW5UPaKwpqtZzaA5-_HUqw0nYKsCliD2lym5CrJ81Y=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/107352236243264854526/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCNXJfR3RBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCNXJfR3RBRRAB!2m1!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b",
+            "name": "places/ChIJN5gdyE_9jT8Ra_FPVlZoMj4/reviews/ChdDSUhNMG9nS0VJQ0FnSURCNXJfR3RBRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "بهترین فست فود فردوس غرب شامادورا هست. پیتزا و سوخاری هاشونم عالیه"
+            },
+            "publishTime": "2023-01-18T15:12:29.414487Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The best fast food in Firdous Gharb is Shamadura. Their pizza and fries are also great."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "taeb noori",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocINXxcosfHSq2pPuhC8WNYB8LXgk7ndrOWqLkUVhyZIl1oijA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/106733163170146396695/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNCXy0yT253RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNCXy0yT253RRAB!2m1!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b",
+            "name": "places/ChIJN5gdyE_9jT8Ra_FPVlZoMj4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCXy0yT253RRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "بهترین فست فود فردوس غرب با غذاهای لذیذ و خوشمزه و باکیفیت"
+            },
+            "publishTime": "2023-01-08T17:58:37.611356Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The best fast food in Ferdows Gharb with delicious, tasty and high-quality food."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "samira helali",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJtrWoX_dicWQ91n5RlolZf3Zg_HuXSjLDDwHVag7BldnPEgWM=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/118421378460284272855/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4OG9fVFBBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4OG9fVFBBEAE!2m1!1s0x3f8dfd4fc81d9837:0x3e326856564ff16b",
+            "name": "places/ChIJN5gdyE_9jT8Ra_FPVlZoMj4/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4OG9fVFBBEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "در کل خیلی خفن نیس ولی خوبه\nبرای اینکه بگیرین تو پارک یا خونه بخورین خوبه"
+            },
+            "publishTime": "2023-05-14T18:35:28.779867Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Overall, it's not too bad, but it's good. It's good to take to the park or eat at home."
+            }
+        }
+    ],
+    "servesCoffee": false,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "تهران،, غربی، سازمان برنامه جنوبی, بلوار فردوس, P8G3+HC8",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 8,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.727757130291494,
+            "longitude": 51.304982780291496
+        },
+        "low": {
+            "latitude": 35.725059169708494,
+            "longitude": 51.3022848197085
+        }
+    },
+    "websiteUri": "https://shamadora.com/",
+    "timestamp": 1765104804
+}

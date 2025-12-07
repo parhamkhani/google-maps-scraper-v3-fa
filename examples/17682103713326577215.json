@@ -1,0 +1,489 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "fa",
+            "longText": "خیابان عقیل پلاک 378"
+        },
+        {
+            "languageCode": "en",
+            "longText": "Ayatollah Kashani Boulevard",
+            "shortText": "Ayatollah Kashani Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJQ-413779jT8R7lWt_dHTS7s",
+                "placeId": "ChIJQ-413779jT8R7lWt_dHTS7s"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ferdows"
+                },
+                "name": "places/ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE",
+                "placeId": "ChIJtWZ-Xbv9jT8Rq1bUpwN3uGE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ali ibn Abi taleb Mosque"
+                },
+                "name": "places/ChIJy2sTf6_9jT8RhWSqNLjbSRQ",
+                "placeId": "ChIJy2sTf6_9jT8RhWSqNLjbSRQ",
+                "straightLineDistanceMeters": 123.39522,
+                "travelDistanceMeters": 109.514114,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5 Municipality"
+                },
+                "name": "places/ChIJtT9PRK_9jT8RqKOJwWNUa64",
+                "placeId": "ChIJtT9PRK_9jT8RqKOJwWNUa64",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 232.10403,
+                "travelDistanceMeters": 306.80145,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr. Sahbai 24-hour Pharmacy"
+                },
+                "name": "places/ChIJ5b2ZcaX9jT8Rr9xxv4AZk0Q",
+                "placeId": "ChIJ5b2ZcaX9jT8Rr9xxv4AZk0Q",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 10.821199,
+                "travelDistanceMeters": 8.107056,
+                "types": [
+                    "establishment",
+                    "health",
+                    "pharmacy",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Iran Khodro"
+                },
+                "name": "places/ChIJabopE6X9jT8R3mHiYPxdyvQ",
+                "placeId": "ChIJabopE6X9jT8R3mHiYPxdyvQ",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 17.086134,
+                "travelDistanceMeters": 16.345715,
+                "types": [
+                    "car_repair",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Tose'e Ta'avon Bank"
+                },
+                "name": "places/ChIJN6zFeaX9jT8RcbZs8VY4NXc",
+                "placeId": "ChIJN6zFeaX9jT8RcbZs8VY4NXc",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 30.467768,
+                "travelDistanceMeters": 27.598549,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Ci you restaurant"
+    },
+    "formattedAddress": "Tehran, خیابان عقیل پلاک 378، Ayatollah Kashani Blvd, Iran",
+    "goodForGroups": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=17682103713326577215&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=17682103713326577215&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJvR9abVn9jT8RPzZyuqRzY_U",
+    "internationalPhoneNumber": "+98 930 196 9024",
+    "location": {
+        "latitude": 35.7287347,
+        "longitude": 51.316623
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U",
+    "nationalPhoneNumber": "0930 196 9024",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alireza Kasraei",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJ_xAXKoVvLNGc1fuKxgXsVsKn42uY2uiOChATpzH3Xg93itlW=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101156844306280635511"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv67zdMQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv67zdMQ!2e10!4m2!3m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "heightPx": 2256,
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/photos/AZLasHqmv0xyKSP1VO6LPkEpmn-jnpaSRNaRrXKv18pUoCZxiHfIl0wbikndow42mJr4gdi01UWn_npjPsDTyeK9BIBZ91035sFg2QSLL6ld0Atc00OXoLnZGpEbgyWIY1QqMZQemzaPPXGyJ6o8-kG-9-W4PBfcrqdXuPoThJdv3CaO49tP-bXbZY350E59YkeFForKUIZS9EHM500XV7mtkME3Oa243u2uA2XncbzB6LnLHVMKMeE7vFE8H4ffdL5-WrYsJ7SJbpQ_TSJmln8nmZGrLkbGzO5TkNHTqx58m3_zTk3Q0ky7JiIjQimTfVd7yv-gZr-RO1Wuu4jCkLfyy9CBzeQTQ5WzsMVpCVTD8w3sWXNLPs5zPwNuhTIX1lKO3_GFp9ukHpdY85_-soRH7ve2yZMS8KWoNpUo4Y4Ra4x13g",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "HiTi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmm29tUPxRe02NIjY2zyslFZi_ypxFRWHcXL-UXV4mhNyl_Gfm=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109335861526079887454"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICewu_zGQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICewu_zGQ!2e10!4m2!3m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "heightPx": 4032,
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/photos/AZLasHr1apHMEb1q0_Fnhtz6x9Mc6MwxntJGNG2K_JWvu_ujAeIkQdCSu75ycvKZa0RP0D4ty3HPq3j0YFYp1qB9V_4rxIEKbqlJgKZpuo2ofG7IQ-LqgrcKU7Hd4E52fIPSK6tDAujvXYOoDcO6KUdVfV-T25CACLq9E1l8yVvezkLTzuER_ucsek0mzWGv4GWE9XlGYJqETVnEhVo0_dqVZcp5Uflj0PQ_GZOe-REGUnuvCIwagu_6HRQr7pX8IfocnfggaP6HMwVGOjW9L-WwQf8hhn9QIYFy8Fw4UO0IrhQ6Ykm6f-FhMkBEcDCHdSdj6RjVEmLoDEhjr_bnvvHfQOOgddMH_1RC3P7ZKupFQpVBpwBoKNyBOe_kWmJLeIbc2wu3WxkFKAkHJWAgowxXPg53F-eKr3kpGFbqJBIj_Ro",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "HiTi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmm29tUPxRe02NIjY2zyslFZi_ypxFRWHcXL-UXV4mhNyl_Gfm=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109335861526079887454"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu19CRlgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu19CRlgE!2e10!4m2!3m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "heightPx": 4032,
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/photos/AZLasHoO3JWEvZMq4GeTYWvsI2gFROTy-RoIgHatm-3zZBbDFkIt0cvSlS_JPK_tCIleSu_tDxRaTYPF1ihD8yyHLBiY5V0sx7klGkPZFq_S0gNROZCA9hjdeRm3NBivCNNSkA-4uSsTsk5z0bo07hGNhk3Awlgm4ZivZhq2XnA0g-aJtKQHaEeLeKNJwa-RvMj0jT2rcO1aLS-sfdxLSowwrY_V8e1y44VkW4TTfi9SYzUE_7-3eq9NE4wqad1aPNoqWJgNezU0zZY5wpI9tsoVULktmir-IynPT-N51k5FGw9bOkVUvlDN-xcGNk3uqGaYZRzPO4nAXuCdqwx1gOgGOOgzommYpue4OyygP13XPyeL5pLihmBXW4OO8-LahLwhHH-yh47GRY1WaLfFwal2VSUVsbYBIqnh2Px74EDpgDbOR8-V",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "melisa nami",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBP6F1ekwrypRe4ZF5hR6H27kcoKfGwwR0EJ4B1jUew5SgF99H=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105127267492768238263"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICh_LuV4wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh_LuV4wE!2e10!4m2!3m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "heightPx": 4000,
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/photos/AZLasHqyozVh_U6Eymhsmo4Bv-ELTc0nYtKnBY49dt-vayu88bXEc2qNb1yW_U9NAJLfm5QPKIYcOvd-AyxGC1T6oI-A1sUxOj6GPO7zv6ZxO0JJRt7IErSKjHaZusA3yMbGcAGb5coWvvejy20COgxXI-sj0Rtt6KHtaX4nLSbboH_tLYDJkk6RPTFcZSQXp3hZOfAcSG1yJDG_zTkG2fj06BzMm6uRkfHLhOWFCYENM0FuYNsQgi08fh_oQt1k2LBpgm1KGzsY_Vf8aMgfv2qxUU0fjqTL4qQV5Ze7WLt4fxsM_omB8oYj65_sWdWhyEzNrPPLmVgwvTZaVc8MTeikpAs0wxl-ATwwiLro_3vNE_HaH7DANQz_jCBxveJc-5BFN8TgJ2tm8wkyexzvkdNzSQFla8jqRmROSnha2zaq25V6JZbU",
+            "widthPx": 1868
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Matin Hadi",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIaehi03W-JEk8e5-Nu29I0UkxQ6pjYEJDTGJJEPi4PsLz0Wg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105287623141099706452"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICewt_QowE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICewt_QowE!2e10!4m2!3m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "heightPx": 4032,
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/photos/AZLasHqQsPCKw8HqKpojkhlPaYossMjwXln4DRyDzUFyK-Svei-0PzZkVe0n4AuELxkF4Aj8B51ppgX_iAVBJyyheDgjjlrfaL2wZ1D0X1OnxFoBmQVUlxxpOuJvSaezlAydinzm-pO0q-HyLzTjrfRvMzZ9rcp5I90pzjspztpDmvOs20kdWxa7-SjyzAohmjYYaYvMzPqM5C_XWcwQEgHwJ63JopLdhnVLXhxMqOfNytucIBJvI-m_oUXrljIKx0yjhmL1tCw-ahwkscgN10IyRlOm1e8Yrd_90Mzy-Y7uKzDaCbwY8RIoMlR9iYKS4Jr_rz6HpImAQxk52ofJ0n-WOBBcj6c1AXPWgmBZMK6IxuBipIGq7k28X_O_umql9S7LOS7F0qP3pi4g8u2laXkUj2pn-IZnat8dVpwCkhRQZDkEFeDU",
+            "widthPx": 2268
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Nafise Hashemi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9NW6sOg30ICsFxrcKnTZrpLP_2jy6PukSKSOqWh2pQ6A5zLdx=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113239206487854872230"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICNw4KJ4gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICNw4KJ4gE!2e10!4m2!3m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "heightPx": 4000,
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/photos/AZLasHrHjReSzfUSWGpok_nAvIai7ZrU_HJnn6qiOvOVNyaaNapxpwoPoq44amwpaV3zadz6TZsDnm29tUUf4VjrKmiulqSV7Vc7cmGcgBnsPleK1cAGygNJ7Iv465oAqp4Nt8jNzOEdn9wMpl0cK7iyb_-oDuOB83YttdpEgJ3ueEXcGKQLUmOrY6cwFSflJrW_Gns0fozBOB_MjFTRHKG9_LWUQALsyer9Z0IceRDQ8AojjHFj7W-sb2L9mxvy5e2QCDqdE6MpfbZtiEd_NmtaoqxsjsWLmJZmLkE3I8zPh98iW1eiVKAVDUZZa1eZ1RDvkrYAViU8kg8mdqdBOAo8F1qNQdKD6MnPgptt5tDk8RMCD6xM6Oj-5Psb2tZRMV_Pj0L1sCwR5Fj0uTvNS05P-4N6drRJ--wKfdcyBS38lpUqmFE_",
+            "widthPx": 1800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Nafise Hashemi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9NW6sOg30ICsFxrcKnTZrpLP_2jy6PukSKSOqWh2pQ6A5zLdx=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113239206487854872230"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICNw4LKUQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICNw4LKUQ!2e10!4m2!3m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "heightPx": 4000,
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/photos/AZLasHqPh1kTVM98126vXmnxiyvEIzfB7NBkTnJbpqsYb-3WRgJa8Fh5oIgsIl0-9emS7JEBl6hdHLZDsvEUdEVeZpcvTWRnJ3Sn9CJPHhHxsC8LOSldvPnb_kmy18oyh6f98SN_GDrA53flyCjszvLeYPiNwnbi145eXQlM-rDdcCbRvxH-ZCJ_PCgxTrd6FV07HgmuNXqnxunLtI5vIpyKig5Wo0UdYEBssnhiX3afXqfpRgjP4qLGFD2Mssdi-1QGim5ON48K_6GrwVwm3OBE4L06kCgPFD14zirWJ9sECf5dd53nNbZQLbMQswIypGekgzulsJ8BSi9ltu0BIDd8ilYUb9TtmWm48c232NTq4JCxwBen5ArmXPj30uq2buzE8yzBx_FuQSwAiT7cAHvE4giWvtT3eDMrhPlQmGEc3mU",
+            "widthPx": 1800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "HiTi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmm29tUPxRe02NIjY2zyslFZi_ypxFRWHcXL-UXV4mhNyl_Gfm=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109335861526079887454"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu19CRVg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu19CRVg!2e10!4m2!3m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "heightPx": 4032,
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/photos/AZLasHpVKQ3vJfrjvpxZC0wDIsHiCjjE6U9YULl5MgXDR69ZLaUflCMmBQvK2pSPOLX8cATDdJgUMFIijtmRtY7G-XswX0Q1SjcHOwYmySUe6TG9xE6-syqI_0vN_8nZkX6Y_yUdOyvSLOF0YBvqt-D2KPD7GJlKt-UhkfWfJBRPzKA6JT7Sdbw43q8IWWJy-HxCIawCe6AzMMaRHxCBUNopUepZEPtJLEJ56tWQEC-_7FTL87rmUHUPYssj5P3bcCc-y659-sfCXpACc7SkNP5zLKLIsLt9LwzLpZ-Z4oEssJlAH_M2JdhnANM558e_s9FguJE1p6y0e9pZLujA8z2KV1iYWBTE2O6K9-sZq2vSH9blqeIqoKmmSnJCGHhHfC_KLVfYwqDJ_y3YgthnUaZf7L84CkG_JMjUkOTW2H5bMGAbZA",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "HiTi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmm29tUPxRe02NIjY2zyslFZi_ypxFRWHcXL-UXV4mhNyl_Gfm=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109335861526079887454"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICewreRpQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICewreRpQE!2e10!4m2!3m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "heightPx": 4032,
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/photos/AZLasHrzlvwCjkB0FpIx-ovipuNfN4-qNprnINq5vZ1UmdMueP1BLMe33i6yafsgPDR7znD1LEocL_q8k3bZPe66JABmeyOcrZBkAPhxUshoRY9JrQqcbW0O3ZrRu66Cgr1BEIT0M5sHZJzL5jQbzrzxTrsyK0smC7xYmUnY_KUsEt1ph7iuuFnhwgsdC_VLdCXsXuiPu0ubiuiJ9qhpGyNrKaawagzATndIeSy1uRBZ0HSInZ0rpNO3jwZqtHKI6--n1IwdW3HzPLiUL2GqKNuyj_oNRfaFarUYgzb0YkE7Sw2iqu7QTNZ0ByO30k4rO723SohyCuVyRupUCkO4iieC5S7NvNsHD5ZiQBhaCtu6P3SkDdz6B3U8uaZxSq8mpbNj9FK53aBN9uTMOZlOaR1dmVopfHloFJbnq2TGz5uSbjktzE4",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "melisa nami",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBP6F1ekwrypRe4ZF5hR6H27kcoKfGwwR0EJ4B1jUew5SgF99H=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105127267492768238263"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICh_NufYA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh_NufYA!2e10!4m2!3m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "heightPx": 4000,
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/photos/AZLasHp6zqGCTV9TGPlciX7SMhGEp7rCcBK638jQP51JZhWqRI_QL1bLXFE3U-8P3sOYvrUIqi8wPXk9NvsoWkx65_aCg8UvIa6bRIoQe8jB0QtuxaQ8xfV0bdXMXO2k8Lj60r7NKI1kyq0Am_hCUr4HNLKQw0sE0-u-bBvL-DiBNHdGy-8o9gr9kFhvDdovhE4dTY18rMTv9Xr_SnAmZIaMegDtLlYunb29_ToU1TOh5h8Nd7WEAqx3H1rlKHnS4KTlpj-317JcLRjxIZ6VcSAX-rG0caWh8pZxW_ktGFk64RwCR0C3oU_Ifp2ZjyRBTyva3OVmlpRlvPu6aN58s3E5hlossnbtHBiNqyduDIs6n-HXp8QW1axQpDLI1hd51dLoGxkX2IM0tyc3nGTn83HtrR2l34HX1h3hCyDG_0L8xOUgSQ",
+            "widthPx": 1868
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "P8H8+FJ Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP8H8+FJ"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "خیابان عقیل پلاک 378",
+            "Ayatollah Kashani Blvd"
+        ],
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.7,
+    "reservable": true,
+    "restroom": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "melisa nami",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBP6F1ekwrypRe4ZF5hR6H27kcoKfGwwR0EJ4B1jUew5SgF99H=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/105127267492768238263/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNoX0x2cnVBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoX0x2cnVBRRAB!2m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoX0x2cnVBRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "It is a cozy place with great food and professional staff. I really enjoyed the time that i spent there. They serve hookah, too."
+            },
+            "publishTime": "2023-02-08T07:53:48.159390Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "It is a cozy place with great food and professional staff. I really enjoyed the time that i spent there. They serve hookah, too."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Alireza Kasraei",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJ_xAXKoVvLNGc1fuKxgXsVsKn42uY2uiOChATpzH3Xg93itlW=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/101156844306280635511/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2NjR6YTZBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2NjR6YTZBRRAB!2m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2NjR6YTZBRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The atmosphere and quality of the food were excellent."
+            },
+            "publishTime": "2024-12-24T07:14:30.804919Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "11 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The atmosphere and quality of the food were excellent."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "HiTi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmm29tUPxRe02NIjY2zyslFZi_ypxFRWHcXL-UXV4mhNyl_Gfm=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/109335861526079887454/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR1MTVDR29BRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR1MTVDR29BRRAB!2m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1MTVDR29BRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "جای قشنگ و دنجی هستش. فضای داخلی رو دو قسمت کردن یک سمت فقط غذا و کافی سرو میشه و سمت دیگه قلیون و سیگار میشه کشید. اکثر غذاها و نوشیدنی‌هاش خوبه فقط یه کم به نسبت قیمتش بالاست. رفتار پرسنل هم خوب بود چیز بدی ندیدم. در کل دوست داشتم و به نظرم نسبت به بقیه کافه رستوران‌های منطقه بهتر هستش. پیشنهاد میشه."
+            },
+            "publishTime": "2022-08-31T18:17:32.917290Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "It's a nice and cozy place. The interior is divided into two parts, one side only serves food and coffee, and the other side is where you can smoke hookah and cigarettes. Most of the food and drinks are good, just a little overpriced. The staff was nice, I didn't see anything bad. Overall, I liked it and I think it's better than other cafes and restaurants in the area. Recommended."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "hoda M",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9yshNAX8dnbG8HbQp-pfc7zS-Y0Dm4xCvtie9s8LF1dNRCh6d=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/114660347764443826643/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJSERnb3VkNXJpX2x3RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJSERnb3VkNXJpX2x3RRAB!2m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/reviews/ChdDSUhNMG9nS0VJSERnb3VkNXJpX2x3RRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "من دوست نداشتم، شیک دبل چاکلت خیلی شیرین بود و عالم روش پشمکم گذاشته بودن و آیس آمریکانو هم کافی دریپ بود و شات اسپرسو نزده بودن"
+            },
+            "publishTime": "2025-05-07T10:56:25.523448Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "7 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "I didn't like it, the double chocolate shake was too sweet and had a hint of fluff on it, and the iced Americano was just drip coffee and didn't have a shot of espresso."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ali Emami",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXufhqqT_A_fsEvNqOUSnKcKxBNZp_SKKsZDlUr1t8Zt3CTR7RD=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/110821350621069522800/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfNjh6VUZ3EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfNjh6VUZ3EAE!2m1!1s0x3f8dfd596d5a1fbd:0xf56373a4ba72363f",
+            "name": "places/ChIJvR9abVn9jT8RPzZyuqRzY_U/reviews/ChZDSUhNMG9nS0VJQ0FnSURfNjh6VUZ3EAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "فضایی با انرژی مثبت ، مناسب قرار و جلسه."
+            },
+            "publishTime": "2025-01-27T07:07:46.927272Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "10 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "A space with positive energy, suitable for meetings and appointments."
+            }
+        }
+    ],
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran، خیابان عقیل پلاک 378, Ayatollah Kashani Blvd",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 22,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.730146730291494,
+            "longitude": 51.3180095302915
+        },
+        "low": {
+            "latitude": 35.727448769708495,
+            "longitude": 51.315311569708506
+        }
+    },
+    "websiteUri": "https://instagram.com/bellobistro",
+    "timestamp": 1765104817
+}

@@ -1,0 +1,550 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "fa",
+            "longText": "استان تهران، تهران، منطقه ۲۱، خیابان نبی اکرم (ص"
+        },
+        {
+            "languageCode": "fa",
+            "longText": "،",
+            "shortText": "،",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Azadi Town"
+                },
+                "name": "places/ChIJvfsCs2_8jT8RODV5P-5G0OA",
+                "placeId": "ChIJvfsCs2_8jT8RODV5P-5G0OA"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 21"
+                },
+                "name": "places/ChIJR4Qp0Oj6jT8RPqZojC5qdME",
+                "placeId": "ChIJR4Qp0Oj6jT8RPqZojC5qdME"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "بوستان مریم"
+                },
+                "name": "places/ChIJdUPfom_8jT8Ral-5SMy5acQ",
+                "placeId": "ChIJdUPfom_8jT8Ral-5SMy5acQ"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Nabi Akram Mosque"
+                },
+                "name": "places/ChIJ3U6BjG_8jT8RzcV89sgrtEk",
+                "placeId": "ChIJ3U6BjG_8jT8RzcV89sgrtEk",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 35.90696,
+                "travelDistanceMeters": 29.09239,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shah Tout Confectionary"
+                },
+                "name": "places/ChIJz8Wwj2_8jT8R3Pxr1GwNUfQ",
+                "placeId": "ChIJz8Wwj2_8jT8R3Pxr1GwNUfQ",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 21.236511,
+                "travelDistanceMeters": 35.35665,
+                "types": [
+                    "bakery",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "طب کار و معاینات شغلی شهرک آزادی"
+                },
+                "name": "places/ChIJeydfU2X8jT8RrG0P-3F8lyA",
+                "placeId": "ChIJeydfU2X8jT8RrG0P-3F8lyA",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 136.02736,
+                "travelDistanceMeters": 102.49835,
+                "types": [
+                    "doctor",
+                    "establishment",
+                    "health",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Paytakht Taekwondo House"
+                },
+                "name": "places/ChIJq6pqIm_8jT8RKEHG0oVlgb0",
+                "placeId": "ChIJq6pqIm_8jT8RKEHG0oVlgb0",
+                "straightLineDistanceMeters": 202.32625,
+                "travelDistanceMeters": 213.38991,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "کانون مسجد النبی شهرک آزادی"
+                },
+                "name": "places/ChIJSRm5yC_9jT8RKf5tsN5OtPk",
+                "placeId": "ChIJSRm5yC_9jT8RKf5tsN5OtPk",
+                "straightLineDistanceMeters": 31.485312,
+                "travelDistanceMeters": 139.33038,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-07T19:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 7,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 9,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 10,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 10:30 PM",
+            "Tuesday: 11:00 AM – 10:30 PM",
+            "Wednesday: 11:00 AM – 10:30 PM",
+            "Thursday: 11:00 AM – 10:30 PM",
+            "Friday: 11:00 AM – 10:30 PM",
+            "Saturday: 11:00 AM – 10:30 PM",
+            "Sunday: 11:00 AM – 10:30 PM"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "fa",
+        "text": "کبابی نگین"
+    },
+    "formattedAddress": "Tehran, استان تهران، تهران، منطقه ۲۱، خیابان نبی اکرم (ص، ،، Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd61f55dca57:0x46f8ec68b7fbeb2!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd61f55dca57:0x46f8ec68b7fbeb2!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=319631081961668274&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd61f55dca57:0x46f8ec68b7fbeb2!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd61f55dca57:0x46f8ec68b7fbeb2!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=319631081961668274&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJV8pd9WH9jT8Rsr5_i8aObwQ",
+    "internationalPhoneNumber": "+98 21 4459 8400",
+    "liveMusic": false,
+    "location": {
+        "latitude": 35.710805199999996,
+        "longitude": 51.275213099999995
+    },
+    "name": "places/ChIJV8pd9WH9jT8Rsr5_i8aObwQ",
+    "nationalPhoneNumber": "021 4459 8400",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "plusCode": {
+        "compoundCode": "P76G+83 Tehran, Tehran Province, Iran",
+        "globalCode": "8H7HP76G+83"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "استان تهران، تهران، منطقه ۲۱، خیابان نبی اکرم (ص",
+            "،"
+        ],
+        "languageCode": "en-US",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 5,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-07T19:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 10:30 PM",
+            "Tuesday: 11:00 AM – 10:30 PM",
+            "Wednesday: 11:00 AM – 10:30 PM",
+            "Thursday: 11:00 AM – 10:30 PM",
+            "Friday: 11:00 AM – 10:30 PM",
+            "Saturday: 11:00 AM – 10:30 PM",
+            "Sunday: 11:00 AM – 10:30 PM"
+        ]
+    },
+    "reservable": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "A H",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhWxP1o9w-QIDiYDkqPDx20nafyNSTWdHZ5Os8OmfRF8G0rxjA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/101112246275786689781/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNjNTczQ0VnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNjNTczQ0VnEAE!2m1!1s0x3f8dfd61f55dca57:0x46f8ec68b7fbeb2",
+            "name": "places/ChIJV8pd9WH9jT8Rsr5_i8aObwQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjNTczQ0VnEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Oooff\nHow much yummy it can...."
+            },
+            "publishTime": "2020-04-23T17:34:34.339076Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Oooff\nHow much yummy it can...."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Fatemeh Sharifi",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgIKejO6AarTM0-pClETq3n1_BfiVCqYGSr6jmt8x3Rkmp4Q=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/100803171072301491843/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxbVYxRmxlRkJ6VEVKd1RVbzNjVnAxTVY5ZlRIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxbVYxRmxlRkJ6VEVKd1RVbzNjVnAxTVY5ZlRIYxAB!2m1!1s0x3f8dfd61f55dca57:0x46f8ec68b7fbeb2",
+            "name": "places/ChIJV8pd9WH9jT8Rsr5_i8aObwQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxbVYxRmxlRkJ6VEVKd1RVbzNjVnAxTVY5ZlRIYxAB",
+            "publishTime": "2025-08-28T13:54:28.115276213Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago"
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Hesam Abdolali",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJeOxbjqUdd5jmqrZV6TYzmpeeDIO64EuFOwRK0qNd6909cwAp=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/105492322327106822910/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNXN2Y2MWhnRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNXN2Y2MWhnRRAB!2m1!1s0x3f8dfd61f55dca57:0x46f8ec68b7fbeb2",
+            "name": "places/ChIJV8pd9WH9jT8Rsr5_i8aObwQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXN2Y2MWhnRRAB",
+            "publishTime": "2022-03-04T11:58:32.441926Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 years ago"
+        }
+    ],
+    "servesBrunch": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "استان تهران، تهران، منطقه ۲۱، خیابان نبی اکرم (ص، ،",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 3,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.712110780291496,
+            "longitude": 51.2765511802915
+        },
+        "low": {
+            "latitude": 35.7094128197085,
+            "longitude": 51.2738532197085
+        }
+    },
+    "timestamp": 1765104793
+}

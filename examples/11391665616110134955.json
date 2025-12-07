@@ -1,0 +1,240 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P7V3+775",
+            "shortText": "P7V3+775",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Kuhak Boulevard",
+            "shortText": "Kuhak Blvd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "District 22",
+            "shortText": "District 22",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Kuhak"
+                },
+                "name": "places/ChIJBRpeWmH7jT8Ruz4yFOCetV0",
+                "placeId": "ChIJBRpeWmH7jT8Ruz4yFOCetV0"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shahrak-e-Sadra"
+                },
+                "name": "places/ChIJNdB-hGf7jT8Rjjaaitotz3Y",
+                "placeId": "ChIJNdB-hGf7jT8Rjjaaitotz3Y"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 22"
+                },
+                "name": "places/ChIJad-enSXljT8RkdEMb4fmE3o",
+                "placeId": "ChIJad-enSXljT8RkdEMb4fmE3o"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Gol-e-Yas Islamic Clothing Center"
+                },
+                "name": "places/ChIJ-Ynp61H7jT8RyAeFW9gsAd8",
+                "placeId": "ChIJ-Ynp61H7jT8RyAeFW9gsAd8",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 108.84985,
+                "travelDistanceMeters": 166.40492,
+                "types": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bostan Hotel"
+                },
+                "name": "places/ChIJ1w8K0k_7jT8RVZLG3B5lYfM",
+                "placeId": "ChIJ1w8K0k_7jT8RVZLG3B5lYfM",
+                "straightLineDistanceMeters": 149.7712,
+                "travelDistanceMeters": 242.5536,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Gol Yas Hall"
+                },
+                "name": "places/ChIJI72z4lH7jT8R7VLDJ4Y4wB8",
+                "placeId": "ChIJI72z4lH7jT8R7VLDJ4Y4wB8",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 115.94127,
+                "travelDistanceMeters": 228.3927,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Valiasr"
+                },
+                "name": "places/ChIJwS69R077jT8RwyDBGe5sxpE",
+                "placeId": "ChIJwS69R077jT8RwyDBGe5sxpE",
+                "straightLineDistanceMeters": 185.30269,
+                "travelDistanceMeters": 365.33728,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Gol E Yaas"
+                },
+                "name": "places/ChIJD7HGHE77jT8RMZk464A3soE",
+                "placeId": "ChIJD7HGHE77jT8RMZk464A3soE",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 90.542244,
+                "travelDistanceMeters": 166.9872,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "displayName": {
+        "languageCode": "en",
+        "text": "فرج هات داگ"
+    },
+    "formattedAddress": "Tehran Province, Tehran, District 22, Kuhak Blvd, P7V3+775, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfbb78ce3edb3:0x9e175385b046a6ab!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfbb78ce3edb3:0x9e175385b046a6ab!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=11391665616110134955&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfbb78ce3edb3:0x9e175385b046a6ab!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfbb78ce3edb3:0x9e175385b046a6ab!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=11391665616110134955&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJs-3jjLf7jT8Rq6ZGsIVTF54",
+    "location": {
+        "latitude": 35.7430228,
+        "longitude": 51.2531533
+    },
+    "name": "places/ChIJs-3jjLf7jT8Rq6ZGsIVTF54",
+    "postalAddress": {
+        "addressLines": [
+            "Kuhak Blvd",
+            "P7V3+775"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "District 22"
+    },
+    "primaryType": "fast_food_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Fast Food Restaurant"
+    },
+    "shortFormattedAddress": "Tehran, District 22, Kuhak Blvd, P7V3+775",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.74435063029151,
+            "longitude": 51.254569680291496
+        },
+        "low": {
+            "latitude": 35.74165266970851,
+            "longitude": 51.251871719708504
+        }
+    },
+    "timestamp": 1765104853
+}

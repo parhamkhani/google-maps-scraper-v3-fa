@@ -1,0 +1,379 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "fa",
+            "longText": "استان تهران فردوس غرب بعد از بهار"
+        },
+        {
+            "languageCode": "fa",
+            "longText": "فست فود چیلی",
+            "shortText": "فست فود چیلی",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "P7JP+9G6",
+            "shortText": "P7JP+9G6",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "West Manoochehri",
+            "shortText": "W Manoochehri",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "District 5",
+            "shortText": "District 5",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Kooy-e-Eram"
+                },
+                "name": "places/ChIJHSzCqIz8jT8RWN53UCP2l4Q",
+                "placeId": "ChIJHSzCqIz8jT8RWN53UCP2l4Q"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Popli Khalatbari Technical School for girls"
+                },
+                "name": "places/ChIJa2mzfvP8jT8RS0p95z2YCm8",
+                "placeId": "ChIJa2mzfvP8jT8RS0p95z2YCm8",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 178.40863,
+                "travelDistanceMeters": 115.43208,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "دبستان دخترانه صدرا Sadra Elementary School"
+                },
+                "name": "places/ChIJg3fMQfP8jT8RKc3lXpiwhIA",
+                "placeId": "ChIJg3fMQfP8jT8RKc3lXpiwhIA",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 117.39751,
+                "travelDistanceMeters": 117.29369,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "primary_school",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "دبیرستان متوسطه عصمت"
+                },
+                "name": "places/ChIJndUNc_P8jT8R2digIkggHec",
+                "placeId": "ChIJndUNc_P8jT8R2digIkggHec",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 42.158047,
+                "travelDistanceMeters": 77.55136,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Farik"
+                },
+                "name": "places/ChIJXeQVf0n9jT8RG13OrR4JSC8",
+                "placeId": "ChIJXeQVf0n9jT8RG13OrR4JSC8",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 1.2672694,
+                "travelDistanceMeters": 1.0157146,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "سرای محله ارم"
+                },
+                "name": "places/ChIJkbv2vPb8jT8RhL2fQRQCf_Y",
+                "placeId": "ChIJkbv2vPb8jT8RhL2fQRQCf_Y",
+                "straightLineDistanceMeters": 356.54434,
+                "travelDistanceMeters": 484.85602,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "fa",
+        "text": "فست فود چیلی"
+    },
+    "formattedAddress": "Tehran Province, Tehran, District 5, استان تهران فردوس غرب بعد از بهار، W Manoochehri, P7JP+9G6 فست فود چیلی، Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfdc3bbd23845:0x324dc5eb84131e9f!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdc3bbd23845:0x324dc5eb84131e9f!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=3624770890426949279&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfdc3bbd23845:0x324dc5eb84131e9f!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdc3bbd23845:0x324dc5eb84131e9f!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=3624770890426949279&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJRTjSu8P9jT8Rnx4ThOvFTTI",
+    "internationalPhoneNumber": "+98 44944049",
+    "location": {
+        "latitude": 35.73090930000001,
+        "longitude": 51.2862775
+    },
+    "name": "places/ChIJRTjSu8P9jT8Rnx4ThOvFTTI",
+    "nationalPhoneNumber": "44944049",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "amjad lotfi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4uzrIvawrfRsh7dF0ygeBArrpCCFSj-0MiARDdSVtlyujxca=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116501510503589540860"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDk8rWaSA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDk8rWaSA!2e10!4m2!3m1!1s0x3f8dfdc3bbd23845:0x324dc5eb84131e9f",
+            "heightPx": 459,
+            "name": "places/ChIJRTjSu8P9jT8Rnx4ThOvFTTI/photos/AZLasHoFV9InTUSQniXd6H5faYEtUaNV-dhAvtXsJaakphXfX3pyTRZUIXvROWluYBTFFTH1tubSOW9EQAUJmIk0RzWfgUCcuDnIwB30l0rk-digQ4uXWAilQON4nULHewu-bUfpm5ROZnNxU3Vx12P5q1xUEMuTO_gTr7kxMkV9ou_KzZrkbf_KzntyJi889vPDZdPDl6C0lGrICrqpLnevkk_aUcx2LoQ4jkOCcyNDketD8QOTMsz5MVvkb6bGcnYRskmPO7cUR2dLDRqBV-hDVD3Qgv4KF37F5E1Bwaiu90BJ2tMpeIHT1IVtBigjNYiAps3EYGiPewIkkjx-XvKhhFx2mbHoAyhgbQDSTY4fDxdigB4krhI3qxdau7WaVYEOa9qbSBTV58PqBNZDGh_hxWBwaI4TRqw7_vX08YKju-g2Bw",
+            "widthPx": 612
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "amjad lotfi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4uzrIvawrfRsh7dF0ygeBArrpCCFSj-0MiARDdSVtlyujxca=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116501510503589540860"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDk8rWacA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDk8rWacA!2e10!4m2!3m1!1s0x3f8dfdc3bbd23845:0x324dc5eb84131e9f",
+            "heightPx": 1080,
+            "name": "places/ChIJRTjSu8P9jT8Rnx4ThOvFTTI/photos/AZLasHp3MgT5-fhMdsHC2AXHeGvuMFBx07u9TiLYuWTQfbYWGDit2CskKiia0V-d7mEGzDN-Wq_eSR-H51XSPeI_nCzamjkrgezse3bOOaP1NlM0DwMBZuR_s76N9hubj-Ac3kWCm7zcn8uEu3zXmIW4KNPfqWoLmR9WNxltN80QY3eWUjKaSdW2cZX-kL7uZI2oH2cHjzlK25RXRnQwza2LJOFdVbcz9BO1MtdAeTAzxK_EQc1jbcMMXhjDBaiqfeLdCamZ6VH1YCRk8SJbzRDqcjoqn9niGqeuiMIIdImTe3FTUkQGicYpDP2gux9WoeEXw2Ozy5tujTzvQrv3NkvBFqNkWxJhyDwdjLa24SERGPF8ghbbs4zvCRw5h6KY7xs8tpE0IBuUBAnzUiNBqsZ1Q39kMBlTqs1Mh7G_nB-emUzrFQ",
+            "widthPx": 1920
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "amjad lotfi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4uzrIvawrfRsh7dF0ygeBArrpCCFSj-0MiARDdSVtlyujxca=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116501510503589540860"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDk8rWaCA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDk8rWaCA!2e10!4m2!3m1!1s0x3f8dfdc3bbd23845:0x324dc5eb84131e9f",
+            "heightPx": 459,
+            "name": "places/ChIJRTjSu8P9jT8Rnx4ThOvFTTI/photos/AZLasHpfsg3dtFtFzqwL-C-95c10AAuoEWBo64dbw9_ACZAoEe85PfGIHIwRDp11y19BJHBkhLelhPdTRcJc5uC4Z4q5evHRFS2hiMUgwEZDLu21tDqtGcVo3_HoYSrYtvYB4v2loggJCyWILqvLo3_nH5zwr2zYQ7Q3HMtPeelu0qtMZUtwRTXc4rQCx9H8K6UzH8AtxMKrO_IHKdtcHu8nn0musLi1ikuqw37u7CLZXq48QT8KeO2Fs1xMQGusOzv1XiWTgpe0C3LI7ANVl3vu22EF67v5Ic489KoTS_177QK1JNavN2T6eO47-55maW-ROaq-Y09P_3BU3fsP42ud7fWpb5Jcb_gGYZkBdTgLYoF_OAqbZLPgxioLlS4YHPFQRl5TK-qBhN6-2xcXh-Vn6xZW_uelDD5QJB9q7SMul2E9eA",
+            "widthPx": 612
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "amjad lotfi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4uzrIvawrfRsh7dF0ygeBArrpCCFSj-0MiARDdSVtlyujxca=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116501510503589540860"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk6M_dbg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk6M_dbg!2e10!4m2!3m1!1s0x3f8dfdc3bbd23845:0x324dc5eb84131e9f",
+            "heightPx": 1080,
+            "name": "places/ChIJRTjSu8P9jT8Rnx4ThOvFTTI/photos/AZLasHovp5QMXvSMXHAwvSFc_mxhZYUQXMNpxaMFO0SoZmdIvitMCASL3x7B2zaYtEZKC_YHhMNFYXvF4nalYYAgf9raAkOFQcy88Uxl_ged2r1sfg12Zk7tdZ45Mbry9_3hsZFg1xuijePCu2Ye4KtKCKm-CX-BiGtYBCohGMuPeXa3MGwNPJ-2RP2UOe-tUKCOnp4HUe885_ZmB0rmu_J9i8ZdTQX8vEULCpl5BnaFlKRE95FPWUOWVU57VRbicV_Mc9hPsK_zJ1Tm3Ryea71spAQVs0ToqLMv60PPbJBSXLCQtdm_EJeG4dSom1XLIRM9XkRhS0s89SF_rxSXb9wkZdQ8iMDbXRXoC8L5VTOdd7kyjvj_XYSQR1NzVhzZwb12idjQpZHcRwsa8qxItAOh39Qd1q7IhbVBqyZg6eWJpA4",
+            "widthPx": 1920
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "استان تهران فردوس غرب بعد از بهار",
+            "W Manoochehri",
+            "P7JP+9G6 فست فود چیلی"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "District 5"
+    },
+    "primaryType": "fast_food_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Fast Food Restaurant"
+    },
+    "rating": 4.8,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "M Sh",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5A4kHSh7yWn6z2FA5FG84BxxA2IDmMB2Psom6ziFB6CJuLbI=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/112438495432307469342/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuNFpmY01BEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuNFpmY01BEAE!2m1!1s0x3f8dfdc3bbd23845:0x324dc5eb84131e9f",
+            "name": "places/ChIJRTjSu8P9jT8Rnx4ThOvFTTI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuNFpmY01BEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "تمیز- سریع - بااخلاق"
+            },
+            "publishTime": "2024-09-26T22:39:51.464329Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Clean - Fast - Ethical"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Firouzeh Aghanejad",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHtzKngOtW1nEjHhU277Aqy-Gzw20f2jVb877G4LidO6B35w=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/110729202639287091995/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNNMi1YS21nRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNNMi1YS21nRRAB!2m1!1s0x3f8dfdc3bbd23845:0x324dc5eb84131e9f",
+            "name": "places/ChIJRTjSu8P9jT8Rnx4ThOvFTTI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNMi1YS21nRRAB",
+            "publishTime": "2019-12-07T08:50:50.470380Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "6 years ago"
+        },
+        {
+            "authorAttribution": {
+                "displayName": "amjad lotfi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4uzrIvawrfRsh7dF0ygeBArrpCCFSj-0MiARDdSVtlyujxca=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/116501510503589540860/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMwajZ5dW93RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMwajZ5dW93RRAB!2m1!1s0x3f8dfdc3bbd23845:0x324dc5eb84131e9f",
+            "name": "places/ChIJRTjSu8P9jT8Rnx4ThOvFTTI/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwajZ5dW93RRAB",
+            "publishTime": "2019-10-14T17:11:12.053755Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 years ago"
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Farhang Omidvar",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHFBbwdJ3VMWxNgtbtwPMxzAzbJNbHQ8UVWjPfWOXOTh_CcWJj=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/109966640702297284187/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNvcF9UbzZBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNvcF9UbzZBRRAB!2m1!1s0x3f8dfdc3bbd23845:0x324dc5eb84131e9f",
+            "name": "places/ChIJRTjSu8P9jT8Rnx4ThOvFTTI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvcF9UbzZBRRAB",
+            "publishTime": "2019-03-03T16:46:11.818606Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 years ago"
+        }
+    ],
+    "servesCoffee": false,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, District 5، استان تهران فردوس غرب بعد از بهار, W Manoochehri, P7JP+9G6 فست فود چیلی",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 4,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7322133302915,
+            "longitude": 51.287666880291496
+        },
+        "low": {
+            "latitude": 35.7295153697085,
+            "longitude": 51.2849689197085
+        }
+    },
+    "timestamp": 1765104832
+}

@@ -1,0 +1,356 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P76F+4FQ",
+            "shortText": "P76F+4FQ",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Nabi-ye-Akram Street",
+            "shortText": "Nabi-ye-Akram St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "District 21",
+            "shortText": "District 21",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Azadi Town"
+                },
+                "name": "places/ChIJvfsCs2_8jT8RODV5P-5G0OA",
+                "placeId": "ChIJvfsCs2_8jT8RODV5P-5G0OA"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 21"
+                },
+                "name": "places/ChIJR4Qp0Oj6jT8RPqZojC5qdME",
+                "placeId": "ChIJR4Qp0Oj6jT8RPqZojC5qdME"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "بوستان مریم"
+                },
+                "name": "places/ChIJdUPfom_8jT8Ral-5SMy5acQ",
+                "placeId": "ChIJdUPfom_8jT8Ral-5SMy5acQ"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "طب کار و معاینات شغلی شهرک آزادی"
+                },
+                "name": "places/ChIJeydfU2X8jT8RrG0P-3F8lyA",
+                "placeId": "ChIJeydfU2X8jT8RrG0P-3F8lyA",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 72.67149,
+                "travelDistanceMeters": 70.43663,
+                "types": [
+                    "doctor",
+                    "establishment",
+                    "health",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "خانه بهداشت"
+                },
+                "name": "places/ChIJ_1H1VWX8jT8RzkWcxleWHbU",
+                "placeId": "ChIJ_1H1VWX8jT8RzkWcxleWHbU",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 52.654255,
+                "travelDistanceMeters": 78.06832,
+                "types": [
+                    "establishment",
+                    "health",
+                    "local_government_office",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Nabi Akram Mosque"
+                },
+                "name": "places/ChIJ3U6BjG_8jT8RzcV89sgrtEk",
+                "placeId": "ChIJ3U6BjG_8jT8RzcV89sgrtEk",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 141.81107,
+                "travelDistanceMeters": 128.79703,
+                "types": [
+                    "establishment",
+                    "mosque",
+                    "place_of_worship",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Paytakht Taekwondo House"
+                },
+                "name": "places/ChIJq6pqIm_8jT8RKEHG0oVlgb0",
+                "placeId": "ChIJq6pqIm_8jT8RKEHG0oVlgb0",
+                "straightLineDistanceMeters": 342.15424,
+                "travelDistanceMeters": 371.27933,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shah Tout Confectionary"
+                },
+                "name": "places/ChIJz8Wwj2_8jT8R3Pxr1GwNUfQ",
+                "placeId": "ChIJz8Wwj2_8jT8R3Pxr1GwNUfQ",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 173.2644,
+                "travelDistanceMeters": 193.24606,
+                "types": [
+                    "bakery",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "سوسیس کوچولو"
+    },
+    "formattedAddress": "Tehran Province, Tehran, District 21, Nabi-ye-Akram St, P76F+4FQ, Iran",
+    "goodForChildren": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd2bf50b4da1:0xdeb06b61c9b8dff0!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd2bf50b4da1:0xdeb06b61c9b8dff0!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=16046443540061413360&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd2bf50b4da1:0xdeb06b61c9b8dff0!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd2bf50b4da1:0xdeb06b61c9b8dff0!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=16046443540061413360&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJoU0L9Sv9jT8R8N-4yWFrsN4",
+    "internationalPhoneNumber": "+98 21 4458 8826",
+    "location": {
+        "latitude": 35.710377799999996,
+        "longitude": 51.2735617
+    },
+    "name": "places/ChIJoU0L9Sv9jT8R8N-4yWFrsN4",
+    "nationalPhoneNumber": "021 4458 8826",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Nabi-ye-Akram St",
+            "P76F+4FQ"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "District 21"
+    },
+    "primaryType": "fast_food_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Fast Food Restaurant"
+    },
+    "rating": 5,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "zohreh karimi",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIxT8F-ubWxiYdeYSCYQKnzKSYIzoW9cZkzPuSaPtlNrU0oTA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/118085139092393206757/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURndV9EQ3dnRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURndV9EQ3dnRRAB!2m1!1s0x3f8dfd2bf50b4da1:0xdeb06b61c9b8dff0",
+            "name": "places/ChIJoU0L9Sv9jT8R8N-4yWFrsN4/reviews/ChdDSUhNMG9nS0VJQ0FnTURndV9EQ3dnRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "کیفیت عالی و قیمت مناسب غذاشون و همچنین برخورد محترمانه کادر ما رو مشتری همیشگی خودشون کرده\nتوصیه می کنم حتما یه بار امتحان کنید"
+            },
+            "publishTime": "2025-02-27T19:10:48.901530Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "9 months ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "The excellent quality and reasonable prices of their food, as well as the respectful attitude of the staff, have made us their regular customers. I recommend you give it a try."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ali Aghamiri",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGM7Wz3W3zNNJoEvAcURhEQwlJRPlL9Ysyc6i7LEcc5P6omBt7=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/107804044162453301872/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4Z0p5b1BREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4Z0p5b1BREAE!2m1!1s0x3f8dfd2bf50b4da1:0xdeb06b61c9b8dff0",
+            "name": "places/ChIJoU0L9Sv9jT8R8N-4yWFrsN4/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4Z0p5b1BREAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "یه ساندویچی اقتصادی با کیفیت مناسب. اصلا به فضای کوچیکش و اینکه چندتا خانم اداره اش می کنند نمی خوره ، بعضی وقتها کاملا شلوغ میشه و باید نیم ساعتی صبر کنی تا سفارشت آماده بشه ، طرفداران خودش و داره. اسنک و فلافلش خوبه. بندری هم بدک نیست. البته سوسیسش خوب بود ولی دوست داشتم بیشتر رب و پیاز داشته باشه.\nسمبوسه ها با اصب سمبوسه آبادانی فاصله زیاد داره ولی در کل از ساندویچی های مشابهش تو محل یه سروگردن بالاتره."
+            },
+            "publishTime": "2023-05-07T20:29:39.920166Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "An economical sandwich with decent quality. It doesn't suit its small space and the fact that it is run by a few women. Sometimes it gets really busy and you have to wait half an hour for your order to be ready. It has its fans. The snacks and falafel are good. The port is not bad either. Of course, the sausage was good, but I would have liked it to have more sauce and onions. The samosas are far from the Abadani samosas, but overall they are a cut above similar sandwiches in the area."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "علیرضا ثابتی",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWziQOrBLGrkrGOPeG2yXZPZtJESvxAGftRGKq8EgL4KSF1Dg=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/102967984826499923959/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSOUtYdHdBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSOUtYdHdBRRAB!2m1!1s0x3f8dfd2bf50b4da1:0xdeb06b61c9b8dff0",
+            "name": "places/ChIJoU0L9Sv9jT8R8N-4yWFrsN4/reviews/ChdDSUhNMG9nS0VJQ0FnSURSOUtYdHdBRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "عالیه.ما سرباز بودیم بلوار شیشه مینا هفته ای ۱بار سوسیس کوچولو بودیم\nکیفیت ۲۰\nقیمت ۲۰\nبرخورد و احترام با مشتری ۲۰\nخدا خیرتون بده بمولا 😘"
+            },
+            "publishTime": "2023-04-19T05:46:43.203530Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Great. We were soldiers on Shishe Mina Boulevard, we had little sausages once a week\nQuality 20\nPrice 20\nCustomer service and respect 20\nMay God bless you, Bamla 😘"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "shahryar siamak",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiAejizWsltkPyqhEzghtJgP0zHXU_-r1tryUogiyqsaEEw3mX=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/101532118205862642938/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCdDUyczRBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCdDUyczRBRRAB!2m1!1s0x3f8dfd2bf50b4da1:0xdeb06b61c9b8dff0",
+            "name": "places/ChIJoU0L9Sv9jT8R8N-4yWFrsN4/reviews/ChdDSUhNMG9nS0VJQ0FnSURCdDUyczRBRRAB",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "هر موقع هوس ساندویچ خونگی میکنم و حال ندارمن از اینجا میگیرم کیفیت به نسبت قیمت خیلی بالاست و همیشه از خریدم راضی هستم"
+            },
+            "publishTime": "2023-01-31T10:07:27.687393Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Whenever I crave a homemade sandwich and I don't feel like it, I buy it from here. The quality is very high for the price and I am always satisfied with my purchase."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Sara Rashidi",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKUado0gUNfyakF9hr_KlYNsWFPrsm83yBi0YVT8V9e0KSvgg=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/101616258655704474702/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGdlNEa3pNRXhPWW1aTVEwbzBXV3hQZEU5NlRIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGdlNEa3pNRXhPWW1aTVEwbzBXV3hQZEU5NlRIYxAB!2m1!1s0x3f8dfd2bf50b4da1:0xdeb06b61c9b8dff0",
+            "name": "places/ChIJoU0L9Sv9jT8R8N-4yWFrsN4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGdlNEa3pNRXhPWW1aTVEwbzBXV3hQZEU5NlRIYxAB",
+            "publishTime": "2025-10-26T10:21:05.551951490Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago"
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, District 21, Nabi-ye-Akram St, P76F+4FQ",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 6,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7116756802915,
+            "longitude": 51.274951780291495
+        },
+        "low": {
+            "latitude": 35.7089777197085,
+            "longitude": 51.2722538197085
+        }
+    },
+    "timestamp": 1765104793
+}

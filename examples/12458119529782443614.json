@@ -1,0 +1,363 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province, Tehran, Manuchechri, مجتمع مسکونی فردوس،"
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "P7JP+8F4",
+            "shortText": "P7JP+8F4",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Kooy-e-Eram"
+                },
+                "name": "places/ChIJHSzCqIz8jT8RWN53UCP2l4Q",
+                "placeId": "ChIJHSzCqIz8jT8RWN53UCP2l4Q"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Popli Khalatbari Technical School for girls"
+                },
+                "name": "places/ChIJa2mzfvP8jT8RS0p95z2YCm8",
+                "placeId": "ChIJa2mzfvP8jT8RS0p95z2YCm8",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 176.0053,
+                "travelDistanceMeters": 100.89877,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "دبستان دخترانه صدرا Sadra Elementary School"
+                },
+                "name": "places/ChIJg3fMQfP8jT8RKc3lXpiwhIA",
+                "placeId": "ChIJg3fMQfP8jT8RKc3lXpiwhIA",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 102.90044,
+                "travelDistanceMeters": 102.76039,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "primary_school",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "دبیرستان متوسطه عصمت"
+                },
+                "name": "places/ChIJndUNc_P8jT8R2digIkggHec",
+                "placeId": "ChIJndUNc_P8jT8R2digIkggHec",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 35.218742,
+                "travelDistanceMeters": 63.018055,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Farik"
+                },
+                "name": "places/ChIJXeQVf0n9jT8RG13OrR4JSC8",
+                "placeId": "ChIJXeQVf0n9jT8RG13OrR4JSC8",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 15.565016,
+                "travelDistanceMeters": 15.549017,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Luxurious tower of Narcissus flower"
+                },
+                "name": "places/ChIJbTDVq2v9jT8R1vTTgu2nXCI",
+                "placeId": "ChIJbTDVq2v9jT8R1vTTgu2nXCI",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 81.34062,
+                "travelDistanceMeters": 80.94412,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "fa",
+        "text": "کبابی سعید"
+    },
+    "formattedAddress": "Tehran, Tehran Province, Tehran, Manuchechri, مجتمع مسکونی فردوس،, P7JP+8F4, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfdecde2d2fed:0xace421b4d609fe5e!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdecde2d2fed:0xace421b4d609fe5e!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=12458119529782443614&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfdecde2d2fed:0xace421b4d609fe5e!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfdecde2d2fed:0xace421b4d609fe5e!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=12458119529782443614&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ7S8t3uz9jT8RXv4J1rQh5Kw",
+    "internationalPhoneNumber": "+98 21 4415 8710",
+    "liveMusic": false,
+    "location": {
+        "latitude": 35.7307741,
+        "longitude": 51.2861997
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJ7S8t3uz9jT8RXv4J1rQh5Kw",
+    "nationalPhoneNumber": "021 4415 8710",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mahsa",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2OyiLrZcWwYxPIIucBPCsz3fPV-1wU0E-KoblPN0u8IMjE0qc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107566641345764539093"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE-oPeVA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE-oPeVA!2e10!4m2!3m1!1s0x3f8dfdecde2d2fed:0xace421b4d609fe5e",
+            "heightPx": 4032,
+            "name": "places/ChIJ7S8t3uz9jT8RXv4J1rQh5Kw/photos/AZLasHrGuCXQlAZkH4395IG5lT2eYWk21gHLcft4Bw2tsVktYyijNxYpcabndjk6etkg7xPQT4g3XKrpaAAMP5fRVabV_BnOso3K1kG5yV-J7kbfehUEIVT1IclqoR1zraBebPWzQ41kg6xZZwt73MYimv4s_8Zjds2kDdvn9O0EmgvBYoXXeZQy_ad3UnyKld4_d2hAqD0BOJFGVfagoyD4_eze62b_XkBOD-McjTwktdRCjAFTGRAiDed4LzQp2TCkQe4hCMiV2YsdnxJfyTBmrvt6YY6oD_gLerzTuEr7Hlb_mSa-W3TY31rQvQcH0pqGdEYrBftQ8PoCbi11ahAVuttJ0lxQH63uDzY4Pes9gI2CF0lQkvANsb8Trz1aYgz9Oy1sQRoPqXs2EzdLxjiSXzKL-XJip_N-5GK6FPRYPXiwSA",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mahsa",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2OyiLrZcWwYxPIIucBPCsz3fPV-1wU0E-KoblPN0u8IMjE0qc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107566641345764539093"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE-oPbigE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE-oPbigE!2e10!4m2!3m1!1s0x3f8dfdecde2d2fed:0xace421b4d609fe5e",
+            "heightPx": 4032,
+            "name": "places/ChIJ7S8t3uz9jT8RXv4J1rQh5Kw/photos/AZLasHrPksg2R5u9M-F9ktUbRLBDSh3MJFHTw98fyF91_4-znBAjbwMJwSQdVyNzc3RkkB880Bg8HFJ8vFvlPNwBu4Epm42N8wDC2xR9exwIawl4bOgTabWj_DlkVQnB8xRzrlHoEKT0YhToUg1V7nL34l0Ao4e7BSq0soyYEnuHTLFh_LY9yLSNEgMI_pt9u34AwxCNwdCPhpdWEKvzgbcSNGuVEq9y0jZiyW3jxsSyKHrduBSEOPvIr_XHVBMs3TCQObE-DiFI-Ya3pt5xGW0EvxcGHmANTgn4QPELtAk6TYv-a-9eI9jO7ICyrTouOQOdQ5x5PemoWEujHxjEfwt58cg1IP7gXpaUWXtLoHKMkKiVXUb39tjiT91OqXU-HpfAa0fIvGNBJLAtBcrPH86SqGyK-YO6VeepuDyL0yN-4WuPz8Gz",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Navid Davani",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWs3vGq4utQc1iUX-9uXvpvcvYIgztAoDQNlO-QySR4bhfbEja6GA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111605639861971023884"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEg7OyDQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEg7OyDQ!2e10!4m2!3m1!1s0x3f8dfdecde2d2fed:0xace421b4d609fe5e",
+            "heightPx": 4160,
+            "name": "places/ChIJ7S8t3uz9jT8RXv4J1rQh5Kw/photos/AZLasHoaenJtqM7bWFosvUuEhLmtiwoqFChfqGcpncsTUy5T6PU8185RxxfzeJ219VGdCxyLj711rUmjjsS39gkw8UaVB7L721eW2uiCzwoQEkbBSCv4_rssHdha293_VDcXRufmj3G1c_lyOC_sIN4uEqumAc9l_ex-OQzXqNL7cptKORq0Ip5-32cdsgxYvECoTl-1exLaarrCnaAa3h9kaQ3tVm3ZpZJbn7wNRyHnvFy9JVO6LSZTYoAh23vMDvw7SfndDo6J69_dEkbp0_SX5a2fMEVAXTEZCWCak1rjmNnyQxvuj7cyh5h_cF1jucS8X_0qdABRMjhtPqFSyirX4qBzTDywPtJbrhgO2kgLnt-2K6lJ3XJjjh33bYYI_I5GJoF_M6qCCeLj0RJuwpw6mNj2Y4IBDT1k6o41sGldSwqOag",
+            "widthPx": 2340
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Navid Davani",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWs3vGq4utQc1iUX-9uXvpvcvYIgztAoDQNlO-QySR4bhfbEja6GA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111605639861971023884"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEg_OUNw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEg_OUNw!2e10!4m2!3m1!1s0x3f8dfdecde2d2fed:0xace421b4d609fe5e",
+            "heightPx": 4160,
+            "name": "places/ChIJ7S8t3uz9jT8RXv4J1rQh5Kw/photos/AZLasHrHCPRoGMoK5257-HULYwr0JecIrisK0xw60D2PHGGWsT-DAXyOei2BDcPEOwlyLeRvLHaMBvscrFVTVBOz7qIS4szL270w829-W6iX7apUuAEeVzFvDGaPzQ1MaGm5XK2GNowIgdJNuxCc9UuaKGVwAY7db9-rEp7k-ri8cUBHnUTtOD1TOu0EB-_Aia8ZnL_To3gN0fKVZTGmSKkck81q1emoZnJS0FIR1BzeL71dsGsz2cSopLk-FO_0zdjO6h6oi9d7rmnM123Q8OzMEC9L5mhtL9agj6B2JFW5ckqzcVxLVKikDZq2aTv9qRdTJJh5juBbPUSAbJq5aRN01PBinhiS8yglNLmAlnwBCCnu14ZgbYVPm49YWAs9IF3nnraELglNiooiC3u735CsjVqCVIJ7PnHx0q8jkkMIgcAzsQ",
+            "widthPx": 2340
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Navid Davani",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWs3vGq4utQc1iUX-9uXvpvcvYIgztAoDQNlO-QySR4bhfbEja6GA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111605639861971023884"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEg5vIpwE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEg5vIpwE!2e10!4m2!3m1!1s0x3f8dfdecde2d2fed:0xace421b4d609fe5e",
+            "heightPx": 2340,
+            "name": "places/ChIJ7S8t3uz9jT8RXv4J1rQh5Kw/photos/AZLasHrW_OtwFomK3oixFrU3H81WZu8WNaAfsF3uGiRQGphNcTTqw6QOtZ7GaSBapEWt3t9R-ZNpBf3zvfoG4RoJKZAkhoxG5KuE6Sf8ZKTAXmoWctfiB2bUK1poB0prF3t0qyPBK_-d596fbRWjfJ47Mv-iy9VqdTJSJvsAutx-HYfjz09Qst0mGe4wub6sWPFmk5vSPjrnO3PnXZFo8JFOMYGkXOPwxD9s2naAhxgHvXIWqB826rlEGyNp4AOsjycbBJTAnrK_ng-96TrGyjzFX5Je8ww0J9N2qIfiIk477f7T8zntmd7jku9k1L4Wc1l9RO6PIHRdv8L-oORJ34dOaRZbayDnvGg7AF-Sk8Fa5tLuWHeyeaxT-jGme4FmzfVFeTYMrFL2Npb1jEQDPY_x6uqsdSWOvGipPnx9VkhQ1Eu-KnI1",
+            "widthPx": 4160
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mahsa",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2OyiLrZcWwYxPIIucBPCsz3fPV-1wU0E-KoblPN0u8IMjE0qc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107566641345764539093"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE-oPd4gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE-oPd4gE!2e10!4m2!3m1!1s0x3f8dfdecde2d2fed:0xace421b4d609fe5e",
+            "heightPx": 4032,
+            "name": "places/ChIJ7S8t3uz9jT8RXv4J1rQh5Kw/photos/AZLasHp3afUybZkLgA3O3H0-ELQIntr4mkE2gZn5ZDcZE2FALUB7CsDiNLYxXNF4vQLNbhhbSZFKj9Th564BkFcT4-1p7yTaCuNkvN4IJ_0bmKHZIDrC1owJx28N4RFo1QUabaM-i6DGRjadiuwyduEImmQmTj7TZP3XaCntByoO-QHDw54D4inPmDfPpwQ5UyPorfJRrlgXt1bp0NtN5AvCBiSV0owGar7aFeE_Pm5B7aIBgHvKEnnMdVHK5gfNFJ2_WoftfQIUloH3Tq1_CkYCd_qzzxxlFR8h5xjQ1uny2MfT622HJUl5UKfYHxts41J6IVMafiisGUCtWwDPJ8XYjAy5L9RpIK8m3ihvoMOdEepPfC2y8LcwN-AVGSwVxyaUzafjejT1lqEFNLToSczw4NihajNl2gABkFFPrJDKh3zLmYw",
+            "widthPx": 3024
+        }
+    ],
+    "postalAddress": {
+        "addressLines": [
+            "Tehran Province, Tehran, Manuchechri, مجتمع مسکونی فردوس،",
+            "P7JP+8F4"
+        ],
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 3.7,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Shahin",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWltUt0b58jtSaLZDNl7dIq3qvoUDZYDTnilXdtLHUGqI7Ats0o=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/101004741241284002794/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURxaE15LUd3EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURxaE15LUd3EAE!2m1!1s0x3f8dfdecde2d2fed:0xace421b4d609fe5e",
+            "name": "places/ChIJ7S8t3uz9jT8RXv4J1rQh5Kw/reviews/ChZDSUhNMG9nS0VJQ0FnSURxaE15LUd3EAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "کوبیدهای خوشمزه و لذیذی سرو می کند"
+            },
+            "publishTime": "2021-06-28T17:13:54.459614Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "4 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Serves delicious and mouth-watering kubids"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Majid Rostami",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXI_RIe7-2vJLhg4BGzXSM9l_HN4PHGN-2QElo2FxIuVHUW6HMI=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/107231710944759018502/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURJNmU3UE5nEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURJNmU3UE5nEAE!2m1!1s0x3f8dfdecde2d2fed:0xace421b4d609fe5e",
+            "name": "places/ChIJ7S8t3uz9jT8RXv4J1rQh5Kw/reviews/ChZDSUhNMG9nS0VJQ0FnSURJNmU3UE5nEAE",
+            "originalText": {
+                "languageCode": "fa",
+                "text": "غذا مناسبی دارد"
+            },
+            "publishTime": "2019-01-11T11:05:39.415495556Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 years ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "It has good food."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Navid Davani",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWs3vGq4utQc1iUX-9uXvpvcvYIgztAoDQNlO-QySR4bhfbEja6GA=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/111605639861971023884/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURrdVBMeTV3RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURrdVBMeTV3RRAB!2m1!1s0x3f8dfdecde2d2fed:0xace421b4d609fe5e",
+            "name": "places/ChIJ7S8t3uz9jT8RXv4J1rQh5Kw/reviews/ChdDSUhNMG9nS0VJQ0FnSURrdVBMeTV3RRAB",
+            "publishTime": "2019-06-24T07:32:13.631650Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "6 years ago"
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Tehran, Tehran Province, Tehran, Manuchechri, مجتمع مسکونی فردوس،, P7JP+8F4",
+    "takeout": true,
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 3,
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.732116830291496,
+            "longitude": 51.28755433029149
+        },
+        "low": {
+            "latitude": 35.729418869708496,
+            "longitude": 51.2848563697085
+        }
+    },
+    "timestamp": 1765104832
+}

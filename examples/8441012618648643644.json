@@ -1,0 +1,239 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "P7RH+4Q4",
+            "shortText": "P7RH+4Q4",
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Andisheh",
+            "shortText": "Andisheh",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran",
+            "shortText": "Tehran",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tehran Province",
+            "shortText": "Tehran Province",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Iran",
+            "shortText": "IR",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Andisheh"
+                },
+                "name": "places/ChIJoeLBy7v8jT8R3TImdMbaBv0",
+                "placeId": "ChIJoeLBy7v8jT8R3TImdMbaBv0"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "District 5"
+                },
+                "name": "places/ChIJj6MsOh79jT8R4iZ5d5Vukqk",
+                "placeId": "ChIJj6MsOh79jT8R4iZ5d5Vukqk"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Kooy-e-Eram"
+                },
+                "name": "places/ChIJHSzCqIz8jT8RWN53UCP2l4Q",
+                "placeId": "ChIJHSzCqIz8jT8RWN53UCP2l4Q"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Housing Cooperative Organization Municipal Services Engine"
+                },
+                "name": "places/ChIJE01XCpX8jT8RezAU1rGqYUg",
+                "placeId": "ChIJE01XCpX8jT8RezAU1rGqYUg",
+                "straightLineDistanceMeters": 200.45851,
+                "travelDistanceMeters": 334.9431,
+                "types": [
+                    "establishment",
+                    "local_government_office",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "موسسه تخصصی خطابه امیر بیان (دفتر غرب تهران)"
+                },
+                "name": "places/ChIJ-Yw3FIn9jT8RNRLmcQYPowE",
+                "placeId": "ChIJ-Yw3FIn9jT8RNRLmcQYPowE",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 23.125044,
+                "travelDistanceMeters": 19.101315,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Tarannom Park"
+                },
+                "name": "places/ChIJs1kKBwD9jT8RsdO26hn-yqo",
+                "placeId": "ChIJs1kKBwD9jT8RsdO26hn-yqo",
+                "straightLineDistanceMeters": 107.43208,
+                "travelDistanceMeters": 190.32703,
+                "types": [
+                    "establishment",
+                    "park",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Deniz Supermarket"
+                },
+                "name": "places/ChIJq9XSFJX8jT8RrQsZeL2gD6I",
+                "placeId": "ChIJq9XSFJX8jT8RrQsZeL2gD6I",
+                "straightLineDistanceMeters": 315.14774,
+                "travelDistanceMeters": 489.17355,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "fa",
+                    "text": "گیم نت CR7"
+                },
+                "name": "places/ChIJfx6i8EL9jT8RrwlG8zJDg0A",
+                "placeId": "ChIJfx6i8EL9jT8RrwlG8zJDg0A",
+                "straightLineDistanceMeters": 204.2453,
+                "travelDistanceMeters": 455.0283,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJ280vH6b9jT8R1KlxfDRn2bA",
+            "name": "places/ChIJ280vH6b9jT8R1KlxfDRn2bA"
+        }
+    ],
+    "displayName": {
+        "languageCode": "fa",
+        "text": "آشپزخانه خانگی محمد"
+    },
+    "formattedAddress": "P7RH+4Q4 Andisheh, Tehran, Tehran Province, Iran",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3f8dfd0027592223:0x752480411724683c!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd0027592223:0x752480411724683c!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=8441012618648643644&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3f8dfd0027592223:0x752480411724683c!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3f8dfd0027592223:0x752480411724683c!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=8441012618648643644&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJIyJZJwD9jT8RPGgkF0GAJHU",
+    "liveMusic": false,
+    "location": {
+        "latitude": 35.740370899999995,
+        "longitude": 51.2794983
+    },
+    "name": "places/ChIJIyJZJwD9jT8RPGgkF0GAJHU",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "postalAddress": {
+        "addressLines": [
+            "P7RH+4Q4"
+        ],
+        "administrativeArea": "Tehran Province",
+        "languageCode": "en-US",
+        "locality": "Tehran",
+        "regionCode": "IR",
+        "sublocality": "Andisheh"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "P7RH+4Q4 Andisheh, Tehran",
+    "timeZone": {
+        "id": "Asia/Tehran"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 210,
+    "viewport": {
+        "high": {
+            "latitude": 35.7416469802915,
+            "longitude": 51.2807928302915
+        },
+        "low": {
+            "latitude": 35.7389490197085,
+            "longitude": 51.278094869708504
+        }
+    },
+    "timestamp": 1765104832
+}
